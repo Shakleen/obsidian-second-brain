@@ -11,10 +11,14 @@
             "id": "564b16a9aa5ded99",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2025-10-22_20g-creatine-for-60-days.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-10-22_20g-creatine-for-60-days"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2176788686d16c39",
@@ -176,6 +179,10 @@
   },
   "active": "564b16a9aa5ded99",
   "lastOpenFiles": [
+    "assets/Pasted image 20251022182738.png",
+    "assets",
+    "inbox/2025-10-22_20g-creatine-for-60-days.md~",
+    "inbox/2025-10-22_20g-creatine-for-60-days.md",
     "inbox/2025-10-22_Ph.D.-Students-Must-Break-Away-From-Undergraduate-Mentality.md~",
     "inbox/2025-10-22_HOWTO:-Get-into-grad-school-for-science,-engineering,-math-and-computer-science.md",
     "inbox/2025-10-22_The-Heilmeier-Catechism.md~",
