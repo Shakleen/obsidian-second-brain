@@ -1,5 +1,5 @@
 --- 
-date: {{date}}
+created at: {{date}}
 tags:
   - 
 hubs:
