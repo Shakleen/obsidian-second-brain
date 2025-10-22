@@ -93,3 +93,69 @@ Read also [[2025-10-22_Ph.D.-Students-Must-Break-Away-From-Undergraduate-Mentali
 * Part of earning a Ph.D. is building a “thick skin” so you are not so fragile that you will give up at the first sign on any difficulties.
 
 * One lesson I learned as a graduate student is the best way to finish the dissertation is to do something every day that gets you closer to being done. If all you have left is writing, then write part of the dissertation every day. If you still have research to do, then do part of it every day.
+
+## Flexibility
+
+* In general, you will be in the position of reacting to big events rather than controlling them. Therefore, you must be flexible in your approach and research program.
+
+* Events can be good as well as bad. The difference between the highly effective graduate student and the average one is that the former recognizes those opportunities and takes advantage of them.
+
+## Interpersonal Skills 
+
+* Your success in graduate school and beyond depends a great deal upon your ability to build and maintain interpersonal relationships
+
+* In both graduate school and in business, you must depend upon and work with other people to achieve your goals.
+
+* Basically, respect other people's time, skill, and effort.
+  - Offer to buy coffee or dinner or maybe sport tickets.
+  - Work on your own first before asking for someone's help. Collaborate but pull your own weight as much as possible.
+
+* Read *7 Habits of Highly Effective People* Book. Summary can be found here: [[2025-10-22_7-Habits-of-Highly-Effective-People|7 Habits of Highly Effective People]] 
+
+## Organizational Skills 
+
+> One metaphor I found useful is the following: Organize your tasks as if you were juggling them. Juggling several balls requires planning and skill. You must grab and toss each ball before it hits the ground. You can only toss one ball at a time, just as you can only work on one task at a time. The order in which you toss the balls is crucial, much as the order of working on tasks often determines whether or not you meet all your deadlines. Finally, once you start a task (grab a ball) you want to get enough done so you can ignore it for a while (throw it high enough in the air so it won’t come down for a while). Otherwise you waste too much time in context switches between tasks. Do you see jugglers try to keep each ball at the same height above the ground, frantically touching every ball every second?
+
+[Watch this video](https://www.youtube.com/watch?v=oTugjssqOT0) for time management techniques.
+
+## Taking advantage of opportunities 
+
+* How to get something from people of power? **Get noticed in a positive way**.
+
+* If someone does something that shows potential or catches my attention, I am much more willing to invest time in such a person or to steer opportunities his or her way.
+
+* Don’t go around demanding to be mentored or to receive opportunities. Show that you are worth it, make sure that people in positions to grant things are aware of your potential, and when you get opportunities, put in the necessary effort.
+
+## Communication Skills 
+
+* Being able to communicate well is nearly at the top of the list for being successful.
+
+* This skill is learnt through practice. **Attend research luncheons to give informal talks on a paper or subject**.
+
+* Finally, don’t forget to communicate with your professors and your teammates. Keep your committee appraised of your progress. One thing I do (which few others do) is write short (1 screenfull) status reports, which I religiously e-mailed to my professors and team members on a weekly basis. I also throw in a different humorous quote at the end of each week’s report to reward people for reading it.
+
+* Additional reading:
+  * [[2025-10-22_how-to-deliver-exceptional-presentations|how to Deliver Exceptional Presentations]]
+  * [Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287?ie=UTF8&qid=1412373009&sr=8-1&keywords=made+to+stick)
+## Choosing an advisor and a committee 
+
+> Your advisor must be someone who can cover your area of specialization and someone you can get along with. The relationship itself can be close or distant.
+
+* Tenured or Non-tenured advisor?
+  * Non-tenured 
+    - More involved with supervising
+    - More time on their hand 
+    - Travel less 
+    - Typically more hardworking and their ethic formulates the lab culture
+    - Not as much funding 
+    - Risks leaving the university, leaving you behind
+  * Tenured 
+    - Way more funding 
+    - Way more traveling and connections 
+    - More experienced with how the PhD game works
+
+* If circumstances change to make another professor a more appropriate match to your needs, don’t be afraid to switch if that is an overall win.
+
+* When picking a committee, you want to make sure they can cover all areas of your thesis. You also want to make sure that it is likely that all the committee members will be available for meetings!
+
+## Balance and Perspective
