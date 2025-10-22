@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f443130f1c65e3f3",
+        "id": "ce394f4d276e5742",
         "type": "tabs",
         "children": [
           {
-            "id": "c18b36d23fc7dcfa",
+            "id": "930667be69672ad7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2176788686d16c39",
@@ -173,6 +174,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c18b36d23fc7dcfa",
-  "lastOpenFiles": []
+  "active": "930667be69672ad7",
+  "lastOpenFiles": [
+    "inbox/2025-10-22_A-graduate-school-survival-guide.md",
+    "Ph.D. Students Must Break Away From Undergraduate Mentality.md",
+    "inbox/2025-10-22_A-graduate-school-survival-guide.md~",
+    "inbox/2025-10-22_HOWTO:-Get-into-grad-school-for-science,-engineering,-math-and-computer-science.md~",
+    "inbox/2025-10-22_HOWTO:-Get-into-grad-school-for-science,-engineering,-math-and-computer-science.md",
+    "inbox/2025-10-22_Ph.D.-Students-Must-Break-Away-From-Undergraduate-Mentality.md~",
+    "inbox/2025-10-22_Ph.D.-Students-Must-Break-Away-From-Undergraduate-Mentality.md",
+    "templates/note.md",
+    "inbox/2025-10-22_a-graduate-school-survival-guide.md",
+    "templates/note.md~"
+  ]
 }
