@@ -1,7 +1,7 @@
 --- 
 created at: 2025-10-22
 tags:
-  - 
+  - self-improvement
 hubs:
   - "[[]]"
 urls:

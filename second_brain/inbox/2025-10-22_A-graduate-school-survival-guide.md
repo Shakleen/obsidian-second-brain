@@ -159,3 +159,18 @@ Read also [[2025-10-22_Ph.D.-Students-Must-Break-Away-From-Undergraduate-Mentali
 * When picking a committee, you want to make sure they can cover all areas of your thesis. You also want to make sure that it is likely that all the committee members will be available for meetings!
 
 ## Balance and Perspective
+
+1. Exercise 
+1. Eat well 
+1. Sleep well 
+1. Do fun things to recharge 
+
+## The PhD Job Hunt 
+
+* Try to get yourself noticed by professors and industry people at other sites. One way to do this is to offer to give a talk about your work at another site.
+
+* Attending conferences and working elsewhere during the summer are other ways to get exposure.
+
+* Make and carry your own business cards. 
+
+* Schmooze with important visitors during major site visits.
