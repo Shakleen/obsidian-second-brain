@@ -11,14 +11,10 @@
             "id": "5479cc9827f6b307",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2025-10-22_Randy-Pausch-Lecture:-Time-Management.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-10-22_Randy-Pausch-Lecture:-Time-Management"
+              "title": "New tab"
             }
           }
         ]
@@ -164,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,6 +176,16 @@
   },
   "active": "5479cc9827f6b307",
   "lastOpenFiles": [
+    "2025-10-22_7-Habits-of-Highly-Effective-People.md",
+    "2025-10-22_how-to-deliver-exceptional-presentations.md",
+    "inbox/2025-10-22_Randy-Pausch-Lecture:-Time-Management.md",
+    "2025-10-22_Randy-Pausch-Lecture:-Time-Management.md",
+    "2025-10-22_The-Heilmeier-Catechism.md",
+    "2025-10-22_HOWTO:-Get-into-grad-school-for-science,-engineering,-math-and-computer-science.md",
+    "2025-10-22_A-graduate-school-survival-guide.md",
+    "2025-10-22_daily.md",
+    "2025-10-22_Ph.D.-Students-Must-Break-Away-From-Undergraduate-Mentality.md",
+    "2025-10-22_20g-creatine-for-60-days.md",
     "inbox/2025-10-22_Ph.D.-Students-Must-Break-Away-From-Undergraduate-Mentality.md~",
     "saved",
     "inbox/2025-10-22_daily.md~",
@@ -204,7 +209,6 @@
     "inbox/2025-10-22_A-graduate-school-survival-guide.md",
     "inbox/2025-10-22_7-Habits-of-Highly-Effective-People.md",
     "inbox/2025-10-22_how-to-send-and-reply-to-emails.md",
-    "inbox/2025-10-22_A-graduate-school-survival-guide.md~",
     "inbox/2025-10-22_how-to-deliver-exceptional-presentations.md",
     "Ph.D. Students Must Break Away From Undergraduate Mentality.md",
     "inbox/2025-10-22_Ph.D.-Students-Must-Break-Away-From-Undergraduate-Mentality.md",
