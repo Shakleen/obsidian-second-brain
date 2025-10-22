@@ -42,3 +42,6 @@ urls:
 13. If you have gaps between two classes, make up a **"Fake class"** which is basically go to a specific location, and get some work done.
 14. Work when you should be working, so you can go home and rest.
 15. Make up fake deadlines. Try never to go beyond your fake deadline. This means you don't wait until your actual deadline to get your work done.
+16. Delegate work when required:
+  1. Do the ugliest thing yourself.
+  2. Give whoever you're delegating to the power and resources to do the work.
