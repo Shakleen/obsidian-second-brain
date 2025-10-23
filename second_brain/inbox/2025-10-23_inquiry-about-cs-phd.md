@@ -13,20 +13,10 @@ urls:
 ## Mentor
 
 1. Who was your mentor?
-2. What are the advisor's expectations for hours worked (e.g., in the lab, remotely)? Do they enforce a specific schedule?
-3. When you submit a paper draft, what is the typical turnaround time for them to return feedback?
-4. What are the advisor's expectations for hours worked (e.g., in the lab, remotely)? Do they enforce a specific schedule?
-5. Does the advisor's grant funding cover conference travel automatically, or do you have to budget and petition for each trip?
-6. What is the general expectation for taking an internship during the PhD—is it encouraged, or does it depend heavily on your current progress?
-7. What is a realistic paper publication rate they expect from their students (e.g., one per year, or focusing on high-tier venues)?
-8. How do they react to failures or projects that don't pan out? Is the focus on the learning process or on the final result?
-9. How collaborative is the research group? Are you expected to work with other students on projects, or is your work mostly solo?
-
-## Research Topic
-
-1. What's the process of defining a research topic?
-2. Will advisor help with determining a research topic?
-3. What's the timeframe for major milestones? (e.g. qualifying exam, proposal defence, final defence, etc.)
+2. Does the advisor's grant funding cover conference travel automatically, or do you have to budget and petition for each trip?
+3. What is the general expectation for taking an internship during the PhD—is it encouraged, or does it depend heavily on your current progress?
+4. What is a realistic paper publication rate they expect from their students (e.g., one per year, or focusing on high-tier venues)?
+5. How do they react to failures or projects that don't pan out? Is the focus on the learning process or on the final result?
 
 ## Coursework
 
