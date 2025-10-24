@@ -11,10 +11,14 @@
             "id": "2628b581d26afcfb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2025-10-24_Research-workflow-as-a-PhD-student-in-the-Humanities.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-10-24_Research-workflow-as-a-PhD-student-in-the-Humanities"
             }
           }
         ]
@@ -176,6 +180,8 @@
   },
   "active": "2628b581d26afcfb",
   "lastOpenFiles": [
+    "inbox/2025-10-24_From-references-to-fleeting-notes:-Zotero-and-Zotero-plug-ins.md~",
+    "inbox/2025-10-24_From-references-to-fleeting-notes:-Zotero-and-Zotero-plug-ins.md",
     "inbox/2025-10-23_my-weaknesses.md",
     "inbox/2025-10-23_Andrej-Karpathy---How-I-use-LLMs.md~",
     "inbox/2025-10-23_my-weaknesses.md~",
@@ -213,7 +219,6 @@
     "inbox/2025-10-22_7-Habits-of-Highly-Effective-People.md",
     "inbox/2025-10-22_how-to-send-and-reply-to-emails.md",
     "inbox/2025-10-22_how-to-deliver-exceptional-presentations.md",
-    "Ph.D. Students Must Break Away From Undergraduate Mentality.md",
-    "inbox/2025-10-22_Ph.D.-Students-Must-Break-Away-From-Undergraduate-Mentality.md"
+    "Ph.D. Students Must Break Away From Undergraduate Mentality.md"
   ]
 }
