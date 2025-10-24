@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cd062f55bed04970",
+        "id": "1345845be78de0b8",
         "type": "tabs",
         "children": [
           {
-            "id": "5479cc9827f6b307",
+            "id": "2628b581d26afcfb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2025-10-23_my-weaknesses.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-10-23_my-weaknesses"
+              "title": "New tab"
             }
           }
         ]
@@ -178,11 +174,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5479cc9827f6b307",
+  "active": "2628b581d26afcfb",
   "lastOpenFiles": [
-    "inbox/2025-10-23_my-weaknesses.md~",
     "inbox/2025-10-23_my-weaknesses.md",
     "inbox/2025-10-23_Andrej-Karpathy---How-I-use-LLMs.md~",
+    "inbox/2025-10-23_my-weaknesses.md~",
     "hubs/productivity.md",
     "inbox/2025-10-23_Andrej-Karpathy---How-I-use-LLMs.md",
     "inbox/2025-10-23_daily.md~",
@@ -212,7 +208,6 @@
     "assets/Pasted image 20251022182738.png",
     "assets",
     "inbox/2025-10-22_HOWTO:-Get-into-grad-school-for-science,-engineering,-math-and-computer-science.md",
-    "inbox/2025-10-22_The-Heilmeier-Catechism.md~",
     "inbox/2025-10-22_The-Heilmeier-Catechism.md",
     "inbox/2025-10-22_A-graduate-school-survival-guide.md",
     "inbox/2025-10-22_7-Habits-of-Highly-Effective-People.md",
