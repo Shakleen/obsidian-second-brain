@@ -8,6 +8,7 @@ urls:
   - https://martinezponciano.es/2021/04/05/research-workflow-as-a-phd-student-in-the-humanities/
   - https://martinezponciano.es/2021/04/05/from-references-to-fleeting-notes-zotero-and-zotero-plug-ins/
   - https://martinezponciano.es/2021/04/05/from-fleeting-notes-to-literature-notes-obsidian/
+  - https://martinezponciano.es/2021/04/05/from-literature-notes-to-permanent-notes-obsidian/
 ---
 
 # Research workflow as a PhD student in the Humanities
@@ -44,8 +45,37 @@ Follows [[2025-10-25_The-Zettelkasten-Method|The zettelkasten Method]] for keepi
 
 ## [Step 2: From fleeting notes to literature ntoes][3]
 
+1. Use [Zotfiles](https://github.com/argenos/zotero-mdnotes) to manage attachments and annotations.
+2. Use [Obsidian](https://obsidian.md/) Zotero-integration plug-in to import zotero annotations.
+3. Create a note to summarize the findings from the article or paper or book. Where the note references items from zotero annotations.
+
+Example:
+1. Template:
+   ![[Pasted image 20251026140010.png]]
+2. Meta data section
+   ![[Pasted image 20251026140043.png]]
+3. Summary section
+   ![[Pasted image 20251026140057.png]]
+4. Key idea section
+   ![[Pasted image 20251026140133.png]]
+
+## [Step 3: From literature notes to permanent notes][4]
+
+1. Make sure to insert cite keys to acknowledge the source of these ideas whenever relevant.
+  * A permanent note which begins with “Scholars have long argued that…” needs reference
+  * A blanket statement such as “Oscar Wilde’s short fiction have been frequently anthologized” does not need references
+2. Embed individual paragraphs using `![[File^]]`
+3. Embed individual sections using `![[File#]]`
+
+Example:
+1. In edit mode: 
+  ![[Pasted image 20251026135728.png]]
+2. In preview mode:
+  ![[Pasted image 20251026135747.png]]
+
 
 ## References 
 [1]: https://martinezponciano.es/2021/04/05/research-workflow-as-a-phd-student-in-the-humanities/
 [2]: https://martinezponciano.es/2021/04/05/from-references-to-fleeting-notes-zotero-and-zotero-plug-ins/
 [3]: https://martinezponciano.es/2021/04/05/from-fleeting-notes-to-literature-notes-obsidian/
+[4]: https://martinezponciano.es/2021/04/05/from-literature-notes-to-permanent-notes-obsidian/
