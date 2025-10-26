@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bacff4d33f2e0d9d",
+        "id": "f539504f84868e89",
         "type": "tabs",
         "children": [
           {
-            "id": "d7998b085d36cdf9",
+            "id": "0d8d7d1a7ebc4784",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2176788686d16c39",
@@ -179,8 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7998b085d36cdf9",
+  "active": "0d8d7d1a7ebc4784",
   "lastOpenFiles": [
+    "templates/note.md",
+    "inbox/2025-10-24_Research-workflow-as-a-PhD-student-in-the-Humanities.md",
+    "inbox/2025-10-23_my-weaknesses.md~",
     "inbox/2025-10-23_Andrej-Karpathy---How-I-use-LLMs.md~",
     "inbox/2025-10-24_Research-workflow-as-a-PhD-student-in-the-Humanities.md~",
     "assets/Pasted image 20251026140133.png",
@@ -196,11 +198,9 @@
     "inbox/2025-10-25_markdown-reference.md",
     "inbox/2025-10-25_markdown-reference.md~",
     "hubs/markdown.md",
-    "inbox/2025-10-24_Research-workflow-as-a-PhD-student-in-the-Humanities.md",
     "inbox/2025-10-24_From-references-to-fleeting-notes:-Zotero-and-Zotero-plug-ins.md~",
     "inbox/2025-10-24_From-references-to-fleeting-notes:-Zotero-and-Zotero-plug-ins.md",
     "inbox/2025-10-23_my-weaknesses.md",
-    "inbox/2025-10-23_my-weaknesses.md~",
     "hubs/productivity.md",
     "inbox/2025-10-23_Andrej-Karpathy---How-I-use-LLMs.md",
     "inbox/2025-10-23_daily.md~",
