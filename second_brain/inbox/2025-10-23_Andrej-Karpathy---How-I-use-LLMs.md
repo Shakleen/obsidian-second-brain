@@ -10,3 +10,5 @@ urls:
 
 # Andrej Karpathy   How I use LLMs
 
+* Create new chat anytime you are going to switch topics. [Timestamp](https://youtu.be/EWvNQjAaOHw?t=1030)
+* 
