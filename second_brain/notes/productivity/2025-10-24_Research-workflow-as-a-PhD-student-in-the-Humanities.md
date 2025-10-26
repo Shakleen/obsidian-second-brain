@@ -2,6 +2,7 @@
 created at: 2025-10-24
 tags:
   - productivity
+  - #article
 hubs:
   - "[[productivity]]"
 urls:

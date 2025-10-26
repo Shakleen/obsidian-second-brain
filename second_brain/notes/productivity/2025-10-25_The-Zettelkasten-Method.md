@@ -3,6 +3,7 @@ created at: 2025-10-25
 tags:
   - productivity
   - self-improvement
+  - #article
 hubs:
   - "[[productivity]]"
 urls:

@@ -3,6 +3,7 @@ created at: 2025-10-22
 tags:
   - self-improvement
   - time-management
+  - #video
 hubs:
   - "[[phd-application]]"
 urls:

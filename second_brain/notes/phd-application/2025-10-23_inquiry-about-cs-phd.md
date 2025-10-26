@@ -2,6 +2,7 @@
 created at: 2025-10-23
 tags:
   - phd-application
+  - #scratch-pad
 hubs:
   - "[[phd-application]]"
 urls:

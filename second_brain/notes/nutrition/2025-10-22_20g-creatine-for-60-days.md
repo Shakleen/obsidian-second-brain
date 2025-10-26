@@ -3,6 +3,7 @@ created at: 2025-10-22
 tags:
   - nutrition
   - supplementation
+  - #video
 hubs:
   - "[[nutrition]]"
 urls:

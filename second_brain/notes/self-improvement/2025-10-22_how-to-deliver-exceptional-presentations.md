@@ -2,8 +2,9 @@
 created at: 2025-10-22
 tags:
   - self-improvement
+  - #article
 hubs:
-  - "[[]]"
+  - "[[phd-application]]"
 urls:
   - https://ronaldazuma.com/hitch4.html
 ---

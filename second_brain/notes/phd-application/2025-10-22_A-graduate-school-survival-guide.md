@@ -2,6 +2,7 @@
 created at: 2025-10-22
 tags:
   - phd-application
+  - #article
 hubs:
   - "[[phd-application]]"
 urls:

@@ -2,7 +2,7 @@
 created at: 2025-10-25
 tags:
   - markdown
-  - code-snippet
+  - #code-snippet
 hubs:
   - "[[markdown]]"
 urls:
