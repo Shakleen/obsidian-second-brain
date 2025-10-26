@@ -1,10 +1,11 @@
 --- 
-created at: {{date}}
-tags:
+Created: {{date}}
+Type: #
+Tags:
   - 
-hubs:
+Hubs:
   - "[[]]"
-urls:
+URLs:
   -
 ---
 
