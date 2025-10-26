@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2176788686d16c39",
@@ -180,8 +179,8 @@
   },
   "active": "d7998b085d36cdf9",
   "lastOpenFiles": [
-    "inbox/2025-10-25_daily.md~",
     "inbox/2025-10-24_Research-workflow-as-a-PhD-student-in-the-Humanities.md~",
+    "inbox/2025-10-25_daily.md~",
     "inbox/2025-10-25_daily.md",
     "inbox/2025-10-25_The-Zettelkasten-Method.md~",
     "inbox/2025-10-25_markdown-reference.md",

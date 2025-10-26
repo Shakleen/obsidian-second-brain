@@ -7,6 +7,7 @@ hubs:
 urls:
   - https://martinezponciano.es/2021/04/05/research-workflow-as-a-phd-student-in-the-humanities/
   - https://martinezponciano.es/2021/04/05/from-references-to-fleeting-notes-zotero-and-zotero-plug-ins/
+  - https://martinezponciano.es/2021/04/05/from-fleeting-notes-to-literature-notes-obsidian/
 ---
 
 # Research workflow as a PhD student in the Humanities
@@ -26,7 +27,25 @@ Follows [[2025-10-25_The-Zettelkasten-Method|The zettelkasten Method]] for keepi
 
 ## [Step 1: References to Fleeting Notes][2]
 
+### Add reference in zotero 
+1. Physical book: Scan barcode
+2. Online resource: Zotero connector plugin 
+3. PDF
+  1. With meta data: Drag and drop into Zotero 
+  2. Without: Lookup .bibtex on Google scholar
+4. ISBN or DOI: [Add item by identifier](https://www.zotero.org/support/adding_items_to_zotero)
+5. Manually fill in
+
+### Taking fleeting notes 
+1. Read PDF using PDF viewer, highlight, and add comments. In the comments,
+  * **Double square brackets**: Wiki-links for Obsidian 
+  * **Single square brackets**: Cite keys for PanDoc
+2. Use Zotero-browser-connector plug in for web articles.
+
+## [Step 2: From fleeting notes to literature ntoes][3]
+
 
 ## References 
 [1]: https://martinezponciano.es/2021/04/05/research-workflow-as-a-phd-student-in-the-humanities/
 [2]: https://martinezponciano.es/2021/04/05/from-references-to-fleeting-notes-zotero-and-zotero-plug-ins/
+[3]: https://martinezponciano.es/2021/04/05/from-fleeting-notes-to-literature-notes-obsidian/
