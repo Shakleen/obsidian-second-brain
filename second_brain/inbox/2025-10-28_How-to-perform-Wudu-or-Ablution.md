@@ -8,15 +8,8 @@ Tags:
 Hubs:
   - "[[islamic]]"
 URLs:
-  -
+  - 
 ---
 
 # How to perform Wudu or Ablution
 
-## Why perform Wudu 
-
-"No salah is accepted without wudu (purification)" - Sahih Muslim, Book 2, Hadith 2
-
-## General Steps
-
-## What breaks Wudu 
