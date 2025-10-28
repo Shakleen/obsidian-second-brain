@@ -11,10 +11,14 @@
             "id": "8bc26195a0018309",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2025-10-28_Fard-Ghusl.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-10-28_Fard-Ghusl"
             }
           }
         ]
@@ -178,9 +182,11 @@
   },
   "active": "8bc26195a0018309",
   "lastOpenFiles": [
-    "templates/note.md~",
     "inbox/2025-10-28_Fard-Ghusl.md~",
+    "sources/@GhuslWomenMen.md",
     "inbox/2025-10-28_Fard-Ghusl.md",
+    "sources/@FardSunnatGhusl.md",
+    "templates/note.md~",
     "notes/islamic/2025-10-28_How-to-perform-Wudu-or-Ablution.md~",
     "notes/phd-application/2025-10-28_Potential-advisors.md~",
     "notes/phd-application/2025-10-28_Potential-advisors.md",
@@ -205,15 +211,12 @@
     "Chapter2How.md",
     "sources/attachments",
     "sources",
-    "zotero/sources/literature-sources",
     "zotero/Chapter2How.md",
     "templates/note.md",
     "saved/2025-10-25_The-Zettelkasten-Method.md",
     "saved/2025-10-25_markdown-reference.md",
     "saved/2025-10-25_daily.md",
     "inbox/2025-10-24_Research-workflow-as-a-PhD-student-in-the-Humanities.md",
-    "saved/2025-10-24_Research-workflow-as-a-PhD-student-in-the-Humanities.md",
-    "saved/2025-10-23_my-weaknesses.md",
     "assets/Pasted image 20251026140133.png",
     "assets/Pasted image 20251026140057.png",
     "assets/Pasted image 20251026140043.png",
