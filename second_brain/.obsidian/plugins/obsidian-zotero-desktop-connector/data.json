@@ -15,7 +15,9 @@
       "name": "Literature Source Note",
       "outputPathTemplate": "sources/@{{citekey}}.md",
       "imageOutputPathTemplate": "sources/attachments/{{citekey}}/",
-      "imageBaseNameTemplate": "image"
+      "imageBaseNameTemplate": "image",
+      "templatePath": "templates/source.md",
+      "cslStyle": "ieee"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",

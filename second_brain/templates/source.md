@@ -1,9 +1,8 @@
 ---
-category: literaturenote
-tags: {% if allTags %}{{allTags}}{% endif %}
-citekey: {{citekey}}
-status: unread
-dateread:
+Category: literature-note
+Zotero Tags: {% if allTags %}{{allTags}}{% endif %}
+Cite Key: {{citekey}}
+Created: {{date}} {{time}}
 ---
 
 > [!Cite]
