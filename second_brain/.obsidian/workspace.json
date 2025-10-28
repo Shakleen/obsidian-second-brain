@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/note.md",
+                "file": "inbox/2025-10-28_How-to-perform-Wudu-or-Ablution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "note"
+              "title": "2025-10-28_How-to-perform-Wudu-or-Ablution"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2176788686d16c39",
@@ -175,11 +176,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "0d8d7d1a7ebc4784",
   "lastOpenFiles": [
+    "Chapter2How.md",
+    "inbox/2025-10-28_How-to-perform-Wudu-or-Ablution.md~",
+    "templates/note.md",
     "saved/2025-10-25_The-Zettelkasten-Method.md",
     "saved/2025-10-25_markdown-reference.md",
     "saved/2025-10-25_daily.md",
@@ -191,7 +196,6 @@
     "hubs/natural-language-processing.md",
     "inbox/2025-10-26_Build-a-large-language-model-from-scratch.md",
     "inbox/2025-10-23_my-weaknesses.md~",
-    "templates/note.md",
     "inbox/2025-10-23_Andrej-Karpathy---How-I-use-LLMs.md~",
     "inbox/2025-10-24_Research-workflow-as-a-PhD-student-in-the-Humanities.md~",
     "assets/Pasted image 20251026140133.png",
@@ -213,7 +217,6 @@
     "hubs/productivity.md",
     "inbox/2025-10-23_Andrej-Karpathy---How-I-use-LLMs.md",
     "inbox/2025-10-23_daily.md~",
-    "inbox/2025-10-23_inquiry-about-cs-phd.md~",
     "2025-10-22_7-Habits-of-Highly-Effective-People.md",
     "2025-10-22_how-to-deliver-exceptional-presentations.md",
     "inbox/2025-10-22_Randy-Pausch-Lecture:-Time-Management.md",
@@ -221,7 +224,6 @@
     "2025-10-22_The-Heilmeier-Catechism.md",
     "2025-10-22_HOWTO:-Get-into-grad-school-for-science,-engineering,-math-and-computer-science.md",
     "2025-10-22_A-graduate-school-survival-guide.md",
-    "2025-10-22_daily.md",
     "assets/Pasted image 20251022190445.png",
     "assets/Pasted image 20251022183011.png",
     "assets/Pasted image 20251022182909.png",
