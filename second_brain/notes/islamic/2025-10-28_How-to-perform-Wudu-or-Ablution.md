@@ -8,7 +8,11 @@ Tags:
 Hubs:
   - "[[islamic]]"
 References:
-  - [[@abdullaHowWuduStep]]
+  - [[@abdullaHowWuduStep|@AbdullaHowWuduStep]]
+  - [[@nurfilzahHowPerformWudhu2024|@NurfilzahHowPerformWudhu2024]]
+  - [[@EgyptsDarAlIfta|@egyptsDarAlIfta]]
+  - [[@Chapter2How|@chapter2How]]
+  - [[@wahidHowPerformWudu2025|@WahidHowPerformWudu2025]]
 ---
 
 # How to perform Wudu or Ablution
