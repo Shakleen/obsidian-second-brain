@@ -1,6 +1,6 @@
 {
   "database": "Zotero",
-  "noteImportFolder": "zotero",
+  "noteImportFolder": "",
   "pdfExportImageDPI": 120,
   "pdfExportImageFormat": "jpg",
   "pdfExportImageQuality": 90,
@@ -12,9 +12,9 @@
   ],
   "exportFormats": [
     {
-      "name": "Import #1",
-      "outputPathTemplate": "{{citekey}}.md",
-      "imageOutputPathTemplate": "{{citekey}}/",
+      "name": "Literature Source Note",
+      "outputPathTemplate": "sources/@{{citekey}}.md",
+      "imageOutputPathTemplate": "sources/attachments/{{citekey}}/",
       "imageBaseNameTemplate": "image"
     }
   ],

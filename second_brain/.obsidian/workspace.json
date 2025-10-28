@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2176788686d16c39",
@@ -176,13 +177,19 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "0d8d7d1a7ebc4784",
   "lastOpenFiles": [
-    "zotero/Chapter2How.md",
+    "templates/source.md",
     "inbox/2025-10-28_How-to-perform-Wudu-or-Ablution.md",
+    "sources/attachments",
+    "sources",
+    "zotero/sources/literature-sources",
+    "zotero/sources",
+    "zotero/Chapter2How.md",
     "zotero",
     "Chapter2How.md",
     "inbox/2025-10-28_How-to-perform-Wudu-or-Ablution.md~",
@@ -207,13 +214,9 @@
     "assets/Pasted image 20251026135747.png",
     "assets/Pasted image 20251026135728.png",
     "inbox/2025-10-25_The-Zettelkasten-Method.md",
-    "inbox/2025-10-25_daily.md~",
     "inbox/2025-10-25_daily.md",
-    "inbox/2025-10-25_The-Zettelkasten-Method.md~",
     "inbox/2025-10-25_markdown-reference.md",
-    "inbox/2025-10-25_markdown-reference.md~",
     "hubs/markdown.md",
-    "inbox/2025-10-24_From-references-to-fleeting-notes:-Zotero-and-Zotero-plug-ins.md~",
     "inbox/2025-10-24_From-references-to-fleeting-notes:-Zotero-and-Zotero-plug-ins.md",
     "inbox/2025-10-23_my-weaknesses.md",
     "hubs/productivity.md",
@@ -222,7 +225,6 @@
     "2025-10-22_how-to-deliver-exceptional-presentations.md",
     "inbox/2025-10-22_Randy-Pausch-Lecture:-Time-Management.md",
     "2025-10-22_Randy-Pausch-Lecture:-Time-Management.md",
-    "2025-10-22_The-Heilmeier-Catechism.md",
     "assets/Pasted image 20251022190445.png",
     "assets/Pasted image 20251022183011.png",
     "assets/Pasted image 20251022182909.png",

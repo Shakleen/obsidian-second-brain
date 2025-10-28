@@ -2,5 +2,6 @@
   "obsidian-git",
   "obsidian-zotero-desktop-connector",
   "obsidian-excalidraw-plugin",
-  "obsidian-pandoc-reference-list"
+  "obsidian-pandoc-reference-list",
+  "templater-obsidian"
 ]
