@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "71e51235091e88dc",
+        "id": "485de8faae6968e2",
         "type": "tabs",
         "children": [
           {
-            "id": "c21d76b00381087d",
+            "id": "3b2f500acec4fb94",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -83,6 +83,7 @@
       {
         "id": "5ad2b414e4e9d0de",
         "type": "tabs",
+        "dimension": 58.941176470588246,
         "children": [
           {
             "id": "88c0371536feab67",
@@ -156,6 +157,23 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "6b8c74d18ddb48e5",
+        "type": "tabs",
+        "dimension": 41.058823529411754,
+        "children": [
+          {
+            "id": "0568921d7a3ba372",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,16 +194,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c21d76b00381087d",
+  "active": "3b2f500acec4fb94",
   "lastOpenFiles": [
+    "inbox/2025-10-28_Fard-Ghusl.md",
+    "inbox/2025-10-28_Fard-Ghusl.md~",
     "inbox/2025-10-28_Salat.md~",
     "inbox/1761662918-TJHT.md",
     "inbox/2025-10-28_Salat.md",
-    "inbox/2025-10-28_Fard-Ghusl.md",
     "notes/islamic/2025-10-28_How-to-perform-Wudu-or-Ablution.md",
     "sources/@FardSunnatGhusl.md",
     "notes/islamic/2025-10-28_How-to-perform-Wudu-or-Ablution.md~",
-    "inbox/2025-10-28_Fard-Ghusl.md~",
     "sources/@ayoubHowPerformPurification2021.md",
     "sources/@GhuslWomenMen.md",
     "sources/@HowMakeGhusl2009.md",
@@ -211,7 +229,6 @@
     "templates/source.md",
     "Chapter2How.md",
     "sources/attachments",
-    "sources",
     "zotero/Chapter2How.md",
     "templates/note.md",
     "assets/Pasted image 20251026140133.png",
