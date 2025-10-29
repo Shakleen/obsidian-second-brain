@@ -1,8 +1,8 @@
---- 
-created at: 2025-10-24
-type: #article
+---
+created: 2025-10-24
+type: article
 tags:
-  - #productivity
+  - productivity
 hubs:
   - "[[productivity]]"
 urls:

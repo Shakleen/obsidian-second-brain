@@ -1,10 +1,10 @@
 ---
-created: 2025-10-29
+created: 2025-10-30
 type: self-note
 tags:
-  - islamic
+  - islamic 
   - salat
-  - salah
+  - salah 
   - prayer
 hubs:
   - "[[islamic]]"
@@ -12,4 +12,5 @@ references:
   - "[[@SalatMuslimPrayer2016]]"
 ---
 
-# Islamic prayer times
+# Tahajjud prayer
+

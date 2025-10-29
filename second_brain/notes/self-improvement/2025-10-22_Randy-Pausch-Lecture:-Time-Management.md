@@ -1,9 +1,9 @@
---- 
-created at: 2025-10-22
-type: #video
+---
+created: 2025-10-22
+type: video
 tags:
-  - #self-improvement
-  - #time-management
+  - self-improvement
+  - time-management
 hubs:
   - "[[phd-application]]"
 urls:

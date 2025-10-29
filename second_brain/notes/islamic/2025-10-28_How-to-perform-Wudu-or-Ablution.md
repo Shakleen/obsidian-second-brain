@@ -1,13 +1,13 @@
---- 
-Created: 2025-10-28
-Type: #self-note
-Tags:
-  - #islamic 
-  - #wudu 
-  - #ablution 
-Hubs:
+---
+created: 2025-10-28
+type: self-note
+tags:
+  - islamic 
+  - wudu 
+  - ablution 
+hubs:
   - "[[islamic]]"
-References:
+references:
   - "[[@abdullaHowWuduStep|@AbdullaHowWuduStep]]"
   - "[[@nurfilzahHowPerformWudhu2024|@NurfilzahHowPerformWudhu2024]]"
   - "[[@EgyptsDarAlIfta|@egyptsDarAlIfta]]"

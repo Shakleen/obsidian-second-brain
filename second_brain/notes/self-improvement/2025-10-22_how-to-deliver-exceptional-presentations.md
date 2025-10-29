@@ -1,8 +1,8 @@
---- 
-created at: 2025-10-22
-type: #article
+---
+created: 2025-10-22
+type: article
 tags:
-  - #self-improvement
+  - self-improvement
 hubs:
   - "[[phd-application]]"
 urls:

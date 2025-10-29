@@ -1,5 +1,5 @@
 ---
-created: 2025-10-28
+created: 2025-10-30
 type: self-note
 tags:
   - islamic 
@@ -12,7 +12,6 @@ references:
   - "[[@SalatMuslimPrayer2016]]"
 ---
 
-# Salat
+# Fajr prayer
 
-![[2025-10-30_Daily-prayers|Daily prayers]]
-
+## Time

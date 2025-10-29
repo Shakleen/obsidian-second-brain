@@ -1,11 +1,11 @@
 --- 
-Created: 2025-10-28
-Type: #scratch-pad
-Tags:
-  - #phd-application
-Hubs:
+created: 2025-10-28
+type: scratch-pad
+tags:
+  - phd-application
+hubs:
   - "[[phd-application]]"
-URLs:
+urls:
   -
 ---
 

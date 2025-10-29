@@ -1,8 +1,8 @@
---- 
-created at: 2025-10-22
-type: #article
+---
+created: 2025-10-22
+type: article
 tags:
-  - #phd-application
+  - phd-application
 hubs:
   - "[[phd-application]]"
 urls:

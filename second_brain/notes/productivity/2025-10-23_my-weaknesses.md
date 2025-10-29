@@ -1,8 +1,8 @@
---- 
+---
 created at: 2025-10-23
 tags:
-  - #productivity
-  - #self-improvement
+  - productivity
+  - self-improvement
 hubs:
   - "[[productivity]]"
 urls:
