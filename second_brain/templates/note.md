@@ -1,11 +1,11 @@
 --- 
-Created: {{date}}
-Type: #
-Tags:
+created: {{date}}
+type: #
+tags:
   - 
-Hubs:
+hubs:
   - "[[]]"
-References:
+references:
   -
 ---
 

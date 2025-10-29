@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/2025-10-28_Fard-Ghusl.md",
+                "file": "inbox/2025-10-29_Islamic-prayer-times.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-28_Fard-Ghusl"
+              "title": "2025-10-29_Islamic-prayer-times"
             }
           }
         ]
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,20 +201,26 @@
   },
   "active": "b4cac7f215d6d11d",
   "lastOpenFiles": [
-    "inbox/2025-10-28_Salat.md",
-    "2025-10-29.md",
-    "inbox/2025-10-28_Fard-Ghusl.md",
-    "Untitled.md",
-    "inbox/2025-10-28_Fard-Ghusl.md~",
     "inbox/2025-10-28_Salat.md~",
+    "inbox/2025-10-28_Fard-Ghusl.md~",
+    "inbox/2025-10-28_Fard-Ghusl.md",
+    "inbox/2025-10-29_Islamic-prayer-times.md",
+    "inbox/2025-10-29_Islamic-prayer-times.md~",
+    "templates/note.md",
+    "templates/note.md~",
+    "templates/source.md",
+    "inbox/2025-10-28_Salat.md",
     "inbox/1761662918-TJHT.md",
+    "sources/@SalatMuslimPrayer2016.md",
+    "inbox/Untitled.md",
+    "2025-10-29.md",
+    "Untitled.md",
     "notes/islamic/2025-10-28_How-to-perform-Wudu-or-Ablution.md",
     "sources/@FardSunnatGhusl.md",
     "notes/islamic/2025-10-28_How-to-perform-Wudu-or-Ablution.md~",
     "sources/@ayoubHowPerformPurification2021.md",
     "sources/@GhuslWomenMen.md",
     "sources/@HowMakeGhusl2009.md",
-    "templates/note.md~",
     "notes/phd-application/2025-10-28_Potential-advisors.md~",
     "notes/phd-application/2025-10-28_Potential-advisors.md",
     "notes/islamic",
@@ -228,13 +236,6 @@
     "sources/@wahidHowPerformWudu2025.md",
     "sources/@nurfilzahHowPerformWudhu2024.md",
     "sources/@EgyptsDarAlIfta.md",
-    "sources/@Chapter2How.md",
-    "sources/@NURFILZAHHowPerformWudhuBeginnersMuslimPro2024.md",
-    "sources/@HowMakeWudu.md",
-    "templates/source.md",
-    "Chapter2How.md",
-    "sources/attachments",
-    "zotero/Chapter2How.md",
     "assets/Pasted image 20251026140133.png",
     "assets/Pasted image 20251026140057.png",
     "assets/Pasted image 20251026140043.png",
