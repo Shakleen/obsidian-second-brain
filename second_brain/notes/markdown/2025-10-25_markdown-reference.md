@@ -1,8 +1,8 @@
 --- 
 created at: 2025-10-25
+type: #code-snippet
 tags:
-  - markdown
-  - #code-snippet
+  - #markdown
 hubs:
   - "[[markdown]]"
 urls:

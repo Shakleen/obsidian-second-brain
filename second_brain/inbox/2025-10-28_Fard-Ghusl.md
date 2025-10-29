@@ -1,17 +1,17 @@
---- 
+---
 created: 2025-10-28
-type: #self-note
+type: self-note
 tags:
-  - #islamic
-  - #ghusl 
-  - #ablution
+  - islamic
+  - ghusl 
+  - ablution
 hubs:
   - "[[islamic]]"
 references:
-  - [[@FardSunnatGhusl]]
-  - [[@GhuslWomenMen]]
-  - [[@HowMakeGhusl2009]]
-  - [[@ayoubHowPerformPurification2021]]
+  - "[[@FardSunnatGhusl]]"
+  - "[[@GhuslWomenMen]]"
+  - "[[@HowMakeGhusl2009]]"
+  - "[[@ayoubHowPerformPurification2021]]"
 ---
 
 # Fard Ghusl

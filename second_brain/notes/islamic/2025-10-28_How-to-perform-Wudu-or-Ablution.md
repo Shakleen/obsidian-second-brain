@@ -2,17 +2,17 @@
 Created: 2025-10-28
 Type: #self-note
 Tags:
-  - islamic 
-  - wudu 
-  - ablution 
+  - #islamic 
+  - #wudu 
+  - #ablution 
 Hubs:
   - "[[islamic]]"
 References:
-  - [[@abdullaHowWuduStep|@AbdullaHowWuduStep]]
-  - [[@nurfilzahHowPerformWudhu2024|@NurfilzahHowPerformWudhu2024]]
-  - [[@EgyptsDarAlIfta|@egyptsDarAlIfta]]
-  - [[@Chapter2How|@chapter2How]]
-  - [[@wahidHowPerformWudu2025|@WahidHowPerformWudu2025]]
+  - "[[@abdullaHowWuduStep|@AbdullaHowWuduStep]]"
+  - "[[@nurfilzahHowPerformWudhu2024|@NurfilzahHowPerformWudhu2024]]"
+  - "[[@EgyptsDarAlIfta|@egyptsDarAlIfta]]"
+  - "[[@Chapter2How|@chapter2How]]"
+  - "[[@wahidHowPerformWudu2025|@WahidHowPerformWudu2025]]"
 ---
 
 # How to perform Wudu or Ablution

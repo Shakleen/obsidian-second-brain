@@ -1,9 +1,9 @@
 --- 
 created at: 2025-10-22
+type: #video
 tags:
-  - nutrition
-  - supplementation
-  - #video
+  - #nutrition
+  - #supplementation
 hubs:
   - "[[nutrition]]"
 urls:

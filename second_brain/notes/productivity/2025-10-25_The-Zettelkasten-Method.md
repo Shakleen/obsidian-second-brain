@@ -1,9 +1,9 @@
 --- 
 created at: 2025-10-25
+type: #article
 tags:
-  - productivity
-  - self-improvement
-  - #article
+  - #productivity
+  - #self-improvement
 hubs:
   - "[[productivity]]"
 urls:

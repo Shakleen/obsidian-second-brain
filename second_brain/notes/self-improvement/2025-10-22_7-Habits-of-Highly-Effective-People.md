@@ -1,8 +1,8 @@
 --- 
 created at: 2025-10-22
+type: #book
 tags:
-  - self-improvement
-  - #book
+  - #self-improvement
 hubs:
   - "[[phd-application]]"
 urls:

@@ -1,4 +1,4 @@
---- 
+---
 created: {{date}}
 type: #
 tags:
@@ -6,7 +6,7 @@ tags:
 hubs:
   - "[[]]"
 references:
-  -
+  - "[[@]]"
 ---
 
 # {{title}}
