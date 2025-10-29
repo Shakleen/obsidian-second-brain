@@ -1,5 +1,9 @@
 {
   "propertiesInDocument": "source",
   "attachmentFolderPath": "assets",
-  "promptDelete": false
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "inbox",
+  "alwaysUpdateLinks": true,
+  "vimMode": false
 }

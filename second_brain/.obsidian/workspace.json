@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "485de8faae6968e2",
+        "id": "66f73bd663c3816e",
         "type": "tabs",
         "children": [
           {
-            "id": "3b2f500acec4fb94",
+            "id": "b4cac7f215d6d11d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2025-10-28_Fard-Ghusl.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-10-28_Fard-Ghusl"
             }
           }
         ]
@@ -177,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,13 +197,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3b2f500acec4fb94",
+  "active": "b4cac7f215d6d11d",
   "lastOpenFiles": [
+    "inbox/2025-10-28_Salat.md",
+    "2025-10-29.md",
     "inbox/2025-10-28_Fard-Ghusl.md",
+    "Untitled.md",
     "inbox/2025-10-28_Fard-Ghusl.md~",
     "inbox/2025-10-28_Salat.md~",
     "inbox/1761662918-TJHT.md",
-    "inbox/2025-10-28_Salat.md",
     "notes/islamic/2025-10-28_How-to-perform-Wudu-or-Ablution.md",
     "sources/@FardSunnatGhusl.md",
     "notes/islamic/2025-10-28_How-to-perform-Wudu-or-Ablution.md~",
@@ -230,7 +235,6 @@
     "Chapter2How.md",
     "sources/attachments",
     "zotero/Chapter2How.md",
-    "templates/note.md",
     "assets/Pasted image 20251026140133.png",
     "assets/Pasted image 20251026140057.png",
     "assets/Pasted image 20251026140043.png",
