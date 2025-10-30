@@ -25,7 +25,13 @@ Wudu is a physical and spiritual act to purify oneself before starting prayer. T
 
 > “No salah is accepted without wudu (purification)”- Sahih Muslim, Book 2, Hadith 2 
 
-## Steps
+![[2025-10-30_Fard-wudu-steps|Fard wudu steps]]
+
+![[2025-10-30_Sunnat-wudu-steps|Sunnat Wudu steps]]
+
+![[2025-10-30_Mustahab-wudu-steps|Mustahab wudu steps]]
+
+## Overall Steps
 
 ### Step 1: Make Intention 
 Determine your intention either aloud or silently. There are no words or special statements that need to be said here. Creating the intention is a matter of the heart and mind.
@@ -85,3 +91,5 @@ Determine your intention either aloud or silently. There are no words or special
 > “Allahumma aj‘alni min at-tawwabeen, wa aj‘alni min al-mutatahhirin, waj’alni min ‘ibadik-as-salihin.”
 >
 > “O Allah, make me among those who seek repentance and make me among those who purify themselves.”
+
+![[2025-10-30_What-breaks-wudu|What breaks wudu]]
