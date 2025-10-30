@@ -12,7 +12,7 @@ aliases:
 
 # Kalima Shahadat
 
-> اَشْهَدُ اَنْ لَّآ اِلٰهَ اِلَّا اللهُ وَحْدَہٗ لَاشَرِيْكَ لَہٗ وَاَشْهَدُ اَنَّ مُحَمَّدًا عَبْدُهٗ وَرَسُولُہٗ
+> اشْهَدُ انْ لّآ اِلهَ اِلَّا اللّهُ وَحْدَه لَا شَرِيْكَ لَه، وَ اَشْهَدُ اَنَّ مُحَمَّدً اعَبْدُهوَرَسُولُه 
 >
 > ashhadu alla ilaha illallah wahdahu la sharika lahu lahu wa-ash-hadu anna Muhammadan abduhoo wa rasooluhu.
 > 
