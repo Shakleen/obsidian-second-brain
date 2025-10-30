@@ -21,17 +21,15 @@ references:
 
 Wudu is a physical and spiritual act to purify oneself before starting prayer. This purification ritual is a mandatory step which involves washing of the hands, mouth, nostrils, face, arms, head and feet. 
 
-## Why perform Wudu
+![[2025-10-30_virtues-of-wudu|virtues of Wudu]]
 
-> “No salah is accepted without wudu (purification)”- Sahih Muslim, Book 2, Hadith 2 
+## Parts of Wudu
 
 ![[2025-10-30_Fard-wudu-steps|Fard wudu steps]]
 
 ![[2025-10-30_Sunnat-wudu-steps|Sunnat Wudu steps]]
 
-![[2025-10-30_Mustahab-wudu-steps|Mustahab wudu steps]]
-
-## Overall Steps
+## Steps
 
 ### Step 1: Make Intention 
 Determine your intention either aloud or silently. There are no words or special statements that need to be said here. Creating the intention is a matter of the heart and mind.
@@ -78,7 +76,7 @@ Determine your intention either aloud or silently. There are no words or special
 * Right 3 times, then left.
 * Must thoroughly wash upto ankles, including inbetween toes.
 
-### Step 11: Recite Shahada 
+### Step 11: Recite Kalima Shahada
 > أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ.  
 >
 > “Ashhadu alla ilaha illallahu wahdahu la sharika lahu, wa ashhadu anna Muhammadan ‘abduhu wa rasuluhu. ”
