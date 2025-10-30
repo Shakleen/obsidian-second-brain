@@ -5,6 +5,7 @@ tags:
   - islamic
   - wudu 
   - ablution
+  - fard
 hubs:
   - "[[islamic]]"
 references:

@@ -10,9 +10,6 @@ hubs:
   - "[[islamic]]"
 references:
   - "[[@FardSunnatGhusl]]"
-  - "[[@GhuslWomenMen]]"
-  - "[[@HowMakeGhusl2009]]"
-  - "[[@ayoubHowPerformPurification2021]]"
 ---
 
 # Ghusl Fards

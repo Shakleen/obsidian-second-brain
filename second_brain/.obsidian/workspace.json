@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/2025-10-28_Fard-Ghusl.md",
+                "file": "inbox/2025-10-28_Salat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-28_Fard-Ghusl"
+              "title": "2025-10-28_Salat"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2176788686d16c39",
@@ -181,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,18 +201,35 @@
   },
   "active": "1843aa94a5468f72",
   "lastOpenFiles": [
+    "inbox/2025-10-30_Types-of-Salat-Rakats.md~",
+    "inbox/2025-10-30_Types-of-Salat-Rakats.md",
+    "inbox/2025-10-30_Daily-prayers.md~",
+    "inbox/2025-10-28_Salat.md~",
+    "notes/islamic/2025-10-30_Ghusl-Sunnats.md",
+    "saved/2025-10-30_Ghusl-Sunnats.md~",
+    "notes/islamic/2025-10-30_Sunnat-wudu-steps.md~",
+    "notes/islamic/2025-10-28_Fard-Ghusl.md~",
+    "notes/islamic/2025-10-30_Fard-wudu-steps.md~",
+    "notes/islamic/2025-10-30_Mustahab-wudu-steps.md~",
+    "notes/islamic/2025-10-30_Ghusl-Fards.md~",
+    "notes/islamic/2025-10-30_When-to-Ghusl.md",
+    "notes/islamic/2025-10-30_Ghusl-Fards.md",
+    "notes/islamic/2025-10-30_Complete-Ghusl-step-by-step.md",
+    "notes/islamic/2025-10-28_Fard-Ghusl.md",
+    "saved/2025-10-30_When-to-Ghusl.md",
+    "saved/2025-10-30_Ghusl-Sunnats.md",
+    "saved/2025-10-30_Ghusl-Fards.md",
+    "saved/2025-10-30_Complete-Ghusl-step-by-step.md",
+    "inbox/2025-10-28_Fard-Ghusl.md",
+    "saved/2025-10-28_Fard-Ghusl.md",
     "inbox/2025-10-28_Fard-Ghusl.md~",
-    "inbox/2025-10-30_Ghusl-Fards.md~",
-    "inbox/2025-10-30_Complete-Ghusl-step-by-step.md~",
     "inbox/2025-10-30_Complete-Ghusl-step-by-step.md",
-    "inbox/2025-10-30_Ghusl-Sunnats.md~",
+    "inbox/2025-10-30_Complete-Ghusl-step-by-step.md~",
     "inbox/2025-10-30_Ghusl-Sunnats.md",
     "inbox/2025-10-30_Ghusl-Fards.md",
-    "inbox/2025-10-30_When-to-Ghusl.md~",
     "inbox/2025-10-30_When-to-Ghusl.md",
     "notes/islamic/2025-10-28_How-to-perform-Wudu-or-Ablution.md",
     "notes/islamic/2025-10-30_Kalima-Shahada.md",
-    "notes/islamic/2025-10-30_Kalima-Shahada.md~",
     "notes/islamic/2025-10-30_Prayer-conditions.md",
     "notes/islamic/2025-10-30_Forbidden-prayer-times.md",
     "notes/islamic/2025-10-30_Fajr-prayer.md",
@@ -218,22 +237,6 @@
     "notes/islamic/2025-10-30_Sunnat-wudu-steps.md",
     "notes/islamic/2025-10-30_What-breaks-wudu.md",
     "notes/islamic/2025-10-30_virtues-of-wudu.md",
-    "notes/islamic/2025-10-30_Wudu-ending-dua.md",
-    "notes/islamic/2025-10-30_Mustahab-wudu-steps.md",
-    "notes/islamic/2025-10-30_Complete-wudu.md",
-    "notes/islamic/1761821963-KVLY.md",
-    "saved/2025-10-30_Prayer-conditions.md",
-    "inbox/2025-10-30_Ishraq-prayer.md",
-    "inbox/2025-10-30_Isha-prayer.md",
-    "saved/2025-10-30_Forbidden-prayer-times.md",
-    "saved/2025-10-30_Fajr-prayer.md",
-    "saved/2025-10-30_Fard-wudu-steps.md",
-    "saved/2025-10-30_Sunnat-wudu-steps.md",
-    "saved/2025-10-30_What-breaks-wudu.md",
-    "notes/islamic/2025-10-28_How-to-perform-Wudu-or-Ablution.md~",
-    "inbox/2025-10-30_Complete-wudu.md~",
-    "inbox/2025-10-30_Mustahab-wudu-steps.md~",
-    "inbox/2025-10-30_Wudu-ending-dua.md~",
     "assets/Pasted image 20251026140133.png",
     "assets/Pasted image 20251026140057.png",
     "assets/Pasted image 20251026140043.png",

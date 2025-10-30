@@ -27,5 +27,3 @@ references:
 1. [[2025-10-30_Tahajjud-prayer|Tahajjud prayer]]
 2. [[2025-10-30_Ishraq-prayer|Ishraq prayer]]
 
-![[2025-10-30_Forbidden-prayer-times|Forbidden prayer times]]
-

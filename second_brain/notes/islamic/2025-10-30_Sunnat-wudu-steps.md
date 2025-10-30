@@ -5,6 +5,7 @@ tags:
   - islamic
   - wudu
   - ablution
+  - sunnat
 hubs:
   - "[[islamic]]"
 references:

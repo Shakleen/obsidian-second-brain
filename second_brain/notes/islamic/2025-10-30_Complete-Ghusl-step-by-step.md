@@ -18,7 +18,7 @@ references:
 
 Before starting, intend to perform Ghusl and say [[1761821963-KVLY|Bismillah]].
 1. Wash right hand 3 times. Then left hand 3 times. 
-2. Wash privates using [[@GhuslWomenMen|left hand]].
+2. Wash privates using left hand. [[@GhuslWomenMen]].
 3. Repeat step 1 again.
 4. Perform a complete [[2025-10-28_How-to-perform-Wudu-or-Ablution|wudu]].
   - Except for your feet unless you have running water beneath your feet. [[@ayoubHowPerformPurification2021]]

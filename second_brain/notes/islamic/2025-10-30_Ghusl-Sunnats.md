@@ -1,10 +1,15 @@
 ---
 created: 2025-10-30
-type: #
+type: self-note
 tags:
-  - 
+  - islamic
+  - ghusl 
+  - ablution
+  - sunnat
 hubs:
-  - "[[]]"
+  - "[[islamic]]"
+references:
+  - "[[@FardSunnatGhusl]]"
 references:
   - "[[@]]"
 ---

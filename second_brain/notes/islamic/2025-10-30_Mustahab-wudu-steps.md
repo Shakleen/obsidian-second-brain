@@ -9,7 +9,7 @@ tags:
 hubs:
   - "[[islamic]]"
 references:
-  - "[[@]]"
+  - "[[@ahmedSahihSalatShikkha2023]]"
 ---
 
 # Mustahab wudu steps
