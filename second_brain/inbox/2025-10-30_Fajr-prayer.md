@@ -15,3 +15,5 @@ references:
 # Fajr prayer
 
 ## Time
+1. Begins: With dawn
+2. Ends: Just before sun rise

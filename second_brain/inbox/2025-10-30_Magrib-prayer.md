@@ -14,3 +14,6 @@ references:
 
 # Magrib prayer
 
+## Time
+1. Begins: Right after sunset.
+2. Ends: When the redness of the sky gives to dusky gray.

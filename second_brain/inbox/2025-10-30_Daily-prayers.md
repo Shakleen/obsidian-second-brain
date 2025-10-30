@@ -14,16 +14,18 @@ references:
 
 # Daily prayers
 
-There are 5 obligatory daily prayers:
-1. Fajr
-2. Duhr
-3. Asr
-4. Magrib
-5. Isha
+## Obligatory prayers
+1. [[2025-10-30_Fajr-prayer|Fajr prayer]]
+2. [[2025-10-30_Duhr-prayer|Duhr prayer]]
+  > On **Fridays**, men must attend the **Friday prayer** or **Jummah** at a mosque with congregation. For prayer timings read "[[2025-10-29_Islamic-prayer-times|Islamic prayer times]]" note.
+3. [[2025-10-30_Asr-prayer|Asr prayer]]
+4. [[2025-10-30_Magrib-prayer|Magrib prayer]]
+5. [[2025-10-30_Ishraq-prayer|Ishraq prayer]]
 
-On **Fridays**, men must attend the **Friday prayer** or **Jummah** at a mosque with congregation. For prayer timings read "[[2025-10-29_Islamic-prayer-times|Islamic prayer times]]" note.
 
-Other than the 5 obligatory prayers, there is also 
+## Nafl prayers
 1. [[2025-10-30_Tahajjud-prayer|Tahajjud prayer]]
 2. [[2025-10-30_Ishraq-prayer|Ishraq prayer]]
+
+![[2025-10-30_Forbidden-prayer-times|Forbidden prayer times]]
 

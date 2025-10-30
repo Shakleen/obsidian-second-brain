@@ -14,3 +14,6 @@ references:
 
 # Asr prayer
 
+## Time
+1. Begins: Sun reaches half way from zenith point to sunset.
+2. Ends: Before sunset.
