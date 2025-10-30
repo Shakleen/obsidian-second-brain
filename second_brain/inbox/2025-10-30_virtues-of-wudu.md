@@ -18,3 +18,5 @@ references:
 2. Hazrat Anas (RA) reported that Prophet (SA) used to make fresh wudu before performing every salat. - Bukhari.
 3. Prophet (SA) said,
   > “No salah is accepted without wudu (purification)”- Muslim, Book 2, Hadith 2 
+4. In hadith book of Muslim and Jami At-Tirmidhi it was said, 
+  > “and when he washes his hands, every evil he did with his hands leaves with the water – or with the last drop of water – until he becomes free of sin.” 
