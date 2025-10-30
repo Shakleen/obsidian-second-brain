@@ -15,5 +15,6 @@ references:
 # Duhr prayer
 
 ## Time
+The time for **Duhr**
 1. Begins: Sun crosses zenith point (Highest point).
 2. Ends: When shadow is twice that of zenith point

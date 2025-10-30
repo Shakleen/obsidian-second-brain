@@ -15,5 +15,6 @@ references:
 # Fajr prayer
 
 ## Time
+The time for **Fajr**
 1. Begins: With dawn
 2. Ends: Just before sun rise

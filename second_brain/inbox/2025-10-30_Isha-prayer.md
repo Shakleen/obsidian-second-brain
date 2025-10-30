@@ -15,5 +15,6 @@ references:
 # Isha prayer
 
 ## Time
+The time for **Isha**
 1. Begins: After dusk ends.
 2. Ends: Before Fajr
