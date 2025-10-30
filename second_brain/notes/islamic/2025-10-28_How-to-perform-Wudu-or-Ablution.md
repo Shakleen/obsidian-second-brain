@@ -13,6 +13,9 @@ references:
   - "[[@EgyptsDarAlIfta|@egyptsDarAlIfta]]"
   - "[[@Chapter2How|@chapter2How]]"
   - "[[@wahidHowPerformWudu2025|@WahidHowPerformWudu2025]]"
+aliases:
+  - Wudu 
+  - Ablution
 ---
 
 # How to perform Wudu or Ablution

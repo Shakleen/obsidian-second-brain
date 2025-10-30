@@ -12,6 +12,10 @@ references:
   - "[[@GhuslWomenMen]]"
   - "[[@HowMakeGhusl2009]]"
   - "[[@ayoubHowPerformPurification2021]]"
+aliases:
+  - Ghusl 
+  - Islamic shower
+  - Fard shower
 ---
 
 # Fard Ghusl
