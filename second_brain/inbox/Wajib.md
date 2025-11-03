@@ -17,7 +17,7 @@ aliases:
 # Wajib obligations
 
 ## Level: Required
-**Meaning**: These acts are considered necessary obligations, though their status is slightly below [[2025-11-03_Fard-obligations|Fard]].
+**Meaning**: These acts are considered necessary obligations, though their status is slightly below [[Fard]].
 
 ## Consequence of Omission
 1. Intentional: [[Major Sin]].

@@ -14,7 +14,7 @@ aliases:
   - foroz
 ---
 
-# Fard obligations
+# Fard
 
 ## Level: Obligatory
 **Meaning**: **Absolute obligations** mandated by Allah in the Qur'an or established through undeniable Mutawatir Hadith.

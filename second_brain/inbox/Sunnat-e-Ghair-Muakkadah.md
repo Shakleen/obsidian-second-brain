@@ -15,12 +15,12 @@ references:
 # Sunnat e Ghair Muakkadah
 
 ## Level: Non-Emphasized Sunnat
-**Meaning**: These are acts the Prophet (PBUH) also practiced, but he did them sometimes and omitted them at other times, indicating they are not a constant requirement of the faith.
+**Meaning**: These are acts the Prophet (PBUH) also practiced, but he did them **sometimes and omitted them at other times**, indicating they are not a constant requirement of the faith.
 
 ## Consequence of Omission
 There is no sin for omitting these acts, even intentionally.
 
 ## Example:
-- 4 rakat sunnat prayer before Fard in Asr 
-- 4 rakat sunnat prayer before Fard in Isha
+- 4 rakat sunnat prayer before [[Fard]] in [[2025-10-30_Asr-prayer|Asr prayer]] 
+- 4 rakat sunnat prayer before [[Fard]] in [[2025-10-30_Isha-prayer|Isha prayer]]
 - etc.
