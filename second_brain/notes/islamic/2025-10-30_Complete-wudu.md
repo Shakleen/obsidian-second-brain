@@ -23,7 +23,7 @@ references:
 ### Step 1: Make Intention 
 Determine your intention either aloud or silently. There are no words or special statements that need to be said here. Creating the intention is a matter of the heart and mind.
 
-### Step 2: Say [[1761821963-KVLY|Bismillah]]
+### Step 2: Say [[Bismillah|Bismillah]]
 
 ### Step 3: Wash hands 3 Times
 * Start with right, then left hand.
@@ -32,7 +32,7 @@ Determine your intention either aloud or silently. There are no words or special
 
 ### Step 4: Rinse Mouth 3 times
 * Take some water into your **right** hand and rinse your mouth three times.
-* If not fasting then
+* If not fasting then do [[Miswak]]
   - **Brush your teeth**: Upper right to left and then lower right to left
   - **Rinse through gurgling**: Gurgle water
 

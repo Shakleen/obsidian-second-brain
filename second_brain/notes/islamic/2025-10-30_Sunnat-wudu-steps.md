@@ -17,7 +17,7 @@ references:
 2. Wash both hands including wrists **3 times**.
 3. Rinse mouth.
 4. Rinse nose.
-5. Miswak: Brush teeth at the beginning of Wudu.
+5. [[Miswak]]: Brush teeth at the beginning of Wudu.
 6. Wipe entire head **once**.
 7. Wash limbs **three times**.
 8. Wipe ears.

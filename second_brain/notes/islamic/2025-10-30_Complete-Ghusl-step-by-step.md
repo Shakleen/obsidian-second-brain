@@ -16,7 +16,7 @@ references:
 
 # Complete Ghusl step by step
 
-Before starting, intend to perform Ghusl and say [[1761821963-KVLY|Bismillah]].
+Before starting, intend to perform Ghusl and say [[Bismillah|Bismillah]].
 1. Wash right hand 3 times. Then left hand 3 times. 
 2. Wash privates using left hand. [[@GhuslWomenMen]].
 3. Repeat step 1 again.
