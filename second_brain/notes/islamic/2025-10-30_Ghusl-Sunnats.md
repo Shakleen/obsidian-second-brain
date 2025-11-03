@@ -10,11 +10,9 @@ hubs:
   - "[[islamic]]"
 references:
   - "[[@FardSunnatGhusl]]"
-references:
-  - "[[@]]"
 ---
 
-# Ghusl Sunnats
+# Ghusl [[Sunnat-e-Muakkadah|Sunnats]]
 
 1. Wash hands and privates
 2. Perform complete ablution/wudu

@@ -12,7 +12,7 @@ references:
   - "[[@FardSunnatGhusl]]"
 ---
 
-# Ghusl Fards
+# Ghusl [[Fard]]s
 
 1. Wash inside of your mouth. Gurgle water if not fasting. If there's anything (food or otherwise) stuck in between your teeth, they must be removed.
 2. Wash your nose with water. Remove dry phlegm.

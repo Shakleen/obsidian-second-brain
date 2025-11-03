@@ -12,8 +12,7 @@ references:
   - "[[@ahmedSahihSalatShikkha2023]]"
 ---
 
-# Fard wudu steps
-
+# [[Fard]] wudu steps
 1. Wash entire face **once**.
   > **Definition of face**: From left ear to right ear, from the top of your forehead (where hair starts) to the bottom of your chin (including the bottom part of your jaw).
 2. Wash both arms including elbow, **each once.**

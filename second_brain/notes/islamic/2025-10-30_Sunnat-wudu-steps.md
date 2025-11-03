@@ -12,7 +12,7 @@ references:
   - "[[@ahmedSahihSalatShikkha2023]]"
 ---
 
-# [[2025-11-03_Levels-of-obligations#Sunnat-e-Muakkadah|Sunnat]] wudu steps
+# [[Sunnat-e-Muakkadah|Sunnat]] wudu steps
 1. Begin by saying [[Bismillah]].
 2. Wash both hands including wrists **3 times**.
 3. Rinse mouth.

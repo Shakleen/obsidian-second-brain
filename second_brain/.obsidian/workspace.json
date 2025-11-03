@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e917b7b4bddca0b4",
+        "id": "732452bee29c2f8a",
         "type": "tabs",
         "children": [
           {
-            "id": "299f36fc64cc70fb",
+            "id": "d48abaa92032e451",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/Mubah.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Mubah"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2176788686d16c39",
@@ -199,44 +194,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "299f36fc64cc70fb",
+  "active": "d48abaa92032e451",
   "lastOpenFiles": [
-    "inbox/Fard.md",
-    "inbox/Mustahab.md",
-    "inbox/Mubah.md",
-    "inbox/Fiqh.md",
-    "inbox/Levels of Obligation.md",
-    "sources/@assaadSixLevelsHalal2025.md",
-    "sources/@SunnahMuakkadahGhair.md",
+    "notes/islamic/2025-10-28_Fard-Ghusl.md",
+    "notes/islamic/2025-10-30_Ghusl-Sunnats.md",
+    "notes/islamic/2025-10-30_Ghusl-Fards.md",
+    "notes/islamic/2025-10-28_How-to-perform-Wudu-or-Ablution.md",
+    "notes/islamic/2025-10-30_Mustahab-wudu-steps.md",
+    "notes/islamic/2025-10-30_Sunnat-wudu-steps.md",
+    "notes/islamic/2025-10-30_Fard-wudu-steps.md",
+    "notes/islamic/Mubah.md",
+    "notes/islamic/Minor Sin.md",
+    "notes/islamic/Makruh.md",
+    "notes/islamic/Major Sin.md",
+    "notes/islamic/Levels of Obligation.md",
+    "notes/islamic/Haram.md",
+    "notes/islamic/Fiqh.md",
+    "notes/phd-application/2025-11-03_PhD-shortlist-universities.md",
+    "notes/islamic/Fard.md",
+    "notes/islamic/Wajib.md",
+    "notes/islamic/Nafl.md",
+    "notes/islamic/Sunnat-e-Ghair-Muakkadah.md",
+    "notes/islamic/Sunnat-e-Muakkadah.md",
+    "notes/islamic/Mustahab.md",
+    "notes/islamic/2025-11-03_Auzubillah.md",
+    "saved/Mubah.md",
+    "saved/Minor Sin.md",
+    "saved/Makruh.md",
+    "saved/Major Sin.md",
     "inbox/Mustahab.md~",
     "inbox/Islamic Terminologies.md~",
-    "inbox/Sunnat-e-Muakkadah.md",
-    "inbox/Wajib.md",
-    "inbox/2025-11-03_Levels-of-obligations.md",
     "inbox/2025-11-03_Levels-of-obligations.md~",
     "inbox/Sunnat-e-Ghair-Muakkadah.md~",
     "inbox/Sunnat-e-Muakkadah.md~",
     "inbox/Wajib.md~",
     "inbox/Fard.md~",
-    "inbox/Sunnat-e-Ghair-Muakkadah.md",
-    "inbox/Nafl.md",
     "inbox/2025-11-03_Fard-obligations.md~",
-    "inbox/2025-11-03_Fard-obligations.md",
-    "notes/islamic/2025-10-30_Sunnat-wudu-steps.md",
     "notes/islamic/2025-10-30_Sunnat-wudu-steps.md~",
-    "inbox/2025-11-03_PhD-shortlist-universities.md",
     "inbox/2025-11-03_PhD-shortlist-universities.md~",
-    "notes/islamic/1761821963-KVLY.md",
-    "inbox/2025-11-03_Auzubillah.md",
-    "notes/islamic/2025-10-28_How-to-perform-Wudu-or-Ablution.md",
-    "notes/islamic/2025-10-30_Fajr-prayer.md",
-    "inbox/2025-10-28_Salat.md",
-    "inbox/2025-10-30_Types-of-Salat-Rakats.md",
-    "notes/islamic/2025-10-30_Ghusl-Sunnats.md",
-    "notes/islamic/2025-10-30_When-to-Ghusl.md",
-    "notes/islamic/2025-10-30_Ghusl-Fards.md",
-    "notes/islamic/2025-10-30_Complete-Ghusl-step-by-step.md",
-    "notes/islamic/2025-10-28_Fard-Ghusl.md",
     "assets/Pasted image 20251026140133.png",
     "assets/Pasted image 20251026140057.png",
     "assets/Pasted image 20251026140043.png",
