@@ -16,6 +16,7 @@ references:
 aliases:
   - Wudu 
   - Ablution
+  - How to Wudu
 ---
 
 # How to perform Wudu or Ablution
