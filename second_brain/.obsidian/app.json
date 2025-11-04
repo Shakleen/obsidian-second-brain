@@ -5,6 +5,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "inbox",
   "alwaysUpdateLinks": true,
-  "vimMode": true,
+  "vimMode": false,
   "showLineNumber": true
 }

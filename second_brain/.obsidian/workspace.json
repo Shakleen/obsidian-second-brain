@@ -11,14 +11,10 @@
             "id": "e483a4de1596954e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/Adhan.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Adhan"
+              "title": "New tab"
             }
           }
         ]
@@ -200,9 +196,16 @@
   },
   "active": "e483a4de1596954e",
   "lastOpenFiles": [
-    "inbox/Adhan.md~",
-    "templates/note.md",
     "inbox/Adhan.md",
+    "saved/Adhan.md",
+    "saved/Adhan response.md",
+    "saved/Miswak.md",
+    "inbox/Adhan response.md",
+    "sources/@RespondingAdhanLife.md",
+    "inbox/Adhan.md~",
+    "assets/The Adhan.mp3",
+    "inbox/Adhan response.md~",
+    "templates/note.md",
     "inbox/Miswak.md",
     "sources/@HowUseMiswak1998.md",
     "notes/islamic/2025-10-30_Sunnat-wudu-steps.md",
@@ -222,10 +225,6 @@
     "notes/islamic/Haram.md",
     "notes/islamic/Fiqh.md",
     "notes/phd-application/2025-11-03_PhD-shortlist-universities.md",
-    "notes/islamic/Fard.md",
-    "notes/islamic/Wajib.md",
-    "notes/islamic/Nafl.md",
-    "notes/islamic/Sunnat-e-Ghair-Muakkadah.md",
     "inbox/Mustahab.md~",
     "inbox/Islamic Terminologies.md~",
     "inbox/2025-11-03_Levels-of-obligations.md~",
@@ -233,9 +232,6 @@
     "inbox/Sunnat-e-Muakkadah.md~",
     "inbox/Wajib.md~",
     "inbox/Fard.md~",
-    "inbox/2025-11-03_Fard-obligations.md~",
-    "notes/islamic/2025-10-30_Sunnat-wudu-steps.md~",
-    "inbox/2025-11-03_PhD-shortlist-universities.md~",
     "assets/Pasted image 20251026140133.png",
     "assets/Pasted image 20251026140057.png",
     "assets/Pasted image 20251026140043.png",
