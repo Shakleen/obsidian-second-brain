@@ -1,6 +1,6 @@
 ---
 Category: literature-note
-Zotero Tags: wudu, islamic, ablution, ghusl, salat, prayer, salah
+Zotero Tags: wudu, islamic, ablution, salat, prayer, salah
 Cite Key: ahmedSahihSalatShikkha2023
 Created: 1675188000000 
 ---
@@ -34,7 +34,20 @@ M. H. Ahmed, _Sahih Salat Shikkha O Jibon Ghanishtha Duashomuho_, 1st ed. Mohaka
 > 
 # Notes
 >
->## Wudu breaks
+># Adhan
+
+Prophet (SA) said, “When you hear the adhan, repeat what the muazzin says” - Bukhari
+
+All sentences should be repeated exactly as one hears in the adhan except for when “Haiya alal salah” and “Haiya alal falah”. During these sentences say “La hawla wala kuatta illah billah”
+
+## Who shouldn’t response
+
+1. Sleeping
+2. Eating
+3. While in nature’s call
+4. While having sex
+
+## Wudu breaks
 
 1. Pissing or shitting or farting.
 2. Bleeding
@@ -78,4 +91,4 @@ Omar Ibn Khattab (RA) reported that Prophet (SA) said, “He who recites Kalima 
 %% end annotations %%
 
 
-%% Import Date: 2025-10-30T16:53:10.401+06:00 %%
+%% Import Date: 2025-11-04T06:44:05.461+06:00 %%

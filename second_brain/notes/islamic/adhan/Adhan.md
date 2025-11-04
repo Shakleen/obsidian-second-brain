@@ -11,6 +11,9 @@ references:
   - "[[@aminIntroductionSalatPerformed2010]]"
   - "[[@ahmedSahihSalatShikkha2023]]"
   - "[[@SalatMuslimPrayer2016]]"
+aliases:
+  - call for prayer
+  - azan
 ---
 Adhan is call to prayer. It's given by the Muazzen. 
 ## Sentences

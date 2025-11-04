@@ -387,7 +387,42 @@ Created: 1451584800000
 > It seems appropriate to take a little rest each time after offering four Rak‘at.
 
 
+### Imported: 2025-11-04 6:43 am
+
+
+
+<mark style="background-color: #ffd400">Quote</mark>
+> The time of the Fajr or morning Prayer begins with dawn and ends just before sunrise
+
+<mark style="background-color: #ffd400">Quote</mark>
+> The time of the Zuhr or midday Prayer begins after the sun has crossed the zenith point and has begun to decline.
+
+<mark style="background-color: #ffd400">Quote</mark>
+> The time of the ‘Asr Prayer is when the sun has further advanced in decline and reaches a point nearly halfway between the beginning of decline and sunset,
+
+<mark style="background-color: #ff6666">Quote</mark>
+> Also, when the ‘Asr Prayer has been performed, no optional Prayer should be offered between that time and the time of sunset. Similarly, between morning Prayer and sunrise no optional Prayer should be offered.
+
+<mark style="background-color: #ffd400">Quote</mark>
+> The time of Maghrib Prayer begins immediately after the sun has set.
+
+<mark style="background-color: #ffd400">Quote</mark>
+> ends when the redness of the sunset gives way to a dusky grey.
+
+<mark style="background-color: #ffd400">Quote</mark>
+> It is, however, very strongly advised and preferred that Prayers should be generally offered at the beginning of their respective times and should not be delayed until the time is about to run out.
+
+<mark style="background-color: #5fb236">Quote</mark>
+> Determination of Intention
+
+<mark style="background-color: #5fb236">Quote</mark>
+> The Prayer should be offered within the fixed time allotted for that particular Prayer.
+
+<mark style="background-color: #ffd400">Quote</mark>
+> Allahumma Rabba hadhihidda‘watit-tammati  wassalatil qa’imati, ati Muhammada-nil-wasilata  wal-fadilata waddarajatar-rafi‘ata, wab‘ath-hu  maqamam-mahmuda-nilladhi wa’attahu. Innaka la  tukhliful mi‘ad.
+
+
 %% end annotations %%
 
 
-%% Import Date: 2025-10-29T22:02:59.053+06:00 %%
+%% Import Date: 2025-11-04T06:43:08.515+06:00 %%
