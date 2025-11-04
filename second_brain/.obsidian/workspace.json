@@ -11,10 +11,14 @@
             "id": "e483a4de1596954e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/islamic/Adhan dua.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Adhan dua"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2176788686d16c39",
@@ -196,6 +201,18 @@
   },
   "active": "e483a4de1596954e",
   "lastOpenFiles": [
+    "notes/islamic/Adhan.md",
+    "notes/islamic/Adhan dua.md",
+    "inbox/Adhan dua.md",
+    "saved/Adhan dua.md",
+    "inbox/Adhan dua.md~",
+    "assets/Adhan Dua 3.mp3",
+    "assets/Adhan dua 2.mp3",
+    "assets/Adhan Dua 1.mp3",
+    "notes/islamic/Adhan.md~",
+    "notes/islamic/Adhan response.md~",
+    "notes/islamic/Adhan response.md",
+    "notes/islamic/Miswak.md",
     "inbox/Adhan.md",
     "saved/Adhan.md",
     "saved/Adhan response.md",
@@ -219,19 +236,7 @@
     "notes/islamic/2025-10-30_Fard-wudu-steps.md",
     "notes/islamic/Mubah.md",
     "notes/islamic/Minor Sin.md",
-    "notes/islamic/Makruh.md",
-    "notes/islamic/Major Sin.md",
-    "notes/islamic/Levels of Obligation.md",
-    "notes/islamic/Haram.md",
-    "notes/islamic/Fiqh.md",
-    "notes/phd-application/2025-11-03_PhD-shortlist-universities.md",
     "inbox/Mustahab.md~",
-    "inbox/Islamic Terminologies.md~",
-    "inbox/2025-11-03_Levels-of-obligations.md~",
-    "inbox/Sunnat-e-Ghair-Muakkadah.md~",
-    "inbox/Sunnat-e-Muakkadah.md~",
-    "inbox/Wajib.md~",
-    "inbox/Fard.md~",
     "assets/Pasted image 20251026140133.png",
     "assets/Pasted image 20251026140057.png",
     "assets/Pasted image 20251026140043.png",

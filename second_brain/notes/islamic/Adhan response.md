@@ -20,7 +20,7 @@ La hawla wala quata illa billa
 > There is no power to achieve good or might to avert evil except through Allah.
 
 ## Why
-It is Sunnah to respond to Adhan.
+It is [[Sunnat-e-Ghair-Muakkadah|Sunnat]] to respond to Adhan.
 
 * Abdullah Ibn Omar said that the Prophet (SA) said,
   >  “When you hear the Muazzen, say what he says, then ask a blessing for me. Whoever asks a blessing for me once, Allah will bless him ten times. Then ask Allah for his favour to me. He who asks Allah’s favour for me, for him will I intercede.” (Muslim)

@@ -8,6 +8,9 @@ hubs:
   - "[[islamic]]"
 references:
   - "[[@RespondingAdhanLife]]"
+  - "[[@aminIntroductionSalatPerformed2010]]"
+  - "[[@ahmedSahihSalatShikkha2023]]"
+  - "[[@SalatMuslimPrayer2016]]"
 ---
 Adhan is call to prayer. It's given by the Muazzen. 
 ## Sentences
@@ -36,3 +39,5 @@ Adhan is call to prayer. It's given by the Muazzen.
 ![[The Adhan.mp3]]
 
 ![[Adhan response]]
+
+![[Adhan dua]]
