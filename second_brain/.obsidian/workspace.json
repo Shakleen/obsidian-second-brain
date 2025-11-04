@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/2025-10-28_Salat.md",
-                "mode": "source",
+                "file": "inbox/2025-10-30_Types-of-Salat-Rakats.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-28_Salat"
+              "title": "2025-10-30_Types-of-Salat-Rakats"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2176788686d16c39",
@@ -201,6 +200,9 @@
   },
   "active": "428ba6df718669fe",
   "lastOpenFiles": [
+    "notes/islamic/salah/2025-10-30_Fajr-prayer.md",
+    "inbox/2025-10-28_Salat.md",
+    "notes/islamic/salah/2025-10-30_Prayer-conditions.md",
     "inbox/2025-10-28_Salat.md~",
     "notes/islamic/adhan/Adhan dua.md",
     "notes/islamic/adhan/Adhan.md",
@@ -223,7 +225,6 @@
     "inbox/Adhan dua.md~",
     "assets/Adhan Dua 3.mp3",
     "assets/Adhan dua 2.mp3",
-    "assets/Adhan Dua 1.mp3",
     "notes/islamic/adhan/Adhan response.md",
     "notes/islamic/terminologies/Miswak.md",
     "inbox/Adhan.md",
@@ -235,8 +236,6 @@
     "templates/note.md",
     "inbox/Miswak.md",
     "sources/@HowUseMiswak1998.md",
-    "notes/islamic/wudu/2025-10-30_Sunnat-wudu-steps.md",
-    "notes/islamic/Bismillah.md",
     "assets/Pasted image 20251026140133.png",
     "assets/Pasted image 20251026140057.png",
     "assets/Pasted image 20251026140043.png",
