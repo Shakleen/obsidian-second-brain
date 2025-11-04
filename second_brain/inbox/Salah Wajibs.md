@@ -6,17 +6,17 @@ tags:
   - salat
   - salah 
   - prayer
-  - sunnah
+  - wajib
 hubs:
   - "[[islamic]]"
 references:
   - "[[@abrarApniKivabeNamaj2023]]"
 ---
-# Salah [[Sunnat-e-Muakkadah|Sunnats]]
+# Salah [[Wajib|Wajibs]]
 1. Recite [[Sura Fatiha]]
 2. Recite one other Sura (at least 3 ayaats)
 3. [[Tadeel Arkan]]
-4. [[Qirat]] should be done in the first 2 rakats of Fard prayers
+4. [[Qirat]] should be done in the first 2 [[Rakat|Rakats]] of Fard prayers
 5. Maintain order of [[Qirat]], [[Ruku]], and [[Shijda]]
 6. [[First Shahada]]
 7. [[Tashahud]]
