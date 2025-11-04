@@ -19,8 +19,8 @@ aliases:
 ---
 
 There is no mention of how to perform [[2025-10-28_Salat|Salat]] in the Qur'an. Zibrael (A) appeared before the Prophet (SA) and showed him practically how to perform salat and when to.
-
 ## Steps
 1. [[Intention of Salat]]
 2. [[Takbir e Tahrima]]
 3. Recite [[Sana]]
+4. [[Qirat]]
