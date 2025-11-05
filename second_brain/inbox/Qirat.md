@@ -17,8 +17,10 @@ references:
 ---
 The part of the [[2025-10-28_Salat|Salah]] where one must recite verses from the Quran. 
 ## Parts
-1. Recitation of [[Sura Fatiha]]
-2. Recitation of one other Sura from the Quran. Must recite at least three [[Ayaat|Ayaats]] from the Quran.
+1. [[Bismillah]]
+2. Recitation of [[Sura Fatiha]]
+3. [[Bismillah]]
+4. Recitation of one other Sura from the Quran. Must recite at least three [[Ayaat|Ayaats]] from the Quran.
 	* This is required for all [[Rakat|Rakats]] of non-[[Fard]] prayers ([[Sunnat-e-Muakkadah]], [[Sunnat-e-Ghair-Muakkadah]], and [[Nafl]] prayers).
 	* For [[Fard]] prayers, recitation of additional Suras aren't required for 3rd and 4th [[Rakat|Rakats]].
 ## Best Practice
