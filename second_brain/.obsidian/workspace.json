@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2176788686d16c39",
@@ -200,8 +201,11 @@
   },
   "active": "15ee02f47724135f",
   "lastOpenFiles": [
-    "inbox/Ayaat.md",
+    "sources/@TadiliArkanMy.md",
     "inbox/Tadeel Arkan.md",
+    "sources/@WhatTadilAlarkan.md",
+    "inbox/Qirat.md",
+    "inbox/Ayaat.md",
     "inbox/Salah Wajibs.md",
     "inbox/Salat step-by-step.md",
     "inbox/Salah Sunnahs.md",
@@ -210,7 +214,6 @@
     "inbox/Ruku.md",
     "inbox/Rakat.md",
     "inbox/Qiyam.md",
-    "inbox/Qirat.md",
     "inbox/Intention of Salat.md",
     "inbox/Shijda Tasbih.md",
     "inbox/Sana.md",
@@ -240,8 +243,6 @@
     "notes/islamic/salah/2025-10-30_Fajr-prayer.md",
     "notes/islamic/salah/2025-10-30_Prayer-conditions.md",
     "notes/islamic/adhan/Adhan dua.md",
-    "notes/islamic/adhan/Adhan.md",
-    "sources/@ahmedSahihSalatShikkha2023.md",
     "assets/Pasted image 20251026140133.png",
     "assets/Pasted image 20251026140057.png",
     "assets/Pasted image 20251026140043.png",
