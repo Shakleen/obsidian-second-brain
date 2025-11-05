@@ -33,3 +33,7 @@ Qiyam is the part of [[2025-10-28_Salat|Salah]] where you must stand straight wh
         >   1. Pecking like a hen
         >   2. Squating like a dog and 
         >   3. Looking around like a fox
+        
+    
+![[Pasted image 20251104170253.png]]
+![[Pasted image 20251104170322.png]]

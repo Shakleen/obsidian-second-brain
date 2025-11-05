@@ -26,7 +26,7 @@ references:
 11. [[Takbir]] when going to and standing up from Ruku
 12. [[Ruku Tasbih]]
 13. [[Shijda Tasbih]]
-14. Placing hand on knee during [[Ruku]]
+14. Placing hands on knees during [[Ruku]]
 15. When going to [[Shijda]] first knees, then hands, then forehead, and finally nose should touch the ground
 16. Males should sit on their left leg and keep right leg up right during [[Tashahud]]. Females should keep both legs to their left side
 17. Keep arms on your thighs during [[Tashahud]]

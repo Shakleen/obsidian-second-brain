@@ -18,7 +18,7 @@ aliases:
   - Opening supplication
   - Opening dua for salah
 ---
-This is the opening supplication (dua) that comes after [[Takbir e Tahrima]] is salah.
+This is perhaps the most well known [[Opening Supplication]] that comes after [[Takbir e Tahrima]] is salah.
 ## Lines
 1. Subhanaka Allahumma wa bihamdika
    > سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ

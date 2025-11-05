@@ -20,4 +20,5 @@ references:
 ## Process
 * Begins the prayer or salah. 
 * Raise your hands upto your ears or shoulders and say [[Takbir]]
-
+![[Pasted image 20251104170207.png]]
+![[Pasted image 20251104170222.png]]
