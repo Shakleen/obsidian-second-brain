@@ -15,9 +15,10 @@ references:
   - "[[@ahmedSahihSalatShikkha2023]]"
   - "[[@abrarApniKivabeNamaj2023]]"
 ---
-Said during [[Ruku]].
-## Supplication #1
-> subhaana rabbiyal azeem
-> Glory be to my Lord Almighty
+It's said in place of the normal [[Takbir]] when getting up from [[Ruku]] to go to the [[Qawma]] position.
+## Sentence
+> Samiallah huliman hamida
 
-Many more described in the book [[@aminIntroductionSalatPerformed2010]].
+> Allah listens to the one, who praises Him.
+## Response
+This requires [[Ruku supplication]] as a response.

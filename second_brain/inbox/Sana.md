@@ -14,9 +14,6 @@ references:
   - "[[@SalatMuslimPrayer2016]]"
   - "[[@ahmedSahihSalatShikkha2023]]"
   - "[[@abrarApniKivabeNamaj2023]]"
-aliases:
-  - Opening supplication
-  - Opening dua for salah
 ---
 This is perhaps the most well known [[Opening Supplication]] that comes after [[Takbir e Tahrima]] is salah.
 ## Lines

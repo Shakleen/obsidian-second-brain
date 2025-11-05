@@ -15,9 +15,10 @@ references:
   - "[[@ahmedSahihSalatShikkha2023]]"
   - "[[@abrarApniKivabeNamaj2023]]"
 ---
-Said during [[Ruku]].
+Said after one says or hears [[Ruku Takbir]] in the [[Qawma]] position.
 ## Supplication #1
-> subhaana rabbiyal azeem
-> Glory be to my Lord Almighty
+> Rabbanakal hamd
+> 
+> Our lord, all praises are indeed for You.
 
 Many more described in the book [[@aminIntroductionSalatPerformed2010]].

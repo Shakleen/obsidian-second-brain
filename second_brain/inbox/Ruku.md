@@ -2,9 +2,9 @@
 created: 2025-10-28
 type: self-note
 tags:
-  - islamic 
+  - islamic
   - salat
-  - salah 
+  - salah
   - prayer
   - how-to
 hubs:
@@ -14,9 +14,15 @@ references:
   - "[[@SalatMuslimPrayer2016]]"
   - "[[@ahmedSahihSalatShikkha2023]]"
   - "[[@abrarApniKivabeNamaj2023]]"
+aliases:
+  - Roku
+  - Prayer bow
 ---
 The second stance in [[2025-10-28_Salat|Salah]] which one goes from [[Qiyam]] position upon [[Takbir]].
 * Bow down until your head is in the same line as your butt.
-* Put your hands on your knees.
+* Putting palms firmly on your knees.
+* FIngers spaced out
+* Hands away from sides
+* Ramain until joints are at ease and relaxed
 ![[Pasted image 20251104170437.png]]
 ![[Pasted image 20251104170447.png]]

@@ -24,3 +24,6 @@ The part of the [[2025-10-28_Salat|Salah]] where one must recite verses from the
 ## Best Practice
 1. Recite [[Ayaat|Ayaats]] properly with proper elongation and gaps in between.
 2. Recite Sura from which is furthest from [[Sura Fatiha]] to closest. For example, you'd recite [[Sura An-Nisa]] after [[Sura Al-Fil]].
+3. Recite [[Sura Fatiha]] before other 
+4. *Shortening is permissible* when the moment requires it. According to Hadith from Muslim and Bukhari, Prophet (SA) said,
+   > I enter into prayer intending to lengthen it, but I hear the crying of a child, so I shorten my prayer, because I know how deeply his mother feels about his crying.

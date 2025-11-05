@@ -15,9 +15,4 @@ references:
   - "[[@ahmedSahihSalatShikkha2023]]"
   - "[[@abrarApniKivabeNamaj2023]]"
 ---
-Said during [[Ruku]].
-## Supplication #1
-> subhaana rabbiyal azeem
-> Glory be to my Lord Almighty
-
-Many more described in the book [[@aminIntroductionSalatPerformed2010]].
+The [[2025-10-28_Salat|Salah]] position one goes to after getting up from [[Ruku]] and before going to [[Shijda]]. The position is similar to [[Qiyam]] except hands are placed to the side of the body.

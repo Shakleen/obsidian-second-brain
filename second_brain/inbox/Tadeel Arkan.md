@@ -14,7 +14,7 @@ aliases:
   - ta'dil arkan
   - ta'dil al-arkan
 ---
-To go to different stances in [[2025-10-28_Salat|Salah]] carefully, slowly and steadily. There are 4 places where ones limbs must remain calm and motionless to fulfill Tadeel Al-Arkan:
+To go to different stances in [[2025-10-28_Salat|Salah]] carefully, slowly and steadily. There are **4 places** where ones limbs must remain **calm and motionless** to fulfill Tadeel Al-Arkan:
 1. [[Ruku]]: Bowing after [[Qiyam]]
 2. [[Shijda]]: Prostration
 3. [[Qawma]]: Standing after [[Ruku]] and before going to [[Shijda]]
