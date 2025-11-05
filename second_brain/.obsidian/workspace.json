@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b10d7c5067652388",
+        "id": "8c295a4824e0d934",
         "type": "tabs",
         "children": [
           {
-            "id": "d9c15d456c803bdf",
+            "id": "e52bc3e860ca1685",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/2025-10-30_Ishraq-prayer.md",
+                "file": "notes/islamic/salah/2025-10-28_Salat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-30_Ishraq-prayer"
+              "title": "2025-10-28_Salat"
             }
           }
         ]
@@ -198,34 +198,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d9c15d456c803bdf",
+  "active": "e52bc3e860ca1685",
   "lastOpenFiles": [
-    "notes/islamic/2025-10-30_Daily-prayers.md",
-    "inbox/Tahajjud prayer.md",
+    "notes/islamic/salah/Ruku Takbir.md",
+    "notes/islamic/salah/Attahyyatu.md",
+    "notes/islamic/salah/Closing Supplication.md",
+    "notes/islamic/salah/2025-10-28_Salat.md",
+    "notes/islamic/wudu/2025-10-28_How-to-perform-Wudu-or-Ablution.md",
+    "notes/islamic/salat",
+    "notes/islamic/salah/Jalsa Al-istira'hah.md",
+    "notes/islamic/salah/Tahajjud prayer.md",
+    "notes/islamic/salah/Dua Qunood.md",
+    "saved/Tahajjud prayer.md",
+    "saved/Dua Qunood.md",
+    "notes/islamic/salah/2025-10-30_Daily-prayers.md",
     "inbox/2025-10-30_Ishraq-prayer.md",
+    "inbox/Tahajjud prayer.md",
     "notes/islamic/salah/2025-10-30_Fajr-prayer.md",
     "inbox/Dua Qunood.md",
-    "notes/islamic/Salat step-by-step.md",
-    "notes/islamic/Sura Fatiha.md",
-    "inbox/Jalsa Al-istira'hah.md",
-    "notes/islamic/2025-10-30_Magrib-prayer.md",
-    "notes/islamic/2025-10-30_Tahajjud-prayer.md",
-    "notes/islamic/Taslim.md",
-    "notes/islamic/Tashahud.md",
-    "notes/islamic/Takbir.md",
-    "notes/islamic/Tadeel Arkan.md",
-    "notes/islamic/Shijda Tasbih.md",
-    "notes/islamic/Shijda.md",
-    "notes/islamic/Sana.md",
-    "notes/islamic/Salah Wajibs.md",
-    "notes/islamic/Salah Sunnahs.md",
-    "notes/islamic/Ruku Tasbih.md",
-    "notes/islamic/Ruku Takbir.md",
-    "notes/islamic/Ruku supplication.md",
-    "notes/islamic/Ruku.md",
-    "notes/islamic/Rakat.md",
-    "notes/islamic/Qiyam.md",
-    "notes/islamic/Qirat.md",
+    "notes/islamic/salah/Salat step-by-step.md",
+    "notes/islamic/salah/Sura Fatiha.md",
+    "notes/islamic/salah/2025-10-30_Magrib-prayer.md",
+    "notes/islamic/salah/2025-10-30_Tahajjud-prayer.md",
+    "notes/islamic/salah/Taslim.md",
+    "notes/islamic/salah/Tashahud.md",
+    "notes/islamic/salah/Takbir.md",
+    "notes/islamic/salah/Tadeel Arkan.md",
+    "notes/islamic/salah/Shijda Tasbih.md",
+    "notes/islamic/salah/Shijda.md",
+    "notes/islamic/salah/Sana.md",
     "inbox/Bitr prayer.md~",
     "inbox/2025-10-30_Isha-prayer.md~",
     "notes/islamic/salah/2025-10-30_Fajr-prayer.md~",
@@ -244,7 +245,6 @@
     "assets/Pasted image 20251104170222.png",
     "assets/Pasted image 20251104170207.png",
     "assets/Surat Al-Fatihah.mp3",
-    "assets/Sana , Subhanakallahumma wabihamdika.mp3",
-    "inbox/Takbir e Tahrima.md~"
+    "assets/Sana , Subhanakallahumma wabihamdika.mp3"
   ]
 }

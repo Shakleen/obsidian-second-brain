@@ -51,7 +51,7 @@ The following steps should be performed in order and maintain [[Tadeel Arkan]] (
 	2. **(Second [[Rakat]] but not final)** 
 		1. Remain seated in [[Tashahud]]. 
 		2. Recite [[Attahyyatu]]. 
-		3. [[Takbir]]: [[Tashahud]] -> [[QIyam]].
+		3. [[Takbir]]: [[Tashahud]] -> [[Qiyam]].
 	3. **(Final [[Rakat]])** 
 		1. Remain seated in [[Tashahud]]. 
 		2. Recite [[Attahyyatu]]
