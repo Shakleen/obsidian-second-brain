@@ -15,7 +15,7 @@ references:
   - "[[@ahmedSahihSalatShikkha2023]]"
   - "[[@abrarApniKivabeNamaj2023]]"
 ---
-Qiyam is the part of [[2025-10-28_Salat|Salah]] where you must stand straight while holding a specific stature described below:
+The part of [[2025-10-28_Salat|Salah]] where you must stand straight while holding a specific stature described below:
 * Stand with your back **straight**.
 * After [[Takbir e Tahrima]], lower hands down and place right hand on top of left.
     - The exact position is highly debated. *However, it's not important.*

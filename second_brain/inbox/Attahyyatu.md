@@ -22,8 +22,13 @@ Said during [[Tashahud]] right after getting up from the 2nd [[Shijda]].
    > All compliments, prayers, and goodness are for Allah (Swt)
 2. Assalaamu 'alayka 'ayyuhan-Nabiyyu wa rahmatullaahi wa barakaatuhu.
    السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
-   > Peace, mer
+   > Peace, mercy, and blessing of Allah (Swt) be on the Messenger
 3. Assalaamu 'alaynaa wa 'alaa 'ibaadillaahis-saaliheen.
    السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللهِ الصَّالِحِينَ
-4. Ash-hadu 'an laa 'ilaaha 'illallaahu wa 'ash-hadu 'anna Muhammadan 'abduhu wa Rasooluhu. 
+   > Peace be on us and on all the righteous slaves of Allah (Swt)
+4. Ash-hadu 'an laa 'ilaaha 'illallaahu wa 'ash-hadu 'anna Muhammadan 'abduhu wa Rasooluhu. ^final-verse
    أّشَْدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ
+   > I bear witness that there is no god but Allah, and I bear witness that Mohammad (SA) is His slave and messenger.
+   
+## Pronunciation
+![[Attahyyatu.mp3]]
