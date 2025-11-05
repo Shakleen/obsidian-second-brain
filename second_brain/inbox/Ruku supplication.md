@@ -7,6 +7,7 @@ tags:
   - salah 
   - prayer
   - how-to
+  - supplication
 hubs:
   - "[[islamic]]"
 references:

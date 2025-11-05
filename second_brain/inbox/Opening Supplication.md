@@ -6,7 +6,7 @@ tags:
   - salat
   - salah
   - prayer
-  - dua
+  - supplication
 hubs:
   - "[[islamic]]"
 references:

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/Ruku supplication.md",
+                "file": "inbox/Jalsa supplication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ruku supplication"
+              "title": "Jalsa supplication"
             }
           }
         ]
@@ -200,7 +200,10 @@
   },
   "active": "15ee02f47724135f",
   "lastOpenFiles": [
+    "inbox/Shijda.md",
     "inbox/Jalsa supplication.md",
+    "inbox/Opening Supplication.md",
+    "inbox/Ruku supplication.md",
     "inbox/Salat step-by-step.md",
     "notes/islamic/adhan/Adhan response.md",
     "notes/islamic/adhan/Adhan.md",
@@ -212,15 +215,12 @@
     "inbox/Salat step-by-step.md~",
     "inbox/Intention of Salat.md",
     "inbox/Ruku.md",
-    "inbox/Shijda.md",
     "assets/Pasted image 20251105091645.png",
     "assets/Pasted image 20251105091638.png",
     "assets/Pasted image 20251105091631.png",
     "inbox/Opening Supplecation.md",
     "inbox/Sana.md",
-    "inbox/Opening Supplication.md",
     "inbox/Ruku Tasbih.md",
-    "inbox/Ruku supplication.md",
     "inbox/Ruku Takbir.md",
     "inbox/Takbir.md",
     "inbox/Qawma.md",
