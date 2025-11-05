@@ -38,10 +38,10 @@ The following steps should be performed in order and maintain [[Tadeel Arkan]] (
 	1. [[Qawma]] -> [[Shijda]]. 
 	2. Recite [[Shijda Tasbih]] minimum 3 times (You say more but the count must be odd).
 7. [[Takbir]] 
-	1. [[Shijda]] -> [[Jalsa]]
+	1. [[Shijda]] -> [[Jalsa Al-istira'hah]]
 	2. Optional: Say [[Jalsa supplication]]
 8. [[Takbir]] 
-	1. [[Jalsa]] -> [[Shijda]]
+	1. [[Jalsa Al-istira'hah]] -> [[Shijda]]
 	2. Recite [[Shijda Tasbih]] minimum 3 times (You say more but the count must be odd).
 9. [[Takbir]]: If you're in
 	1. **(First [[Rakat]])** 

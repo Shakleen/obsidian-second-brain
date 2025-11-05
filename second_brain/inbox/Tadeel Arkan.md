@@ -18,7 +18,7 @@ To go to different stances in [[2025-10-28_Salat|Salah]] carefully, slowly and s
 1. [[Ruku]]: Bowing after [[Qiyam]]
 2. [[Shijda]]: Prostration
 3. [[Qawma]]: Standing after [[Ruku]] and before going to [[Shijda]]
-4. [[Jalsa]]: Sitting between two [[Shijda]]
+4. [[Jalsa Al-istira'hah]]: Sitting between two [[Shijda]]
 ## Source
 A famous hadith describes a person praying too quickly. Rifaa Ibnu Rafi narrates:
 > _"When we were in the mosque, a man dressed like a Bedouin came._ He performed a prayer in a very brief manner. Then, he finished prayer and greeted the Messenger of Allah (pbuh). _The Messenger of Allah said_,
