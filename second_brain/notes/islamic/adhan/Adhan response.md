@@ -13,7 +13,7 @@ references:
 
 # Adhan response
 
-Repeat [[Adhan]] sentences exactly as the Muazzen says except for sentences 4 and 5. For these say the following:
+Repeat [[Adhan]] sentences exactly as the Muazzen says except for verses [[Adhan#^fourth-verse]] and [[Adhan#^fifth-verse]]. For these say the following:
 
 La hawla wala quata illa billa
 > لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِالله

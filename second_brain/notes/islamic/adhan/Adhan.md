@@ -26,10 +26,10 @@ Adhan is call to prayer. It's given by the Muazzen.
 3. Ashahadu Anna Mohammadur Rasulullah
    > أَشْهَدُ أَنَّ مُحَمَّدًا رَّسُوْلُ اللهِ 
    > I bear witness that Muḥammad is the Messenger of Allah.
-4. Haiya a'lal salat
+4. Haiya a'lal salat ^fourth-verse
    > حيَّ عَلَى الصَّلَاة
    > Come to salat.
-5. Haiya a'lal falah
+5. Haiya a'lal falah ^fifth-verse
    > حَيَّ عَلَى الْفَلَاح 
    > Come to success.
 6. Allahu akbar
