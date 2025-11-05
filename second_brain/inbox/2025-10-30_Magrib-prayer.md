@@ -18,3 +18,8 @@ references:
 The time for **Magrib**
 1. Begins: Right after sunset.
 2. Ends: When the redness of the sky gives to dusky gray.
+
+## [[Rakat|Rakats]]
+1. 3 [[Rakat|rakat]] of [[Fard]]
+2. 2 [[Rakat|rakat]] of [[Sunnat-e-Muakkadah]]
+3. 2 [[Rakat|rakat]] of [[Nafl]]

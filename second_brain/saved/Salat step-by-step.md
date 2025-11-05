@@ -58,4 +58,3 @@ The following steps should be performed in order and maintain [[Tadeel Arkan]] (
 		3. Recite [[Durud]]
 		4. Recite [[Closing Supplication]]
 		5. End prayer with [[Taslim]] 
-		6. Optional: [[Munajat]]
