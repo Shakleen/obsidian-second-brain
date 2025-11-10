@@ -1,3 +1,12 @@
 {
-  "editor:delete-paragraph": []
+  "editor:delete-paragraph": [],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ]
 }

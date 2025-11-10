@@ -22,7 +22,7 @@ This is perhaps the most well known [[Opening Supplication]] that comes after [[
    > O Allah, glory and praise be to you.
 2. wa tabarakasmuka
    > وَتَبَارَكَ اسْمُكَ
-   > and blssed be your name
+   > and blessed be your name
 3. wa ta’ala jadduka
    > وَتَعَالَى جَدُّكَ
    > and supreme is your majesty
@@ -32,3 +32,36 @@ This is perhaps the most well known [[Opening Supplication]] that comes after [[
    
 ## Pronunciation
 ![[Sana , Subhanakallahumma wabihamdika.mp3]]
+
+## Flashcards
+#flashcards/islamic
+What is the meaning of the following line of [[Sana]]:
+> Subhanaka Allahumma wa bihamdika
+   > سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ
+   ?
+O Allah, glory and praise be to you.
+<!--SR:!2025-11-11,2,230-->
+
+#flashcards/islamic
+What is the meaning of the following line of [[Sana]]:
+> wa tabarakasmuka
+   > وَتَبَارَكَ اسْمُكَ
+ ?
+ and blessed be your name
+<!--SR:!2025-11-10,2,248-->
+
+#flashcards/islamic
+What is the meaning of the following line of [[Sana]]:
+> wa ta’ala jadduka
+   > وَتَعَالَى جَدُّكَ
+?
+and supreme is your majesty
+<!--SR:!2025-11-10,2,248-->
+
+#flashcards/islamic
+What is the meaning of the following line of [[Sana]]:
+> wa la ilaha ghairuk
+   > وَلاَ إِلَهَ غَيْرُكَ
+   ?
+and there is no God but you
+<!--SR:!2025-11-10,2,248-->

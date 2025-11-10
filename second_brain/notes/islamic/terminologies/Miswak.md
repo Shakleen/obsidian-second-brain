@@ -19,7 +19,7 @@ Siwak means cleaning the mouth and teeth with a siwak which is the name given to
 * Wash siwak tool after use.
 * Place it in a clean place.
 ## When
-1. Making [[2025-10-28_How-to-perform-Wudu-or-Ablution|Wudu]] and at times of [[2025-10-28_Salat|Salat]].
+1. Making [[Wudu|Wudu]] and at times of [[2025-10-28_Salat|Salat]].
    > the Prophet (peace and blessings of Allah be upon him) said: Were it not for the fact that I did not want to make things too hard for my ummah, I would have commanded them to use the siwak at every time of prayer. **(Reported by al-Bukhari, 2/299 and Muslim, 1/151)**
 2. Entering home to be with family.
    > ‘Aishah was asked what the Messenger of Allah (peace and blessings of Allah be upon him) did when he first came home. She said, When he entered his house, the first thing he would do was to use the siwak. **(Reported by Muslim, 1/220)**

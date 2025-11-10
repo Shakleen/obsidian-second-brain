@@ -4,24 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "8c295a4824e0d934",
+        "id": "e9d915c4dee99ab4",
         "type": "tabs",
         "children": [
           {
-            "id": "e52bc3e860ca1685",
+            "id": "5cf08540e55b254a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/journal/daily/2025-11-10.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-11-10"
+            }
+          },
+          {
+            "id": "29627ed162b6037f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/islamic/salah/2025-10-28_Salat.md",
-                "mode": "source",
-                "source": false
+                "file": "inbox/What is my PhD research goal.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-10-28_Salat"
+              "title": "What is my PhD research goal"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +104,7 @@
       {
         "id": "5ad2b414e4e9d0de",
         "type": "tabs",
-        "dimension": 58.941176470588246,
+        "dimension": 58.705882352941174,
         "children": [
           {
             "id": "88c0371536feab67",
@@ -95,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "inbox/What is my PhD research goal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for What is my PhD research goal"
             }
           },
           {
@@ -113,11 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "inbox/What is my PhD research goal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from What is my PhD research goal"
             }
           },
           {
@@ -136,36 +155,27 @@
             }
           },
           {
-            "id": "e91158acf15fc7b4",
+            "id": "2f36a77ee63a5115",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "inbox/What is my PhD research goal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "e625520c82022407",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of What is my PhD research goal"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "6b8c74d18ddb48e5",
         "type": "tabs",
-        "dimension": 41.058823529411754,
+        "dimension": 41.294117647058826,
         "children": [
           {
             "id": "0568921d7a3ba372",
@@ -181,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,58 +202,62 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e52bc3e860ca1685",
+  "active": "dc29a72a20cdc7e2",
   "lastOpenFiles": [
-    "sources/clippings/youtube/LeanProductivity - Sascha D. Kasper – The Obsidian Web Clipper A Game Changer for Research & Note-Taking.md",
-    "notes/islamic/salah/2025-10-28_Salat.md",
-    "sources/clippings/youtube",
-    "sources/clippings",
-    "notes/islamic/salah/Ruku Takbir.md",
-    "notes/islamic/salah/Attahyyatu.md",
-    "notes/islamic/salah/Closing Supplication.md",
-    "notes/islamic/wudu/2025-10-28_How-to-perform-Wudu-or-Ablution.md",
-    "notes/islamic/salat",
-    "notes/islamic/salah/Jalsa Al-istira'hah.md",
-    "notes/islamic/salah/Tahajjud prayer.md",
-    "notes/islamic/salah/Dua Qunood.md",
-    "saved/Tahajjud prayer.md",
-    "saved/Dua Qunood.md",
-    "notes/islamic/salah/2025-10-30_Daily-prayers.md",
-    "inbox/2025-10-30_Ishraq-prayer.md",
-    "inbox/Tahajjud prayer.md",
-    "notes/islamic/salah/2025-10-30_Fajr-prayer.md",
-    "inbox/Dua Qunood.md",
-    "notes/islamic/salah/Salat step-by-step.md",
-    "notes/islamic/salah/Sura Fatiha.md",
-    "notes/islamic/salah/2025-10-30_Magrib-prayer.md",
-    "notes/islamic/salah/2025-10-30_Tahajjud-prayer.md",
-    "notes/islamic/salah/Taslim.md",
-    "notes/islamic/salah/Tashahud.md",
-    "notes/islamic/salah/Takbir.md",
-    "notes/islamic/salah/Tadeel Arkan.md",
-    "notes/islamic/salah/Shijda Tasbih.md",
-    "notes/islamic/salah/Shijda.md",
-    "inbox/Bitr prayer.md~",
-    "inbox/2025-10-30_Isha-prayer.md~",
-    "notes/islamic/salah/2025-10-30_Fajr-prayer.md~",
-    "inbox/2025-10-30_Daily-prayers.md~",
-    "assets/Durood.mp3",
-    "assets/Attahyyatu.mp3",
-    "assets/Pasted image 20251105124743.png",
-    "inbox/Salat step-by-step.md~",
-    "assets/Pasted image 20251105091645.png",
-    "assets/Pasted image 20251105091638.png",
-    "assets/Pasted image 20251105091631.png",
-    "assets/Pasted image 20251104170447.png",
-    "assets/Pasted image 20251104170437.png",
-    "assets/Pasted image 20251104170322.png",
-    "assets/Pasted image 20251104170253.png",
-    "assets/Pasted image 20251104170222.png",
-    "assets/Pasted image 20251104170207.png"
+    "sources/clippings/ai_chat/PhD research topics in educational NLP.md",
+    "notes/journal/daily/2025-11-10.md",
+    "inbox/What is my PhD research goal.md",
+    "sources/clippings/ai_chat/PhD research in NLP education.md",
+    "sources/clippings/ai_chat/I want to pursue my PhD next year in Computer Sci....md",
+    "sources/clippings/ai_chat/NLP for Educational Advancement - Grok.md",
+    "sources/clippings/youtube/The Style Theorists – How to Pick the Best Glasses for Your Face Shape  Style Theory.md",
+    "assets/Pasted image 20251110093046.png",
+    "sources/clippings/youtube/The Style Theorists – I tested tiktok vs dentist flossing methods ranked.md",
+    "inbox/UC San Diego checklist.md",
+    "notes/self-care/Toiletries Products I Use.md",
+    "notes/self-care/Feet cream.md",
+    "sources/clippings/youtube/The Style Theorists – Is Conditioner ACTUALLY Good for Your Hair  Style Theory.md",
+    "sources/clippings/youtube/The Style Theorists – $1 vs $300 Toothbrush  Style Theory.md",
+    "notes/journal/daily/2025-11-09.md",
+    "notes/phd-application/Covey's Quadrant for PhD application.md",
+    "notes/self-care/Shower Routine.md",
+    "notes/self-care/Oral Care Routine.md",
+    "notes/self-care/Oral Care Product Recommendations.md",
+    "notes/self-care/Mild shampoo.md",
+    "assets/Pasted image 20251109212518.png",
+    "notes/self-care/Hydrating face wash.md",
+    "assets/Pasted image 20251109212413.png",
+    "notes/self-care/Sunscreen.md",
+    "assets/Pasted image 20251109212225.png",
+    "assets/Pasted image 20251109211943.png",
+    "notes/self-care/Moisturizer.md",
+    "assets/Pasted image 20251109211736.png",
+    "notes/self-care/Gentle Body Wash.md",
+    "assets/Pasted image 20251109211548.png",
+    "assets/Pasted image 20251109211526.png",
+    "assets/Pasted image 20251109211456.png",
+    "sources/clippings/ai_chat/I saw an episode from Andrew Huberman on oral car....md",
+    "sources/clippings/ai_chat/I am researching effective shower techniques. I w....md",
+    "sources/clippings/ai_chat/Optimizing Shower Routine for Dry Skin - Grok.md",
+    "sources/clippings/ai_chat",
+    "notes/self-care",
+    "sources/clippings/claude",
+    "sources/clippings/gemini",
+    "sources/pdfs/Building a Second Brain.pdf",
+    "sources/clippings/chatgpt",
+    "sources/pdfs/The Psychology of Money.pdf",
+    "sources/pdfs/How to Win Friends and Influence People.pdf",
+    "sources/pdfs/How to Talk to Anyone.pdf",
+    "sources/clippings/default",
+    "assets/Pasted image 20251106092745.png"
   ]
 }

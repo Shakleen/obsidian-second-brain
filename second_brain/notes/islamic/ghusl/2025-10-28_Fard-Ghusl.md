@@ -21,15 +21,15 @@ aliases:
 
 # Fard Ghusl
 
-![[2025-10-30_When-to-Ghusl|When to Ghusl]]
+![[When to Ghusl|When to Ghusl]]
 
 ## Ghusl steps
 
-![[2025-10-30_Ghusl-Fards|Ghusl Fards]]
+![[Ghusl Fards|Ghusl Fards]]
 
-![[2025-10-30_Ghusl-Sunnats|Ghusl Sunnats]]
+![[Ghusl Sunnats|Ghusl Sunnats]]
 
-![[2025-10-30_Complete-Ghusl-step-by-step|Complete Ghusl step by step]]
+![[Complete Ghusl step-by-step|Complete Ghusl step by step]]
 
 ## Source
 Aishah (radyAllaahu anhaa) in Al-Bukhaaree and Muslim, in which she said:

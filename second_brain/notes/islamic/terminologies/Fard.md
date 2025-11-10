@@ -31,5 +31,5 @@ Requires the entire process to be repeated again. Otherwise, the process isn't v
 - Fasting in Ramadan
 - etc.
 ### Processes
-1. 4 fards of a complete [[2025-10-30_Fard-wudu-steps|wudu]]
-2. 3 fards of a complete [[2025-10-30_Ghusl-Fards|ghusl]]
+1. 4 fards of a complete [[Fard Wudu Steps|wudu]]
+2. 3 fards of a complete [[Ghusl Fards|ghusl]]

@@ -1,10 +1,11 @@
 [
-  "obsidian-git",
-  "obsidian-zotero-desktop-connector",
   "obsidian-excalidraw-plugin",
-  "obsidian-pandoc-reference-list",
   "templater-obsidian",
   "calendar",
   "nldates-obsidian",
-  "obsidian-vimrc-support"
+  "obsidian-vimrc-support",
+  "pdf-plus",
+  "periodic-notes",
+  "obsidian-spaced-repetition",
+  "obsidian-git"
 ]

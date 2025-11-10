@@ -13,7 +13,7 @@ aliases:
   - sagira
 ---
 Minor sins are wrongdoings that can be forgiven through:
-1. [[2025-10-28_How-to-perform-Wudu-or-Ablution|Wudu]] (ablution)
+1. [[Wudu|Wudu]] (ablution)
 2. [[2025-10-28_Fard-Ghusl|Ghusl]] (shower)
 3. [[2025-10-28_Salat|Salat]] (prayer)
 4. Doing good deeds

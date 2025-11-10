@@ -20,10 +20,9 @@ references:
 
 # Complete wudu
 
-### Step 1: Make Intention 
-Determine your intention either aloud or silently. There are no words or special statements that need to be said here. Creating the intention is a matter of the heart and mind.
+### Step 1: [[Niyat]] 
 
-### Step 2: Say [[Bismillah|Bismillah]]
+### Step 2: Say [[Bismillah]]
 
 ### Step 3: Wash hands 3 Times
 * Start with right, then left hand.
@@ -41,15 +40,15 @@ Determine your intention either aloud or silently. There are no words or special
 * Inhale or sniff water slightly.
 * Snort it out. Remove water using **left** hand.
 
-### Step 6: Wash face 3 times 
+### Step 6: Wash [[Face Definition for Wudu|face]] 3 times 
 * Wash from ear to ear and from forehead to the lower part of chin.
 * If thick beard, run your hands through the beard hair.
 
-### Step 7: Wash forearms
+### Step 7: Wash [[Arm Definition for Wudu|arms]]
 * From wrist upto and including elbow.
 * No part should be left dry.
 
-### Step 8: **Wipe** head once
+### Step 8: **Wipe** [[Head Definition for Wudu|head]] once
 * Head: Pinky, ring, and middle finger.
 * Back of neck: back of hand/palm.
 
@@ -57,10 +56,10 @@ Determine your intention either aloud or silently. There are no words or special
 * Inside ear: Index finger 
 * Outside ear: Thumb
 
-### Step 10: Wash feet 
+### Step 10: Wash [[Feet definition for Wudu|feet]] 
 * Right 3 times, then left.
 * Must thoroughly wash upto ankles, including inbetween toes.
 
-### Step 11: Recite [[2025-10-30_Kalima-Shahada|Kalima Shahadat]]
+### Step 11: Recite [[Kalima Shahadat|Kalima Shahadat]]
 
-### Step 12: Recite [[2025-10-30_Wudu-ending-dua|Wudu ending dua]] 
+### Step 12: Recite [[Wudu ending dua|Wudu ending dua]] 

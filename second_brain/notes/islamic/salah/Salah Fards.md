@@ -12,10 +12,13 @@ hubs:
 references:
   - "[[@abrarApniKivabeNamaj2023]]"
 ---
-# Salah [[Fard|Fards]]
+#flashcards/islamic
+**Six** Salah [[Fard|Fards]]
+?
 1. [[Takbir e Tahrima]]
 2. [[Qiyam]]
 3. [[Qirat]]
 4. [[Ruku]]
 5. [[Shijda]]
 6. [[Shahada]]
+<!--SR:!2025-11-10,2,230-->
