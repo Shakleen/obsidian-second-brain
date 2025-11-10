@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/journal/daily/2025-11-10.md",
+                "file": "notes/islamic/salah/Jalsa Al-istira'hah.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-11-10"
+              "title": "Jalsa Al-istira'hah"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "notes/journal/daily/2025-11-10.md",
+            "file": "notes/islamic/salah/Jalsa Al-istira'hah.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "notes/journal/daily/2025-11-10.md",
+            "file": "notes/islamic/salah/Jalsa Al-istira'hah.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "notes/journal/daily/2025-11-10.md",
+            "file": "notes/islamic/salah/Jalsa Al-istira'hah.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -184,10 +184,10 @@
   },
   "active": "198b778ab4a22e4d",
   "lastOpenFiles": [
+    "notes/islamic/salah/Salat step-by-step.md",
+    "notes/journal/daily/2025-11-10.md",
     "inbox/What is my PhD research goal.md",
     "sources/clippings/ai_chat/NLP for Educational Advancement - Grok.md",
-    "notes/journal/daily/2025-11-10.md",
-    "notes/islamic/salah/Salat step-by-step.md",
     "notes/islamic/salah/Qiyam.md",
     "notes/islamic/salah/Tashahud.md",
     "notes/islamic/salah/Jalsa supplication.md",
