@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "2025-11-10"
             }
+          },
+          {
+            "id": "ac309b0aa8c6faa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/clippings/youtube/Doctor Mike – 23 Everyday Habits Destroying Your Skin.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Doctor Mike – 23 Everyday Habits Destroying Your Skin"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2176788686d16c39",
@@ -145,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/journal/daily/2025-11-10.md",
+                "file": "sources/clippings/youtube/Doctor Mike – 23 Everyday Habits Destroying Your Skin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-10"
+              "title": "Outline of Doctor Mike – 23 Everyday Habits Destroying Your Skin"
             }
           },
           {
@@ -207,8 +223,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ce71bf9f1e6a306d",
+  "active": "ac309b0aa8c6faa2",
   "lastOpenFiles": [
+    "notes/journal/daily/2025-11-10.md",
+    "sources/clippings/youtube/Doctor Mike – 23 Everyday Habits Destroying Your Skin.md",
     "notes/self-improvement/The Heilmeier Catechism.md",
     "notes/self-improvement/Randy Pausch Lecture Time Management.md",
     "notes/self-improvement/How to deliver exceptional presentations.md",
@@ -223,7 +241,6 @@
     "notes/phd-application/How to Get Into Graduate School.md",
     "inbox/What is my PhD research goal.md",
     "sources/clippings/ai_chat/PhD research topics in educational NLP.md",
-    "notes/journal/daily/2025-11-10.md",
     "sources/clippings/ai_chat/PhD research in NLP education.md",
     "sources/clippings/ai_chat/I want to pursue my PhD next year in Computer Sci....md",
     "sources/clippings/ai_chat/NLP for Educational Advancement - Grok.md",
@@ -235,7 +252,6 @@
     "notes/self-care/Feet cream.md",
     "sources/clippings/youtube/The Style Theorists – Is Conditioner ACTUALLY Good for Your Hair  Style Theory.md",
     "sources/clippings/youtube/The Style Theorists – $1 vs $300 Toothbrush  Style Theory.md",
-    "notes/journal/daily/2025-11-09.md",
     "assets/Pasted image 20251109212518.png",
     "assets/Pasted image 20251109212413.png",
     "assets/Pasted image 20251109212225.png",
