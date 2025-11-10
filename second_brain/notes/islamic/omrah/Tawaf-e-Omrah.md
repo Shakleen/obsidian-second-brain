@@ -24,4 +24,10 @@ hubs:
 	  > Allah is almighty and there is no god except Allah.
 	* This is the time to perform whatever dua you want. It's one of the places where dua is accepted. 
 ## Process of Tawaf
-1. Before starting, males should do [[Ijteba]].
+1. Before starting, males should do [[Ijteba]]. ([[Sunnat-e-Muakkadah|Sunnat]])
+2. Stop reciting [[Talbiya]]. Until your [[Ehram]] is done, don't recite it again.
+3. Face [[Baytullah|Qaba]] keeping [[Hajre Aswad]] to your right shoulder.
+4. [[Niyat]] for tawaf.
+5. Afterwards, move to your right until [[Hajre Aswad]] is directly in front of you. 
+6. Raise your hands to your ears or shoulders and recite
+   > Bismillahi wallahu akbar, wa lillahil hamd, was' salatu was' salamu ala rasulillahi sallallahu ta'la alaihi wassallam
