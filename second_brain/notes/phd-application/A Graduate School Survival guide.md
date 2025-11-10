@@ -111,7 +111,7 @@ Read also [[PhD Students must break away from undergraduate mentality]]
   - Offer to buy coffee or dinner or maybe sport tickets.
   - Work on your own first before asking for someone's help. Collaborate but pull your own weight as much as possible.
 
-* Read *7 Habits of Highly Effective People* Book. Summary can be found here: [[2025-10-22_7-Habits-of-Highly-Effective-People|7 Habits of Highly Effective People]] 
+* Read *7 Habits of Highly Effective People* Book. Summary can be found here: [[7 Habits of Highly Effective People|7 Habits of Highly Effective People]] 
 
 ## Organizational Skills 
 
@@ -136,7 +136,7 @@ Read also [[PhD Students must break away from undergraduate mentality]]
 * Finally, don’t forget to communicate with your professors and your teammates. Keep your committee appraised of your progress. One thing I do (which few others do) is write short (1 screenfull) status reports, which I religiously e-mailed to my professors and team members on a weekly basis. I also throw in a different humorous quote at the end of each week’s report to reward people for reading it.
 
 * Additional reading:
-  * [[2025-10-22_how-to-deliver-exceptional-presentations|how to Deliver Exceptional Presentations]]
+  * [[How to deliver exceptional presentations|how to Deliver Exceptional Presentations]]
   * [Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287?ie=UTF8&qid=1412373009&sr=8-1&keywords=made+to+stick)
 ## Choosing an advisor and a committee 
 

@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "2025-11-10"
             }
-          },
-          {
-            "id": "29627ed162b6037f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/phd-application/A Graduate School Survival guide.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "A Graduate School Survival guide"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/phd-application/A Graduate School Survival guide.md",
+                "file": "notes/journal/daily/2025-11-10.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of A Graduate School Survival guide"
+              "title": "Outline of 2025-11-10"
             }
           },
           {
@@ -222,8 +207,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "29627ed162b6037f",
+  "active": "ce71bf9f1e6a306d",
   "lastOpenFiles": [
+    "notes/self-improvement/The Heilmeier Catechism.md",
+    "notes/self-improvement/Randy Pausch Lecture Time Management.md",
+    "notes/self-improvement/How to deliver exceptional presentations.md",
+    "notes/self-improvement/7 Habits of Highly Effective People.md",
+    "notes/productivity/The Zettelkasten Method.md",
+    "notes/productivity/2025-10-24_Research-workflow-as-a-PhD-student-in-the-Humanities.md",
+    "notes/productivity/My Weaknesses.md",
+    "notes/phd-application/A Graduate School Survival guide.md",
     "notes/phd-application/PhD Students must break away from undergraduate mentality.md",
     "notes/phd-application/PhD Shortlist Universities.md",
     "notes/phd-application/Potential Adsiros.md",
@@ -243,18 +236,10 @@
     "sources/clippings/youtube/The Style Theorists – Is Conditioner ACTUALLY Good for Your Hair  Style Theory.md",
     "sources/clippings/youtube/The Style Theorists – $1 vs $300 Toothbrush  Style Theory.md",
     "notes/journal/daily/2025-11-09.md",
-    "notes/phd-application/Covey's Quadrant for PhD application.md",
-    "notes/self-care/Shower Routine.md",
-    "notes/self-care/Oral Care Routine.md",
-    "notes/self-care/Oral Care Product Recommendations.md",
-    "notes/self-care/Mild shampoo.md",
     "assets/Pasted image 20251109212518.png",
-    "notes/self-care/Hydrating face wash.md",
     "assets/Pasted image 20251109212413.png",
-    "notes/self-care/Sunscreen.md",
     "assets/Pasted image 20251109212225.png",
     "assets/Pasted image 20251109211943.png",
-    "notes/self-care/Moisturizer.md",
     "assets/Pasted image 20251109211736.png",
     "assets/Pasted image 20251109211548.png",
     "assets/Pasted image 20251109211526.png",
