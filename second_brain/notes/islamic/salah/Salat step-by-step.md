@@ -28,7 +28,7 @@ The following steps should be performed in order and maintain [[Tadeel Arkan]] (
 3. [[Takbir e Tahrima]]
 	1. Start and hold [[Qiyam]]
 	2. [[Opening Supplication]]
-	3. Only for the first [[Rakat]], recite [[2025-11-03_Auzubillah|Auzubillah]]
+	3. Only for the first [[Rakat]], recite [[Auzubillah|Auzubillah]]
 	4. [[Qirat]]
 4. [[Takbir]]
 	1. [[Qiyam]] -> [[Ruku]]

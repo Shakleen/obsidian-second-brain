@@ -19,7 +19,7 @@ references:
 4. Imam says [[Takbir]] out loud
 5. Placing right hand over left
 6. Recite [[Sana]]
-7. Saying [[2025-11-03_Auzubillah|Auzubillah]]
+7. Saying [[Auzubillah|Auzubillah]]
 8. Saying [[Bismillah]]
 9. Saying Amin
 10. Saying 8, 9, and 10 silently

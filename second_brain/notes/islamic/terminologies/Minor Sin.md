@@ -14,7 +14,7 @@ aliases:
 ---
 Minor sins are wrongdoings that can be forgiven through:
 1. [[Wudu|Wudu]] (ablution)
-2. [[2025-10-28_Fard-Ghusl|Ghusl]] (shower)
+2. [[Fard Ghusl|Ghusl]] (shower)
 3. [[2025-10-28_Salat|Salat]] (prayer)
 4. Doing good deeds
 5. Saying prescribed adhkar (remembrances)

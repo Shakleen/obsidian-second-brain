@@ -22,7 +22,7 @@ references:
     * [[2025-10-30_Magrib-prayer#time]]
     * [[2025-10-30_Isha-prayer#time]]
     * And shouldn't be offered during [[2025-10-30_Forbidden-prayer-times|Forbidden prayer times]].
-3. Cleanliness gained through [[2025-10-28_Fard-Ghusl|Ghusl]] or [[Wudu|Wudu]] whichever required.
+3. Cleanliness gained through [[Fard Ghusl|Ghusl]] or [[Wudu|Wudu]] whichever required.
 4. Cleanliness of place of prayer and/or prayer mat
 5. Properly covering one's body 
 6. Qibla or direction

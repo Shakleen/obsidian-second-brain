@@ -6,7 +6,6 @@ tags:
 hubs:
   - "[[islamic]]"
 ---
-
 # Auzubillah
 
 ## Arabic
@@ -18,3 +17,11 @@ Auzubillah Minashaitan Nirajeem
 ![[Ayuzubillah.mp3]]
 ## Meaning
 I seek refuge with Allah from Satan, the accursed
+
+## Flash cards
+
+#flashcards/islamic
+What is the meaning of [[Auzubillah]]?
+?
+I seek refuge with Allah from Satan, the accursed.
+<!--SR:!2025-11-13,3,250-->

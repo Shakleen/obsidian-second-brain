@@ -21,7 +21,7 @@ Before getting on the plane to Jeddah. You can do this from home as well. The ab
 		1. Clip nails
 		2. Trim or shave armpits
 		3. Trim or shave pubic hair
-	2. [[Sunnat-e-Ghair-Muakkadah|Sunnat]]: Perform [[2025-10-28_Fard-Ghusl|Ghusl]]
+	2. [[Sunnat-e-Ghair-Muakkadah|Sunnat]]: Perform [[Fard Ghusl|Ghusl]]
 2. Wear [[Ehram clothes]] (Mandatory for males)
 3. Wear perfume ([[Sunnat-e-Ghair-Muakkadah|Sunnat]]): But make sure the perfume doesn't stick to the [[Ehram clothes]].
 4. Pray 2 [[Rakat|rakat]] of [[Nafl]] [[2025-10-28_Salat|Salah]] ([[Sunnat-e-Ghair-Muakkadah|Sunnat]])

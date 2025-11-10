@@ -13,7 +13,7 @@ references:
 ---
 
 #flashcards/islamic
-**Three** [[Fard]]  steps for [[2025-10-28_Fard-Ghusl|Ghusl]]
+**Three** [[Fard]]  steps for [[Fard Ghusl|Ghusl]]
 ?
 1. Wash inside of your mouth.
 	- Gurgle water if not fasting.

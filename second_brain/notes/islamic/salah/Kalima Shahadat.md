@@ -16,6 +16,7 @@ Kalima Shahadat
 ashhadu alla ilaha illallah wahdahu la sharika lahu lahu wa-ash-hadu anna Muhammadan abduhoo wa rasooluhu.
 ## Meaning
 “I bear witness that there is none worthy of worship except Allah, the One alone, without partner, and I bear witness that Muhammad is His servant and Messenger“
+<!--SR:!2025-11-13,3,250-->
 
 ## Pronunciation
 ![YouTube recitation audio](https://www.youtube.com/watch?v=M4c1-ODHdoo)
