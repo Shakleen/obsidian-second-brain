@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/phd-application/Covey's Quadrant for PhD application.md",
+                "file": "notes/islamic/salah/Salat step-by-step.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Covey's Quadrant for PhD application"
+              "title": "Salat step-by-step"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "notes/phd-application/Covey's Quadrant for PhD application.md",
+            "file": "notes/islamic/salah/Salat step-by-step.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "notes/phd-application/Covey's Quadrant for PhD application.md",
+            "file": "notes/islamic/salah/Salat step-by-step.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "notes/phd-application/Covey's Quadrant for PhD application.md",
+            "file": "notes/islamic/salah/Salat step-by-step.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -184,8 +184,11 @@
   },
   "active": "198b778ab4a22e4d",
   "lastOpenFiles": [
-    "inbox/What is my PhD research goal.md",
+    "notes/islamic/salah/Jalsa supplication.md",
+    "notes/islamic/salah/Salat step-by-step.md",
+    "notes/islamic/salah/Jalsa Al-istira'hah.md",
     "notes/phd-application/Covey's Quadrant for PhD application.md",
+    "inbox/What is my PhD research goal.md",
     "sources/clippings/youtube/Doctor Mike – 23 Everyday Habits Destroying Your Skin.md"
   ]
 }
