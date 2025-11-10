@@ -31,3 +31,12 @@ hubs:
 5. Afterwards, move to your right until [[Hajre Aswad]] is directly in front of you. 
 6. Raise your hands to your ears or shoulders and recite
    > Bismillahi wallahu akbar, wa lillahil hamd, was' salatu was' salamu ala rasulillahi sallallahu ta'la alaihi wassallam
+   > I'm praying for help in the name of Allah (swt). Allah is the greatest. There is no god except for Allah. And durud and salam is for Allah's rasul.
+7. Then lower your hands.
+8. Now, without bothering anyone, go in front of [[Hajre Aswad]] and kiss it without making a noise. The process of kissing is to place both hands on it and kiss in the middle of the hands.
+	   - Kissing it 3 times is [[Mustahab]]
+	   - After each kiss, keeping your forehead or cheek on it is also [[Mustahab]].
+	   - In case you're unable to kiss it due to crowd, touch [[Hajre Aswad]] with your right hand, and then kiss that hand.
+	   - If even that's not possible, then imitate you are placing your both hands on [[Hajre Aswad]] and then kiss both hands.
+9. During this time, recite the following:
+	> Bismillahi allahu akbar.

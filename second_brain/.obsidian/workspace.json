@@ -30,7 +30,7 @@
               "type": "markdown",
               "state": {
                 "file": "notes/islamic/omrah/Tawaf-e-Omrah.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -225,8 +225,10 @@
   },
   "active": "4d89a583ac0c3f58",
   "lastOpenFiles": [
-    "inbox/Ijteba.md",
+    "inbox/Hajre Aswad.md",
+    "assets/Pasted image 20251111051310.png",
     "notes/islamic/omrah/Tawaf-e-Omrah.md",
+    "inbox/Ijteba.md",
     "notes/islamic/omrah/Omrah.md",
     "notes/journal/daily/2025-11-11.md",
     "notes/journal/daily/2025-11-10.md",
@@ -249,8 +251,6 @@
     "notes/self-improvement/Randy Pausch Lecture Time Management.md",
     "notes/self-improvement/How to deliver exceptional presentations.md",
     "notes/self-improvement/7 Habits of Highly Effective People.md",
-    "notes/productivity/The Zettelkasten Method.md",
-    "notes/productivity/2025-10-24_Research-workflow-as-a-PhD-student-in-the-Humanities.md",
     "assets/Pasted image 20251110093046.png",
     "assets/Pasted image 20251109212518.png",
     "assets/Pasted image 20251109212413.png",
@@ -269,7 +269,6 @@
     "sources/pdfs/The Psychology of Money.pdf",
     "sources/pdfs/How to Win Friends and Influence People.pdf",
     "sources/pdfs/How to Talk to Anyone.pdf",
-    "sources/clippings/default",
-    "assets/Pasted image 20251106092745.png"
+    "sources/clippings/default"
   ]
 }
