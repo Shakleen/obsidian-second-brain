@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/islamic/salah/Jalsa Al-istira'hah.md",
+                "file": "notes/islamic/salah/Tahajjud prayer.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Jalsa Al-istira'hah"
+              "title": "Tahajjud prayer"
             }
           }
         ]
@@ -184,6 +184,7 @@
   },
   "active": "198b778ab4a22e4d",
   "lastOpenFiles": [
+    "notes/islamic/salah/Jalsa Al-istira'hah.md",
     "notes/journal/weekly/2025-W45.md",
     "notes/islamic/ghusl/Fard Ghusl.md",
     "notes/islamic/Auzubillah.md",
@@ -194,7 +195,6 @@
     "notes/islamic/salah/Qiyam.md",
     "notes/islamic/salah/Tashahud.md",
     "notes/islamic/salah/Jalsa supplication.md",
-    "notes/islamic/salah/Jalsa Al-istira'hah.md",
     "notes/phd-application/Covey's Quadrant for PhD application.md",
     "sources/clippings/youtube/Doctor Mike – 23 Everyday Habits Destroying Your Skin.md"
   ]
