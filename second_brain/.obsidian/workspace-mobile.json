@@ -11,10 +11,14 @@
             "id": "198b778ab4a22e4d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/phd-application/Covey's Quadrant for PhD application.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Covey's Quadrant for PhD application"
             }
           }
         ]
@@ -94,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "notes/phd-application/Covey's Quadrant for PhD application.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,6 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "notes/phd-application/Covey's Quadrant for PhD application.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -125,6 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "notes/phd-application/Covey's Quadrant for PhD application.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -175,6 +182,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ab9a4f86888b534",
-  "lastOpenFiles": []
+  "active": "198b778ab4a22e4d",
+  "lastOpenFiles": [
+    "inbox/What is my PhD research goal.md",
+    "notes/phd-application/Covey's Quadrant for PhD application.md",
+    "sources/clippings/youtube/Doctor Mike – 23 Everyday Habits Destroying Your Skin.md"
+  ]
 }
