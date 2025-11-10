@@ -177,12 +177,12 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "periodic-notes:Open today": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "198b778ab4a22e4d",
+  "active": "9ab9a4f86888b534",
   "lastOpenFiles": [
     "notes/islamic/salah/Salat step-by-step.md",
     "notes/journal/daily/2025-11-10.md",
