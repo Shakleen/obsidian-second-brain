@@ -16,8 +16,17 @@ references:
   - "[[@abrarApniKivabeNamaj2023]]"
 ---
 Said during [[Ruku]].
+
 ## Supplication #1
 > subhaana rabbiyal azeem
 > Glory be to my Lord Almighty
 
 Many more described in the book [[@aminIntroductionSalatPerformed2010]].
+
+## Flash cards
+
+#flashcards/islamic
+What is the meaning of `subhaana rabbiyal azeem`
+?
+Glory be to my Lord Almighty
+<!--SR:!2025-11-11,1,230-->

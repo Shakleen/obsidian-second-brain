@@ -1,7 +1,6 @@
 <%*
 // 1. Define the filename: YYYY-MM-DD
-// +1 for next week, because I plan on the last of the week for next week.
-const filename = tp.date.now("gggg-[W]ww", 1);
+const filename = tp.date.now("gggg-[W]ww");
 
 // 2. Find the TFile object for your main template
 const template = tp.file.find_tfile("templates/weekly"); 

@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "b00ffba5c2353728",
+            "id": "a1587d5318c33e66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/islamic/salah/Salat step-by-step.md",
-                "mode": "preview",
+                "file": "notes/journal/weekly/2025-W45.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Salat step-by-step"
+              "title": "2025-W45"
             }
           }
         ],
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2176788686d16c39",
@@ -161,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/islamic/salah/Salat step-by-step.md",
+                "file": "notes/journal/weekly/2025-W45.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Salat step-by-step"
+              "title": "Outline of 2025-W45"
             }
           },
           {
@@ -223,15 +222,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b00ffba5c2353728",
+  "active": "a1587d5318c33e66",
   "lastOpenFiles": [
-    "notes/islamic/Auzubillah.md",
+    "notes/journal/daily/2025-11-10.md",
+    "templates/New Weekly Note.md",
+    "templates/weekly.md",
+    "notes/journal/weekly/2025-W45.md",
+    "notes/islamic/salah/Shijda Tasbih.md",
+    "notes/islamic/salah/Ruku Takbir.md",
+    "notes/islamic/salah/Ruku Tasbih.md",
     "notes/islamic/salah/Salat step-by-step.md",
+    "notes/islamic/Auzubillah.md",
     "notes/islamic/salah/2025-10-28_Salat.md",
     "notes/islamic/wudu/Wudu.md",
     "notes/islamic/ghusl/Fard Ghusl.md",
     "notes/islamic/Bismillah.md",
-    "notes/journal/daily/2025-11-10.md",
     "notes/phd-application/Covey's Quadrant for PhD application.md",
     "inbox/What is my PhD research goal.md",
     "sources/clippings/youtube/Doctor Mike – 23 Everyday Habits Destroying Your Skin.md",
@@ -245,12 +250,6 @@
     "notes/phd-application/A Graduate School Survival guide.md",
     "notes/phd-application/PhD Students must break away from undergraduate mentality.md",
     "notes/phd-application/PhD Shortlist Universities.md",
-    "notes/phd-application/Potential Adsiros.md",
-    "notes/phd-application/How to Get Into Graduate School.md",
-    "sources/clippings/ai_chat/PhD research topics in educational NLP.md",
-    "sources/clippings/ai_chat/PhD research in NLP education.md",
-    "sources/clippings/ai_chat/I want to pursue my PhD next year in Computer Sci....md",
-    "sources/clippings/ai_chat/NLP for Educational Advancement - Grok.md",
     "assets/Pasted image 20251110093046.png",
     "assets/Pasted image 20251109212518.png",
     "assets/Pasted image 20251109212413.png",
