@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/clippings/ai_chat/NLP for Educational Advancement - Grok.md",
+                "file": "notes/journal/daily/2025-11-10.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "NLP for Educational Advancement - Grok"
+              "title": "2025-11-10"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "sources/clippings/ai_chat/NLP for Educational Advancement - Grok.md",
+            "file": "notes/journal/daily/2025-11-10.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "sources/clippings/ai_chat/NLP for Educational Advancement - Grok.md",
+            "file": "notes/journal/daily/2025-11-10.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "sources/clippings/ai_chat/NLP for Educational Advancement - Grok.md",
+            "file": "notes/journal/daily/2025-11-10.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -185,6 +185,7 @@
   "active": "198b778ab4a22e4d",
   "lastOpenFiles": [
     "inbox/What is my PhD research goal.md",
+    "sources/clippings/ai_chat/NLP for Educational Advancement - Grok.md",
     "notes/journal/daily/2025-11-10.md",
     "notes/islamic/salah/Salat step-by-step.md",
     "notes/islamic/salah/Qiyam.md",
