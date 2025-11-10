@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/islamic/omrah/Tawaf-e-Omrah.md",
+                "file": "notes/islamic/salah/Jalsa Al-istira'hah.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tawaf-e-Omrah"
+              "title": "Jalsa Al-istira'hah"
             }
           }
         ]
@@ -184,9 +184,9 @@
   },
   "active": "198b778ab4a22e4d",
   "lastOpenFiles": [
-    "notes/islamic/omrah/Talbiya.md",
-    "notes/islamic/omrah/Tawaf-e-Omrah.md",
     "notes/islamic/salah/Tahajjud prayer.md",
+    "notes/islamic/omrah/Tawaf-e-Omrah.md",
+    "notes/islamic/omrah/Talbiya.md",
     "notes/journal/daily/2025-11-11.md",
     "inbox/Ijteba.md",
     "inbox/Hajre Aswad.md",
