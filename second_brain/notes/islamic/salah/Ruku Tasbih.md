@@ -29,4 +29,4 @@ Many more described in the book [[@aminIntroductionSalatPerformed2010]].
 What is the meaning of `subhaana rabbiyal azeem`
 ?
 Glory be to my Lord Almighty
-<!--SR:!2025-11-11,1,230-->
+<!--SR:!2025-11-12,1,210-->

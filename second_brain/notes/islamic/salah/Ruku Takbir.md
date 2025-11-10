@@ -29,4 +29,4 @@ This requires [[Ruku supplication]] as a response.
 What is the meaning of `samiallah huliman hamida`
 ?
 Allah listens to the one, who praises Him.
-<!--SR:!2025-11-11,1,230-->
+<!--SR:!2025-11-12,1,210-->

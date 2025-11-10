@@ -40,7 +40,7 @@ What is the meaning of the following line of [[Sana]]:
    > سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ
    ?
 O Allah, glory and praise be to you.
-<!--SR:!2025-11-11,2,230-->
+<!--SR:!2025-11-12,1,210-->
 
 #flashcards/islamic
 What is the meaning of the following line of [[Sana]]:
@@ -48,7 +48,7 @@ What is the meaning of the following line of [[Sana]]:
    > وَتَبَارَكَ اسْمُكَ
  ?
  and blessed be your name
-<!--SR:!2025-11-11,1,228-->
+<!--SR:!2025-11-12,1,208-->
 
 #flashcards/islamic
 What is the meaning of the following line of [[Sana]]:

@@ -21,5 +21,7 @@ hubs:
 * If you look straight, you'll see [[Baytullah]]. 
 	* Upon seeing it, immediately recite the following **3 times**:
 	  > Allahu akbar la ilaha illallahu
+	  > Allah is almighty and there is no god except Allah.
 	* This is the time to perform whatever dua you want. It's one of the places where dua is accepted. 
 ## Process of Tawaf
+1. Before starting, males should do [[Ijteba]].
