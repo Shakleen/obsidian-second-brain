@@ -18,7 +18,7 @@ references:
 2. Wash both [[Arm Definition for Wudu|arms]], **each once.**
 3. Wipe [[Head Definition for Wudu|head]] **once**.
 4. Wash [[Feet definition for Wudu|feet]] **once**.
-<!--SR:!2025-11-10,3,250-->
+<!--SR:!2025-11-18,8,250-->
 
 ## Sources
 

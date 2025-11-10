@@ -20,4 +20,4 @@ Wudu ending dua
 > “Allahumma aj‘alni min at-tawwabeen, wa aj‘alni min al-mutatahhirin, waj’alni min ‘ibadik-as-salihin.”
 >
 > “O Allah, make me among those who seek repentance and make me among those who purify themselves.”
-<!--SR:!2025-11-10,3,250-->
+<!--SR:!2025-11-12,2,230-->

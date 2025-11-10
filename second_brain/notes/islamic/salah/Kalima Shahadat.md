@@ -16,9 +16,10 @@ Kalima Shahadat
 ashhadu alla ilaha illallah wahdahu la sharika lahu lahu wa-ash-hadu anna Muhammadan abduhoo wa rasooluhu.
 ## Meaning
 “I bear witness that there is none worthy of worship except Allah, the One alone, without partner, and I bear witness that Muhammad is His servant and Messenger“
-<!--SR:!2025-11-10,3,250-->
+
 ## Pronunciation
 ![YouTube recitation audio](https://www.youtube.com/watch?v=M4c1-ODHdoo)
+<!--SR:!2025-11-17,7,250-->
 
 ## Flash cards
 #flashcards/islamic
@@ -30,4 +31,4 @@ ashhadu alla ilaha illallah wahdahu la sharika lahu lahu wa-ash-hadu anna Muhamm
 5. `Wa ash-hadu`: ==and I bear witness==[^1]
 6. `anna Muhammadan`: ==that Muhammad==[^1]
 7. `'abduhu wa rasuluhu`: ==is His servant and messenger==[^1]
-<!--SR:!2025-11-10,3,250-->
+<!--SR:!2025-11-19,9,250-->

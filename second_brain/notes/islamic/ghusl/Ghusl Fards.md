@@ -21,4 +21,4 @@ references:
 	- If there's anything (food or otherwise) stuck in between your teeth, they must be removed.
 2. Wash your nose with water. Remove dry phlegm.
 3. Wash whole body from top to bottom.
-<!--SR:!2025-11-10,3,250-->
+<!--SR:!2025-11-17,7,250-->

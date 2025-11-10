@@ -24,7 +24,7 @@ Ghusl is [[Fard]] upon someone when anyone of the 5 things happen:
 3. Period
 4. After giving birth
 5. After death unless death in Jihad [[@GhuslWomenMen]]
-<!--SR:!2025-11-10,3,250-->
+<!--SR:!2025-11-18,8,250-->
 
 ## Preferred [[@GhuslWomenMen]]
 1. Friday prayer

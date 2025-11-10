@@ -168,9 +168,19 @@
               "icon": "lucide-list",
               "title": "Outline of What is my PhD research goal"
             }
+          },
+          {
+            "id": "ce71bf9f1e6a306d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "6b8c74d18ddb48e5",
@@ -208,10 +218,11 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "dc29a72a20cdc7e2",
+  "active": "ce71bf9f1e6a306d",
   "lastOpenFiles": [
     "sources/clippings/ai_chat/PhD research topics in educational NLP.md",
     "notes/journal/daily/2025-11-10.md",

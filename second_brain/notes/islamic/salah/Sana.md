@@ -48,7 +48,7 @@ What is the meaning of the following line of [[Sana]]:
    > وَتَبَارَكَ اسْمُكَ
  ?
  and blessed be your name
-<!--SR:!2025-11-10,2,248-->
+<!--SR:!2025-11-11,1,228-->
 
 #flashcards/islamic
 What is the meaning of the following line of [[Sana]]:
@@ -56,7 +56,7 @@ What is the meaning of the following line of [[Sana]]:
    > وَتَعَالَى جَدُّكَ
 ?
 and supreme is your majesty
-<!--SR:!2025-11-10,2,248-->
+<!--SR:!2025-11-15,5,248-->
 
 #flashcards/islamic
 What is the meaning of the following line of [[Sana]]:
@@ -64,4 +64,4 @@ What is the meaning of the following line of [[Sana]]:
    > وَلاَ إِلَهَ غَيْرُكَ
    ?
 and there is no God but you
-<!--SR:!2025-11-10,2,248-->
+<!--SR:!2025-11-15,5,248-->
