@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/islamic/salah/Tashahud.md",
+                "file": "sources/clippings/ai_chat/NLP for Educational Advancement - Grok.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tashahud"
+              "title": "NLP for Educational Advancement - Grok"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "notes/islamic/salah/Tashahud.md",
+            "file": "sources/clippings/ai_chat/NLP for Educational Advancement - Grok.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "notes/islamic/salah/Tashahud.md",
+            "file": "sources/clippings/ai_chat/NLP for Educational Advancement - Grok.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "notes/islamic/salah/Tashahud.md",
+            "file": "sources/clippings/ai_chat/NLP for Educational Advancement - Grok.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -184,11 +184,14 @@
   },
   "active": "198b778ab4a22e4d",
   "lastOpenFiles": [
+    "inbox/What is my PhD research goal.md",
+    "notes/journal/daily/2025-11-10.md",
     "notes/islamic/salah/Salat step-by-step.md",
+    "notes/islamic/salah/Qiyam.md",
+    "notes/islamic/salah/Tashahud.md",
     "notes/islamic/salah/Jalsa supplication.md",
     "notes/islamic/salah/Jalsa Al-istira'hah.md",
     "notes/phd-application/Covey's Quadrant for PhD application.md",
-    "inbox/What is my PhD research goal.md",
     "sources/clippings/youtube/Doctor Mike – 23 Everyday Habits Destroying Your Skin.md"
   ]
 }
