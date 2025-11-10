@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/islamic/omrah/Talbiya.md",
+                "file": "notes/islamic/omrah/Tawaf-e-Omrah.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Talbiya"
+              "title": "Tawaf-e-Omrah"
             }
           }
         ]
@@ -184,6 +184,7 @@
   },
   "active": "198b778ab4a22e4d",
   "lastOpenFiles": [
+    "notes/islamic/omrah/Talbiya.md",
     "notes/islamic/omrah/Tawaf-e-Omrah.md",
     "notes/islamic/salah/Tahajjud prayer.md",
     "notes/journal/daily/2025-11-11.md",
