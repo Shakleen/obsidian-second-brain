@@ -47,3 +47,6 @@ references:
 2. Using the KG structure to power a recommendation engine that suggests the optimal intervention (e.g., a specific video, a remedial problem) based on the diagnosed misconception and its prerequisites in the graph. (More of a combination of [[#Idea 1 Feedback]] and [[#Idea 2 Generation / Recommendation]])
 3. How can we fine-tune LLMs (or develop smaller, specialized models) to generate high-quality, pedagogically sound, and context-aware educational content (e.g., quizzes, explanations, practice problems) that adapt in real-time to a student's specific knowledge gaps and learning style?
 4. Creating new pedagogically-grounded metrics for evaluating the quality, correctness, and educational value of LLM-generated teaching content, going beyond simple perplexity or ROUGE scores.
+
+# My Research Question
+**Using the KG structure to power a recommendation engine that suggests the optimal intervention (e.g., a specific video, a remedial problem) based on the diagnosed misconception and its prerequisites in the graph. (More of a combination of [[#Idea 1 Feedback]] and [[#Idea 2 Generation / Recommendation]])**
