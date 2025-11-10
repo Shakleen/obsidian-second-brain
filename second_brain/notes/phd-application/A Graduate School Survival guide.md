@@ -25,7 +25,7 @@ urls:
 
 * With a Ph.D. you will have a better chance of spending the rest of your life doing what you want to do, instead of what someone else wants you to do.”
 
-Read also [[2025-10-22_HOWTO:-Get-into-grad-school-for-science,-engineering,-math-and-computer-science|howto: Get into grad school for science, engineering, math and computer science]]
+Read also [[How to Get Into Graduate School|howto: Get into grad school for science, engineering, math and computer science]]
 
 ## Academia is a business
 
@@ -58,7 +58,7 @@ Read also [[2025-10-22_HOWTO:-Get-into-grad-school-for-science,-engineering,-mat
 
 ## Graduate school is a different ballgame
 
-Read also [[2025-10-22_Ph.D.-Students-Must-Break-Away-From-Undergraduate-Mentality]]
+Read also [[PhD Students must break away from undergraduate mentality]]
 
 * Graduate school is not primarily about taking courses. You will take classes in the beginning but in your later years you probably won’t have any classes. 
 

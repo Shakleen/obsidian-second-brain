@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/What is my PhD research goal.md",
+                "file": "notes/phd-application/A Graduate School Survival guide.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "What is my PhD research goal"
+              "title": "A Graduate School Survival guide"
             }
           }
         ],
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2176788686d16c39",
@@ -161,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/What is my PhD research goal.md",
+                "file": "notes/phd-application/A Graduate School Survival guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of What is my PhD research goal"
+              "title": "Outline of A Graduate School Survival guide"
             }
           },
           {
@@ -225,9 +224,13 @@
   },
   "active": "29627ed162b6037f",
   "lastOpenFiles": [
+    "notes/phd-application/PhD Students must break away from undergraduate mentality.md",
+    "notes/phd-application/PhD Shortlist Universities.md",
+    "notes/phd-application/Potential Adsiros.md",
+    "notes/phd-application/How to Get Into Graduate School.md",
+    "inbox/What is my PhD research goal.md",
     "sources/clippings/ai_chat/PhD research topics in educational NLP.md",
     "notes/journal/daily/2025-11-10.md",
-    "inbox/What is my PhD research goal.md",
     "sources/clippings/ai_chat/PhD research in NLP education.md",
     "sources/clippings/ai_chat/I want to pursue my PhD next year in Computer Sci....md",
     "sources/clippings/ai_chat/NLP for Educational Advancement - Grok.md",
@@ -253,13 +256,9 @@
     "assets/Pasted image 20251109211943.png",
     "notes/self-care/Moisturizer.md",
     "assets/Pasted image 20251109211736.png",
-    "notes/self-care/Gentle Body Wash.md",
     "assets/Pasted image 20251109211548.png",
     "assets/Pasted image 20251109211526.png",
     "assets/Pasted image 20251109211456.png",
-    "sources/clippings/ai_chat/I saw an episode from Andrew Huberman on oral car....md",
-    "sources/clippings/ai_chat/I am researching effective shower techniques. I w....md",
-    "sources/clippings/ai_chat/Optimizing Shower Routine for Dry Skin - Grok.md",
     "sources/clippings/ai_chat",
     "notes/self-care",
     "sources/clippings/claude",
