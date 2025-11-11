@@ -39,3 +39,6 @@ references:
 ## After Wudu
 1. Reapply sunscreen if needed. 
 2. Light moisturizer.
+
+Also check out: 
+[[Doctor Mike – 23 Everyday Habits Destroying Your Skin]]
