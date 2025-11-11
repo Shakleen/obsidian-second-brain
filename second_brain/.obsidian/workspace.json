@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "notes/journal/daily/2025-11-11.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "pinned": true,
@@ -24,20 +24,21 @@
             }
           },
           {
-            "id": "4d89a583ac0c3f58",
+            "id": "b8adc286d50fef68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/islamic/omrah/Tawaf-e-Omrah.md",
+                "file": "notes/phd-application/Covey's Quadrant for PhD application.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tawaf-e-Omrah"
+              "title": "Covey's Quadrant for PhD application"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/journal/daily/2025-11-11.md",
+                "file": "notes/phd-application/Covey's Quadrant for PhD application.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-11"
+              "title": "Outline of Covey's Quadrant for PhD application"
             }
           },
           {
@@ -222,21 +223,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4ca0bcace8cdd550",
+  "active": "b8adc286d50fef68",
   "lastOpenFiles": [
-    "notes/islamic/omrah/Tawaf-e-Omrah.md",
-    "inbox/Enter Masjid-ul-Haram.md",
-    "inbox/Tawaf round.md",
     "notes/journal/daily/2025-11-11.md",
-    "inbox/Multajam.md",
+    "notes/islamic/omrah/Enter Masjid-ul-Haram.md",
+    "notes/phd-application/Arizona State University checklist.md",
+    "notes/phd-application/UC San Diego checklist.md",
+    "notes/phd-application/Covey's Quadrant for PhD application.md",
+    "notes/islamic/omrah/Tawaf-e-Omrah.md",
+    "notes/islamic/omrah/Tawaf round.md",
+    "notes/islamic/omrah/Multajam.md",
     "assets/Pasted image 20251111064443.png",
-    "inbox/Hatim.md",
+    "notes/islamic/omrah/Hatim.md",
     "assets/Pasted image 20251111064256.png",
-    "inbox/Ramal.md",
-    "inbox/Kiss Hajre Aswad.md",
-    "inbox/Hajre Aswad.md",
+    "notes/islamic/omrah/Ramal.md",
+    "notes/islamic/omrah/Kiss Hajre Aswad.md",
+    "notes/islamic/omrah/Hajre Aswad.md",
     "assets/Pasted image 20251111051310.png",
-    "inbox/Ijteba.md",
+    "notes/islamic/omrah/Ijteba.md",
     "notes/islamic/omrah/Omrah.md",
     "notes/journal/daily/2025-11-10.md",
     "notes/journal/weekly/2025-W45.md",
@@ -250,9 +254,6 @@
     "notes/islamic/salah/2025-10-28_Salat.md",
     "notes/islamic/wudu/Wudu.md",
     "notes/islamic/ghusl/Fard Ghusl.md",
-    "notes/islamic/Bismillah.md",
-    "notes/phd-application/Covey's Quadrant for PhD application.md",
-    "inbox/What is my PhD research goal.md",
     "assets/Pasted image 20251110093046.png",
     "assets/Pasted image 20251109212518.png",
     "assets/Pasted image 20251109212413.png",

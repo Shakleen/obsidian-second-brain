@@ -72,10 +72,8 @@ No universities in this quadrant (crossed-out universities excluded)
 
 ## Universities sorted by deadlines
 1. Dec 1
-	1. ASU
-	2. ~~UC Berkeley~~
-	3. ~~UCLA~~
-	4. UC San Diego
+	1. ~~UC Berkeley~~
+	2. ~~UCLA~~
 2. Dec 5
 	1. Univ. of Rochester
 3. Dec 12
@@ -90,10 +88,14 @@ No universities in this quadrant (crossed-out universities excluded)
 	7. ~~UT Austin~~
 	8. UT Dallas
 	9. UT Arlington
-5. Jan 5
+5. Dec 17:
+	1. UC San Diego
+6. Dec 31:
+	1. ASU
+7. Jan 5
 	1. ~~Purdue University~~
 	2. UC Riverside
-6. Jan 15
+8. Jan 15
 	1. UC Merced
-7. Mar 15
+9. Mar 15
 	1. Texas A&M University
