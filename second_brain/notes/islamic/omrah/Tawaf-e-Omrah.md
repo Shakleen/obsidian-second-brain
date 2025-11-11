@@ -29,11 +29,16 @@ hubs:
 3. Face [[Baytullah|Qaba]] keeping [[Hajre Aswad]] to your right shoulder.
 4. [[Niyat]] for tawaf.
 5. Afterwards, move to your right until [[Hajre Aswad]] is directly in front of you. 
-6. Raise your hands to your ears or shoulders and recite
-   > Bismillahi wallahu akbar, wa lillahil hamd, was' salatu was' salamu ala rasulillahi sallallahu ta'la alaihi wassallam
-   > I'm praying for help in the name of Allah (swt). Allah is the greatest. There is no god except for Allah. And durud and salam is for Allah's rasul.
-7. Then lower your hands.
-8. Now [[Kiss Hajre Aswad]].
-9. During this time, recite the following:
-	> Bismillahi allahu akbar.
-10. Next, turn right, placing [[Baytullah|Qaba]] to your left, and begin Tawaf. Make sure your chest never faces [[Baytullah|Qaba]] while you walk. If it does for even a step or two, go back a few steps, and then continue.
+	1. Raise your hands to your ears or shoulders
+	2. Recite
+	   > Bismillahi wallahu akbar, wa lillahil hamd, was' salatu was' salamu ala rasulillahi sallallahu ta'la alaihi wassallam
+	   > I'm praying for help in the name of Allah (swt). Allah is the greatest. There is no god except for Allah. And durud and salam is for Allah's rasul.
+	3. Lower your hands.
+6. Now [[Kiss Hajre Aswad]].
+7. Next, turn right, placing [[Baytullah|Qaba]] to your left, and begin Tawaf. 
+    - Make sure your chest never faces [[Baytullah|Qaba]] while you walk. If it does for even a step or two, go back a few steps, and then continue.
+    - When you reach [[Multajam]] recite the following dua:
+	  > Allahumma enam bika wa tasdikam bitika, wa wafa'am bi'ahdika wa ittiba'an lisunnati nabiyika muhammadin sallallahu alaihi was'salam.
+	  > O Allah! I am starting tawaf bring iman and belief in You, Your (holy) books, to carry out your commands, and to follow the example set by Prophet Sallallahu Alaihi Was'salam.
+	  
+8. 
