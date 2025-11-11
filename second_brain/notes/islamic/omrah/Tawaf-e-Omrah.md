@@ -42,4 +42,10 @@ hubs:
 	  > O Allah! I am starting tawaf bring iman and belief in You, Your (holy) books, to carry out your commands, and to follow the example set by Prophet Sallallahu Alaihi Was'salam.
     - If it's the first 3 tawafs, then males should perform [[Ramal]]. ([[Sunnat-e-Muakkadah|Sunnat]]).
     - Tawaf must be done outside of [[Hatim]]. ([[Wajib]])
-8. 
+    - Without bothering anyone, it's best to perform tawaf as close to [[Baytullah|Qaba]] as possible.
+    - When reaching [[Rukun-e-iyamin]], touch it if possible. ([[Mustahab]]) <span style="color: red;">But don't kiss it or the hands that touch it.</span> If not possible to touch, then don't imitate as if you're touching it.
+    - Then recite the following dua, while going from [[Rukun-e-iyamin]] to [[Hajre Aswad]]:
+      > Rabbana atina fid'duniya hasanatao, wafil akhirati hasanatao, wakina azabannar
+      > O Allah, grant me blessings in this life and in the next life. And save me from the punishment in Jahannam.
+8. After reaching [[Hajre Aswad]], you complete one round of tawaf.
+9. Now perform 6 more rounds, and end with [[Kiss Hajre Aswad|kissing Hajre aswad]] for the eighth time.

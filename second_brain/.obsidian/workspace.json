@@ -30,15 +30,29 @@
               "type": "markdown",
               "state": {
                 "file": "notes/islamic/omrah/Tawaf-e-Omrah.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Tawaf-e-Omrah"
             }
+          },
+          {
+            "id": "ab3b9798422b79b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/Tawaf round.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tawaf round"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/islamic/omrah/Tawaf-e-Omrah.md",
+                "file": "inbox/Tawaf round.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tawaf-e-Omrah"
+              "title": "Outline of Tawaf round"
             }
           },
           {
@@ -223,11 +237,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4d89a583ac0c3f58",
+  "active": "ab3b9798422b79b8",
   "lastOpenFiles": [
+    "notes/islamic/omrah/Tawaf-e-Omrah.md",
+    "inbox/Tawaf round.md",
+    "notes/journal/daily/2025-11-11.md",
     "inbox/Multajam.md",
     "assets/Pasted image 20251111064443.png",
-    "notes/islamic/omrah/Tawaf-e-Omrah.md",
     "inbox/Hatim.md",
     "assets/Pasted image 20251111064256.png",
     "inbox/Ramal.md",
@@ -236,7 +252,6 @@
     "assets/Pasted image 20251111051310.png",
     "inbox/Ijteba.md",
     "notes/islamic/omrah/Omrah.md",
-    "notes/journal/daily/2025-11-11.md",
     "notes/journal/daily/2025-11-10.md",
     "notes/journal/weekly/2025-W45.md",
     "templates/New Weekly Note.md",
