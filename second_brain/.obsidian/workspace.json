@@ -36,23 +36,9 @@
               "icon": "lucide-file",
               "title": "Tawaf-e-Omrah"
             }
-          },
-          {
-            "id": "ab3b9798422b79b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/Tawaf round.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tawaf round"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/Tawaf round.md",
+                "file": "notes/islamic/omrah/Tawaf-e-Omrah.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tawaf round"
+              "title": "Outline of Tawaf-e-Omrah"
             }
           },
           {
@@ -237,8 +223,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ab3b9798422b79b8",
+  "active": "4d89a583ac0c3f58",
   "lastOpenFiles": [
+    "inbox/Enter Masjid-ul-Haram.md",
     "notes/islamic/omrah/Tawaf-e-Omrah.md",
     "inbox/Tawaf round.md",
     "notes/journal/daily/2025-11-11.md",
@@ -267,7 +254,6 @@
     "notes/islamic/Bismillah.md",
     "notes/phd-application/Covey's Quadrant for PhD application.md",
     "inbox/What is my PhD research goal.md",
-    "sources/clippings/youtube/Doctor Mike – 23 Everyday Habits Destroying Your Skin.md",
     "assets/Pasted image 20251110093046.png",
     "assets/Pasted image 20251109212518.png",
     "assets/Pasted image 20251109212413.png",
