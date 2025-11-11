@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "notes/journal/daily/2025-11-11.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "pinned": true,
@@ -30,15 +30,14 @@
               "type": "markdown",
               "state": {
                 "file": "notes/islamic/omrah/Tawaf-e-Omrah.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Tawaf-e-Omrah"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/islamic/omrah/Tawaf-e-Omrah.md",
+                "file": "notes/journal/daily/2025-11-11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tawaf-e-Omrah"
+              "title": "Outline of 2025-11-11"
             }
           },
           {
@@ -223,10 +222,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4d89a583ac0c3f58",
+  "active": "4ca0bcace8cdd550",
   "lastOpenFiles": [
-    "inbox/Enter Masjid-ul-Haram.md",
     "notes/islamic/omrah/Tawaf-e-Omrah.md",
+    "inbox/Enter Masjid-ul-Haram.md",
     "inbox/Tawaf round.md",
     "notes/journal/daily/2025-11-11.md",
     "inbox/Multajam.md",
