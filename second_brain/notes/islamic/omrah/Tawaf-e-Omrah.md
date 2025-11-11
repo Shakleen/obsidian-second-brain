@@ -40,5 +40,6 @@ hubs:
     - When you reach [[Multajam]] recite the following dua:
 	  > Allahumma enam bika wa tasdikam bitika, wa wafa'am bi'ahdika wa ittiba'an lisunnati nabiyika muhammadin sallallahu alaihi was'salam.
 	  > O Allah! I am starting tawaf bring iman and belief in You, Your (holy) books, to carry out your commands, and to follow the example set by Prophet Sallallahu Alaihi Was'salam.
-	  
+    - If it's the first 3 tawafs, then males should perform [[Ramal]]. ([[Sunnat-e-Muakkadah|Sunnat]]).
+    - Tawaf must be done outside of [[Hatim]]. ([[Wajib]])
 8. 
