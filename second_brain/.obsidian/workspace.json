@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "b8adc286d50fef68",
+            "id": "4d9ead0c0b80162c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/phd-application/Covey's Quadrant for PhD application.md",
-                "mode": "source",
+                "file": "notes/journal/weekly/2025-W45.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Covey's Quadrant for PhD application"
+              "title": "2025-W45"
             }
           }
         ],
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/phd-application/Covey's Quadrant for PhD application.md",
+                "file": "notes/journal/weekly/2025-W45.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Covey's Quadrant for PhD application"
+              "title": "Outline of 2025-W45"
             }
           },
           {
@@ -223,13 +223,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b8adc286d50fef68",
+  "active": "4d9ead0c0b80162c",
   "lastOpenFiles": [
     "notes/journal/daily/2025-11-11.md",
+    "notes/phd-application/Covey's Quadrant for PhD application.md",
     "notes/islamic/omrah/Enter Masjid-ul-Haram.md",
     "notes/phd-application/Arizona State University checklist.md",
     "notes/phd-application/UC San Diego checklist.md",
-    "notes/phd-application/Covey's Quadrant for PhD application.md",
     "notes/islamic/omrah/Tawaf-e-Omrah.md",
     "notes/islamic/omrah/Tawaf round.md",
     "notes/islamic/omrah/Multajam.md",
