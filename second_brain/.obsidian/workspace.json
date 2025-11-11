@@ -15,26 +15,15 @@
               "type": "markdown",
               "state": {
                 "file": "notes/journal/daily/2025-11-11.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "pinned": true,
               "icon": "lucide-file",
               "title": "2025-11-11"
             }
-          },
-          {
-            "id": "39ff65f7005f2212",
-            "type": "leaf",
-            "state": {
-              "type": "spaced-repetition-tab-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Spaced Repetition"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,10 +208,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "39ff65f7005f2212",
+  "active": "4ca0bcace8cdd550",
   "lastOpenFiles": [
-    "notes/journal/weekly/2025-W45.md",
+    "notes/islamic/adhan/Adhan dua.md",
     "notes/journal/daily/2025-11-11.md",
+    "notes/journal/weekly/2025-W45.md",
     "notes/phd-application/Covey's Quadrant for PhD application.md",
     "notes/islamic/omrah/Enter Masjid-ul-Haram.md",
     "notes/phd-application/Arizona State University checklist.md",
@@ -249,7 +239,6 @@
     "notes/islamic/Auzubillah.md",
     "notes/islamic/salah/2025-10-28_Salat.md",
     "notes/islamic/wudu/Wudu.md",
-    "notes/islamic/ghusl/Fard Ghusl.md",
     "assets/Pasted image 20251110093046.png",
     "assets/Pasted image 20251109212518.png",
     "assets/Pasted image 20251109212413.png",
