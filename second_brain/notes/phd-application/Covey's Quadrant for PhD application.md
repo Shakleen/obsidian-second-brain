@@ -74,11 +74,9 @@ No universities in this quadrant (crossed-out universities excluded)
 1. Dec 1
 	1. ~~UC Berkeley~~
 	2. ~~UCLA~~
-2. Dec 5
-	1. Univ. of Rochester
-3. Dec 12
+2. Dec 12
 	1. NYU
-4. Dec 15
+3. Dec 15
 	1. ~~John Hopkins University~~
 	2. U of Colorado Boulder
 	3. UC Santa Barbara
@@ -88,14 +86,15 @@ No universities in this quadrant (crossed-out universities excluded)
 	7. ~~UT Austin~~
 	8. UT Dallas
 	9. UT Arlington
-5. Dec 17:
+4. Dec 17:
 	1. UC San Diego
-6. Dec 31:
+5. Dec 31:
 	1. ASU
-7. Jan 5
+6. Jan 5
 	1. ~~Purdue University~~
 	2. UC Riverside
-8. Jan 15
+	3. Univ. of Rochester
+7. Jan 15
 	1. UC Merced
-9. Mar 15
+8. Mar 15
 	1. Texas A&M University
