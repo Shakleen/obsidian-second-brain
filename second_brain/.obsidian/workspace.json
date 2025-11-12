@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "inbox/Sleep.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -242,10 +242,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bb89fe37d76d1163",
+  "active": "61336788a0696dec",
   "lastOpenFiles": [
-    "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
     "inbox/Sleep.md",
+    "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
     "inbox/Restorative sleep.md",
     "notes/journal/daily/2025-11-12.md",
     "notes/journal/daily/2025-11-11.md",
