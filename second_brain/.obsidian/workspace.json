@@ -55,8 +55,21 @@
               "icon": "lucide-file",
               "title": "Optimize Sleep Quality for Busy Schedules"
             }
+          },
+          {
+            "id": "93ad86cb2bd4d8ab",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,11 +251,10 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "61336788a0696dec",
+  "active": "93ad86cb2bd4d8ab",
   "lastOpenFiles": [
     "inbox/Sleep.md",
     "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
