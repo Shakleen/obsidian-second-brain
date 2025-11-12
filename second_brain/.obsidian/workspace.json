@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "notes/journal/daily/2025-11-13.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/islamic/omrah/Tawaf-e-Omrah.md",
+                "file": "notes/islamic/omrah/Tawaf round.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tawaf-e-Omrah"
+              "title": "Tawaf round"
             }
           }
         ],
@@ -223,12 +223,17 @@
   },
   "active": "48709a4ce2f1e555",
   "lastOpenFiles": [
-    "inbox/Salat-ul-Omrah.md",
     "notes/islamic/omrah/Tawaf-e-Omrah.md",
+    "inbox/Starting at Hajre Aswad.md",
+    "inbox/Zamzam.md",
+    "assets/Pasted image 20251113050139.png",
+    "notes/islamic/omrah/Kiss Hajre Aswad.md",
+    "notes/journal/daily/2025-11-13.md",
+    "notes/islamic/omrah/Ehram.md",
+    "inbox/Salat-ul-Omrah.md",
     "inbox/Dua at Multajam.md",
     "inbox/Makam-e-Ibrahim.md",
     "assets/Pasted image 20251113044246.png",
-    "notes/journal/daily/2025-11-13.md",
     "inbox/Sleep.md",
     "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
     "inbox/Restorative sleep.md",
@@ -246,19 +251,14 @@
     "notes/islamic/omrah/Hatim.md",
     "assets/Pasted image 20251111064256.png",
     "notes/islamic/omrah/Ramal.md",
-    "notes/islamic/omrah/Kiss Hajre Aswad.md",
     "notes/islamic/omrah/Hajre Aswad.md",
     "assets/Pasted image 20251111051310.png",
     "notes/islamic/omrah/Ijteba.md",
-    "notes/islamic/omrah/Omrah.md",
-    "notes/journal/daily/2025-11-10.md",
-    "templates/New Weekly Note.md",
     "assets/Pasted image 20251110093046.png",
     "assets/Pasted image 20251109212518.png",
     "assets/Pasted image 20251109212413.png",
     "assets/Pasted image 20251109212225.png",
     "assets/Pasted image 20251109211943.png",
-    "assets/Pasted image 20251109211736.png",
     "sources/clippings/ai_chat",
     "notes/self-care",
     "sources/clippings/claude",
