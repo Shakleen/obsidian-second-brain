@@ -8,3 +8,4 @@ hubs:
 references:
   - "[[Optimize Sleep Quality for Busy Schedules]]"
 ---
+![[Optimize Sleep Quality for Busy Schedules#^16ec9e]]
