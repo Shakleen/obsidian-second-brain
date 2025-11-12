@@ -269,13 +269,13 @@ N3 Augmentation	Prioritize consistent morning Moderate Intensity Exercise (MIE).
 Proven to increase the proportion of restorative N3 (SWS) sleep
  
 
-B. Guidelines for Chronotype Alignment and Circadian Consistency
+### B. Guidelines for Chronotype Alignment and Circadian Consistency
 
 Consistency must be treated as a core performance metric. The body's chronotype—its natural preference for sleep and wake timing, linked to the 24-hour circadian rhythm —must be respected and aligned.  
 
 Maintaining a set, restricted sleep schedule consistently reinforces the internal circadian cycle, which is essential for rapid sleep onset and consolidated sleep. Disrupting this rhythm through inconsistent schedules (known as social jetlag) undermines the homeostatic gains achieved by SRT, leading to inevitable efficiency crashes. Alignment is supported by strict light hygiene: utilizing morning light exposure to entrain the internal clock and rigorously avoiding blue light exposure in the evening to allow for natural melatonin secretion. This minimizes the biological friction that reduces SE.  
 
-VIII. Conclusions and Recommendations
+## VIII. Conclusions and Recommendations
 
 The objective of achieving "great quality sleep" while minimizing duration is a high-level physiological challenge that must be addressed through the systematic application of behavioral and environmental controls. The core of the strategy is the implementation of Sleep Restriction Therapy (SRT) to leverage the homeostatic drive and maximize Slow Wave Sleep (N3) density.
 
