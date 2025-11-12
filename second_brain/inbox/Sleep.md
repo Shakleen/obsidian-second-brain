@@ -8,4 +8,6 @@ hubs:
 references:
   - "[[Optimize Sleep Quality for Busy Schedules]]"
 ---
-[[Restorative sleep|What is "Restorative Sleep"?]]
+## Measuring Sleep Quality
+1. Sleep Efficiency (SE)
+2. Sleep onset Latency (SOL)

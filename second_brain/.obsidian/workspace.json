@@ -28,29 +28,15 @@
               "type": "markdown",
               "state": {
                 "file": "inbox/Sleep.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Sleep"
             }
-          },
-          {
-            "id": "f081ca7cc01fd88c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/Restorative sleep.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Restorative sleep"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "9efa1b1a13d6c2ef",
@@ -256,11 +242,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "61336788a0696dec",
+  "active": "bb89fe37d76d1163",
   "lastOpenFiles": [
-    "inbox/Restorative sleep.md",
     "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
     "inbox/Sleep.md",
+    "inbox/Restorative sleep.md",
     "notes/journal/daily/2025-11-12.md",
     "notes/journal/daily/2025-11-11.md",
     "notes/islamic/adhan/Adhan dua.md",

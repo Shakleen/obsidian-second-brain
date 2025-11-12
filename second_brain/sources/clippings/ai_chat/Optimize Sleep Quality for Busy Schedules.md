@@ -50,7 +50,7 @@ To achieve high-quality sleep in less time, the subjective goal must first be tr
 
 ### A. The Metrics of High-Quality Sleep: Sleep Efficiency (SE) and Sleep Latency
 
-High sleep quality is fundamentally measured by two behavioral metrics: Sleep Efficiency (SE) and Sleep Onset Latency (SOL). ^16ec9e
+High sleep quality is fundamentally measured by two behavioral metrics: Sleep Efficiency (SE) and Sleep Onset Latency (SOL).
 
 Sleep efficiency is defined as the amount of time actually spent sleeping while in bed, expressed as a percentage. For the time-constrained individual, maximizing SE is the direct mechanism for ensuring that the total time allocated to sleep yields maximum restorative benefit. A typical clinical consensus suggests that an SE target of ≥ 85% signifies consolidated, healthy sleep.  
 
