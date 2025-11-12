@@ -4,68 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b2573a83598d3d64",
+        "id": "6908fe6e6bfb5810",
         "type": "tabs",
         "children": [
           {
-            "id": "397411b35a5e4925",
+            "id": "a9a9bae4901bf6b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/journal/daily/2025-11-12.md",
+                "file": "notes/journal/daily/2025-11-13.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-11-12"
+              "title": "2025-11-13"
             }
           },
           {
-            "id": "bb89fe37d76d1163",
+            "id": "48709a4ce2f1e555",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/Sleep.md",
+                "file": "notes/islamic/omrah/Tawaf-e-Omrah.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sleep"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "9efa1b1a13d6c2ef",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "61336788a0696dec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Optimize Sleep Quality for Busy Schedules"
-            }
-          },
-          {
-            "id": "93ad86cb2bd4d8ab",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "title": "Tawaf-e-Omrah"
             }
           }
         ],
@@ -233,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,11 +217,18 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "93ad86cb2bd4d8ab",
+  "active": "48709a4ce2f1e555",
   "lastOpenFiles": [
+    "inbox/Salat-ul-Omrah.md",
+    "notes/islamic/omrah/Tawaf-e-Omrah.md",
+    "inbox/Dua at Multajam.md",
+    "inbox/Makam-e-Ibrahim.md",
+    "assets/Pasted image 20251113044246.png",
+    "notes/journal/daily/2025-11-13.md",
     "inbox/Sleep.md",
     "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
     "inbox/Restorative sleep.md",
@@ -267,7 +240,6 @@
     "notes/islamic/omrah/Enter Masjid-ul-Haram.md",
     "notes/phd-application/Arizona State University checklist.md",
     "notes/phd-application/UC San Diego checklist.md",
-    "notes/islamic/omrah/Tawaf-e-Omrah.md",
     "notes/islamic/omrah/Tawaf round.md",
     "notes/islamic/omrah/Multajam.md",
     "assets/Pasted image 20251111064443.png",
@@ -281,17 +253,12 @@
     "notes/islamic/omrah/Omrah.md",
     "notes/journal/daily/2025-11-10.md",
     "templates/New Weekly Note.md",
-    "templates/weekly.md",
-    "notes/islamic/salah/Shijda Tasbih.md",
-    "notes/islamic/salah/Ruku Takbir.md",
-    "notes/islamic/salah/Ruku Tasbih.md",
     "assets/Pasted image 20251110093046.png",
     "assets/Pasted image 20251109212518.png",
     "assets/Pasted image 20251109212413.png",
     "assets/Pasted image 20251109212225.png",
     "assets/Pasted image 20251109211943.png",
     "assets/Pasted image 20251109211736.png",
-    "assets/Pasted image 20251109211548.png",
     "sources/clippings/ai_chat",
     "notes/self-care",
     "sources/clippings/claude",

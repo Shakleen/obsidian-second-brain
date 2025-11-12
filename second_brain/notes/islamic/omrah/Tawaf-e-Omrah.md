@@ -7,9 +7,10 @@ tags:
 hubs:
   - "[[islamic]]"
 ---
-The entire process must be completed while [[Wudu]] is in effect. If for whatever reason, your [[What breaks Wudu|wudu breaks]], [[Wudu|redo wudu]]. 
-* If your [[What breaks Wudu|wudu breaks]] at time time within the first 3 [[Tawaf round|rounds]], then it's [[Mustahab]] to start from the beginning and do 7 [[Tawaf round|rounds]]. 
-* If you [[What breaks Wudu|wudu breaks]] after 3 rounds, then you should just complete the remaining [[Tawaf round|rounds]].
+> [!Info] Wudu
+> The entire process must be completed while [[Wudu]] is in effect. If for whatever reason, your [[What breaks Wudu|wudu breaks]], [[Wudu|redo wudu]]. 
+> * If your [[What breaks Wudu|wudu breaks]] at time time within the first 3 [[Tawaf round|rounds]], then it's [[Mustahab]] to start from the beginning and do 7 [[Tawaf round|rounds]]. 
+> * If you [[What breaks Wudu|wudu breaks]] after 3 rounds, then you should just complete the remaining [[Tawaf round|rounds]].
 
 ## Process of Tawaf
 1. [[Enter Masjid-ul-Haram]]
@@ -26,8 +27,13 @@ The entire process must be completed while [[Wudu]] is in effect. If for whateve
 7. Now [[Kiss Hajre Aswad]].
 8. Now start [[Tawaf round]] which completes after reaching [[Hajre Aswad]].
 	1. Perform 7 total rounds, and end with [[Kiss Hajre Aswad|kissing Hajre aswad]] for the eighth time.
+9. After finishing all rounds perform [[Dua at Multajam]].
+10. 
+11. At the end of the prayer, go to [[Zamzam]], drink water, and dua. ([[Mustahab]]) The dua is as follows:
+    > Allahumma inni as'aluka ilman nafi'ao wa rizkao wa'achiao wa shifa'am min kulli daiyin
+    > Meaning: O Allah, I want from You, helpful knowledge, great rijik, and freedom from all illnesses.
 
-## Don't 
-1. Don't run. Steadily walk.
-2. If it's time to pray, then pray first. Then continue.
-3. 
+> [!Error] Don't(s)
+> 1. Don't run. Steadily walk.
+> 2. If it's time to pray, then pray first. Then continue. 
+> 3. In any circumstance, don't bother or hurt anyone or anything. If you do, your [[Omrah]] or [[Hajj]] is invalid.
