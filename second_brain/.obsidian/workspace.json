@@ -4,23 +4,70 @@
     "type": "split",
     "children": [
       {
-        "id": "e9d915c4dee99ab4",
+        "id": "b2573a83598d3d64",
         "type": "tabs",
         "children": [
           {
-            "id": "4ca0bcace8cdd550",
+            "id": "397411b35a5e4925",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/journal/daily/2025-11-11.md",
+                "file": "notes/journal/daily/2025-11-12.md",
                 "mode": "source",
                 "source": true
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "2025-11-11"
+              "title": "2025-11-12"
+            }
+          },
+          {
+            "id": "bb89fe37d76d1163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/Sleep.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Sleep"
+            }
+          },
+          {
+            "id": "f081ca7cc01fd88c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/Restorative sleep.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Restorative sleep"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "9efa1b1a13d6c2ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61336788a0696dec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Optimize Sleep Quality for Busy Schedules"
             }
           }
         ]
@@ -187,7 +234,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 282.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,13 +252,18 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "4ca0bcace8cdd550",
+  "active": "f081ca7cc01fd88c",
   "lastOpenFiles": [
-    "notes/islamic/adhan/Adhan dua.md",
+    "inbox/Restorative sleep.md",
+    "inbox/Sleep.md",
+    "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
+    "notes/journal/daily/2025-11-12.md",
     "notes/journal/daily/2025-11-11.md",
+    "notes/islamic/adhan/Adhan dua.md",
     "notes/journal/weekly/2025-W45.md",
     "notes/phd-application/Covey's Quadrant for PhD application.md",
     "notes/islamic/omrah/Enter Masjid-ul-Haram.md",
@@ -234,10 +287,6 @@
     "notes/islamic/salah/Shijda Tasbih.md",
     "notes/islamic/salah/Ruku Takbir.md",
     "notes/islamic/salah/Ruku Tasbih.md",
-    "notes/islamic/salah/Salat step-by-step.md",
-    "notes/islamic/Auzubillah.md",
-    "notes/islamic/salah/2025-10-28_Salat.md",
-    "notes/islamic/wudu/Wudu.md",
     "assets/Pasted image 20251110093046.png",
     "assets/Pasted image 20251109212518.png",
     "assets/Pasted image 20251109212413.png",
