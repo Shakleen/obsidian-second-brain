@@ -9,8 +9,8 @@ hubs:
 ---
 > [!Info] Wudu
 > The entire process must be completed while [[Wudu]] is in effect. If for whatever reason, your [[What breaks Wudu|wudu breaks]], [[Wudu|redo wudu]]. 
-> * If your [[What breaks Wudu|wudu breaks]] at time time within the first 3 [[Tawaf round|rounds]], then it's [[Mustahab]] to start from the beginning and do 7 [[Tawaf round|rounds]]. 
-> * If you [[What breaks Wudu|wudu breaks]] after 3 rounds, then you should just complete the remaining [[Tawaf round|rounds]].
+> - If your [[What breaks Wudu|wudu breaks]] at time time within the first 3 [[Tawaf round|rounds]], then it's [[Mustahab]] to start from the beginning and do 7 [[Tawaf round|rounds]]. 
+> - If you [[What breaks Wudu|wudu breaks]] after 3 rounds, then you should just complete the remaining [[Tawaf round|rounds]].
 
 ## Process of Tawaf
 1. [[Enter Masjid-ul-Haram]]
@@ -23,9 +23,7 @@ hubs:
 	1. Perform 7 total rounds, and end with [[Kiss Hajre Aswad|kissing Hajre aswad]] for the eighth time.
 8. After finishing all rounds perform [[Dua at Multajam]].
 9. Perform [[Salat-ul-Omrah]].
-10. At the end of the prayer, go to [[Zamzam]], drink water, and dua. ([[Mustahab]]) The dua is as follows:
-    > Allahumma inni as'aluka ilman nafi'ao wa rizkao wa'achiao wa shifa'am min kulli daiyin
-    > Meaning: O Allah, I want from You, helpful knowledge, great rijik, and freedom from all illnesses.
+10. [[Dua at Zamzam Well]]
 
 > [!Error] Don't(s)
 > 1. Don't run. Steadily walk.

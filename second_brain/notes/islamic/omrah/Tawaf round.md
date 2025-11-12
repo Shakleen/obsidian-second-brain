@@ -7,9 +7,9 @@ tags:
 hubs:
   - "[[islamic]]"
 ---
-## Direction
-- Place [[Baytullah|Qaba]] to your left
-- Make sure your chest never faces [[Baytullah|Qaba]] while you walk. If it does for even a step or two, go back a few steps, and then continue.
+> [!Info] Direction
+> - Place [[Baytullah|Qaba]] to your left
+> - Make sure your chest never faces [[Baytullah|Qaba]] while you walk. If it does for even a step or two, go back a few steps, and then continue.
 
 ## Process
 - Starts from [[Hajre Aswad]] and move to [[Multajam]].
