@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "918423cf37ca37b8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sources/pdfs/WriteIvy - How To SOP.pdf",
-                "page": 8,
-                "left": -9,
-                "top": 575,
-                "zoom": 1.647058823529412
-              },
-              "icon": "lucide-file-text",
-              "title": "WriteIvy - How To SOP"
-            }
-          },
-          {
             "id": "6fb08210da4ef6aa",
             "type": "leaf",
             "state": {
@@ -44,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "notes/journal/daily/2025-11-13.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -238,11 +222,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6fb08210da4ef6aa",
+  "active": "4bed97329e5b4dc1",
   "lastOpenFiles": [
-    "notes/journal/daily/2025-11-13.md",
     "inbox/Master SOP for PhD Application.md",
     "sources/pdfs/WriteIvy - How To SOP.pdf",
+    "notes/journal/daily/2025-11-13.md",
     "inbox/Sleep.md",
     "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
     "notes/islamic/omrah/Starting at Hajre Aswad.md",
