@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/Sleep.md",
+                "file": "notes/islamic/omrah/Tawaf-e-Omrah.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sleep"
+              "title": "Tawaf-e-Omrah"
             }
           }
         ]
@@ -184,8 +184,10 @@
   },
   "active": "198b778ab4a22e4d",
   "lastOpenFiles": [
-    "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
+    "notes/islamic/omrah/Fards of Omrah.md",
+    "notes/islamic/omrah/Omrah.md",
     "inbox/Sleep.md",
+    "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
     "inbox/UTD.md",
     "inbox/Master SOP for PhD Application.md",
     "notes/journal/daily/2025-11-11.md",
@@ -211,8 +213,6 @@
     "notes/islamic/omrah/Tawaf-e-Omrah.md",
     "notes/islamic/omrah/Talbiya.md",
     "inbox/Ijteba.md",
-    "inbox/Hajre Aswad.md",
-    "assets/Pasted image 20251111051310.png",
-    "notes/journal/weekly/2025-W45.md"
+    "assets/Pasted image 20251111051310.png"
   ]
 }
