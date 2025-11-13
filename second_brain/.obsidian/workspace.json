@@ -4,39 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "6908fe6e6bfb5810",
+        "id": "66bc07016137ae09",
         "type": "tabs",
         "children": [
           {
-            "id": "a9a9bae4901bf6b8",
+            "id": "cebffb231ab2bc9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/journal/daily/2025-11-13.md",
-                "mode": "source",
+                "file": "inbox/Sleep.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-11-13"
-            }
-          },
-          {
-            "id": "48709a4ce2f1e555",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/Sayi.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sayi"
+              "title": "Sleep"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "4d30b82036a30cc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56ebc77751c3c9e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Optimize Sleep Quality for Busy Schedules"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,37 +227,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "48709a4ce2f1e555",
+  "active": "56ebc77751c3c9e6",
   "lastOpenFiles": [
-    "inbox/Dua while looking at Qaba.md",
-    "inbox/Sayi.md",
-    "notes/islamic/omrah/Enter Masjid-ul-Haram.md",
-    "inbox/Zamzam.md",
-    "inbox/Untitled.md",
-    "inbox/Rules of exiting a Mosque.md",
+    "inbox/Sleep.md",
+    "notes/islamic/omrah/Starting at Hajre Aswad.md",
+    "notes/islamic/omrah/Babus Safa.md",
     "notes/journal/daily/2025-11-13.md",
-    "inbox/Babus Safa.md",
-    "assets/Pasted image 20251113055655.png",
     "notes/islamic/omrah/Wajibs of Omrah.md",
+    "notes/islamic/omrah/Kasar.md",
+    "notes/islamic/omrah/Halk.md",
+    "notes/islamic/omrah/Sayi.md",
+    "notes/islamic/omrah/Dua while looking at Qaba.md",
+    "notes/islamic/omrah/Enter Masjid-ul-Haram.md",
+    "notes/islamic/omrah/Zamzam.md",
+    "inbox/Untitled.md",
+    "notes/islamic/omrah/Rules of exiting a Mosque.md",
+    "assets/Pasted image 20251113055655.png",
     "notes/islamic/omrah/Omrah.md",
     "notes/islamic/omrah/Fards of Omrah.md",
     "notes/islamic/omrah/Tawaf-e-Omrah.md",
     "notes/islamic/omrah/Ehram.md",
-    "inbox/Dua at Zamzam Well.md",
+    "notes/islamic/omrah/Dua at Zamzam Well.md",
     "notes/islamic/omrah/Tawaf round.md",
-    "inbox/Starting at Hajre Aswad.md",
     "assets/Pasted image 20251113050139.png",
     "notes/islamic/omrah/Kiss Hajre Aswad.md",
-    "inbox/Salat-ul-Omrah.md",
-    "inbox/Dua at Multajam.md",
-    "inbox/Makam-e-Ibrahim.md",
+    "notes/islamic/omrah/Salat-ul-Omrah.md",
+    "notes/islamic/omrah/Dua at Multajam.md",
+    "notes/islamic/omrah/Makam-e-Ibrahim.md",
     "assets/Pasted image 20251113044246.png",
-    "inbox/Sleep.md",
     "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
     "inbox/Restorative sleep.md",
     "notes/journal/daily/2025-11-12.md",
-    "notes/journal/daily/2025-11-11.md",
-    "notes/islamic/adhan/Adhan dua.md",
     "assets/Pasted image 20251111064443.png",
     "assets/Pasted image 20251111064256.png",
     "assets/Pasted image 20251111051310.png",
