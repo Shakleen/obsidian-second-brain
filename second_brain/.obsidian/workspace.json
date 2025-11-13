@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "sources/pdfs/WriteIvy - How To SOP.pdf",
-                "page": 6,
+                "page": 13,
                 "left": -9,
-                "top": 429,
+                "top": 489,
                 "zoom": 1.647058823529412
               },
               "icon": "lucide-file-text",
@@ -30,7 +30,7 @@
               "type": "markdown",
               "state": {
                 "file": "inbox/Master SOP for PhD Application.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
