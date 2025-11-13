@@ -4,6 +4,7 @@ tags:
   - islamic
   - omrah
   - how-to
+  - fard
 hubs:
   - "[[islamic]]"
 ---

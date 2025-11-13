@@ -6,6 +6,7 @@ tags:
   - omrah
   - hajj
   - how-to
+  - fard
 hubs:
   - "[[islamic]]"
 ---

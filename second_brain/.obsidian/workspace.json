@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "notes/journal/daily/2025-11-13.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -28,15 +28,29 @@
               "type": "markdown",
               "state": {
                 "file": "inbox/Sayi.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Sayi"
             }
+          },
+          {
+            "id": "8e4ef65ad1986f26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/Rules of exiting a Mosque.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Rules of exiting a Mosque"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,12 +235,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "48709a4ce2f1e555",
+  "active": "8e4ef65ad1986f26",
   "lastOpenFiles": [
-    "notes/islamic/omrah/Wajibs of Omrah.md",
+    "inbox/Rules of exiting a Mosque.md",
     "inbox/Sayi.md",
+    "notes/journal/daily/2025-11-13.md",
+    "inbox/Babus Safa.md",
+    "assets/Pasted image 20251113055655.png",
+    "notes/islamic/omrah/Wajibs of Omrah.md",
     "notes/islamic/omrah/Omrah.md",
+    "notes/islamic/omrah/Fards of Omrah.md",
     "notes/islamic/omrah/Tawaf-e-Omrah.md",
+    "notes/islamic/omrah/Ehram.md",
     "inbox/Dua at Zamzam Well.md",
     "inbox/Untitled.md",
     "notes/islamic/omrah/Tawaf round.md",
@@ -234,8 +254,6 @@
     "inbox/Zamzam.md",
     "assets/Pasted image 20251113050139.png",
     "notes/islamic/omrah/Kiss Hajre Aswad.md",
-    "notes/journal/daily/2025-11-13.md",
-    "notes/islamic/omrah/Ehram.md",
     "inbox/Salat-ul-Omrah.md",
     "inbox/Dua at Multajam.md",
     "inbox/Makam-e-Ibrahim.md",
@@ -248,9 +266,6 @@
     "notes/islamic/adhan/Adhan dua.md",
     "notes/journal/weekly/2025-W45.md",
     "notes/phd-application/Covey's Quadrant for PhD application.md",
-    "notes/islamic/omrah/Enter Masjid-ul-Haram.md",
-    "notes/phd-application/Arizona State University checklist.md",
-    "notes/phd-application/UC San Diego checklist.md",
     "assets/Pasted image 20251111064443.png",
     "assets/Pasted image 20251111064256.png",
     "assets/Pasted image 20251111051310.png",
@@ -258,7 +273,6 @@
     "assets/Pasted image 20251109212518.png",
     "assets/Pasted image 20251109212413.png",
     "assets/Pasted image 20251109212225.png",
-    "assets/Pasted image 20251109211943.png",
     "sources/clippings/ai_chat",
     "notes/self-care",
     "sources/clippings/claude",
