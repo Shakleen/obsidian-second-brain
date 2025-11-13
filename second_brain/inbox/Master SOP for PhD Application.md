@@ -12,8 +12,18 @@ hubs:
 > 3. **Continual learning**: How can deep learning models adapt to how a user's knowledge is constantly changing.
 >
 > ## Why are you interested in this research? (To make education better)
-> I have been an avid user of *Anki* (A spaced repetition software) used to make learning easier and more effective. It has saved me countless hours of re-reading content I have already consumed and helped me remember what I read. During my masters, I participated in multiple Kaggle competitions focused around using NLP to solve education problems like obfuscating PII, evaluating essays based on heuristics, mapping misconceptions to mistakes, etc. These competitions inspired me to build an edtech product to help people study more effectively. This got me started on my startup adventure in late 2024. My idea was to build a learning tool that lowers the friction of saving information a person wants to remember. However, the startup didn't end up doing well because the idea itself didn't attract investor attention. One of the core ideas for my product was quizzing users information they are most likely to forget on any given day and recommend them the sources they needed to review to brush up on the topic. This got me into digging up research that mapped mistakes to learning content, which a knowledge graph does effectively. However, I failed to find much research on the topic. Thus my goal for PhD is to research knowledge graphs that can be used to map misconceptions to learning content.
+> ### Knowledge Graph for Mapping Mistakes to Topics
+> My interest in the intersection of Computer Science and cognitive science stems from my experience as an early adopter of Spaced Repetition Systems (SRS) like Anki, which fundamentally demonstrated the power of optimized, efficient learning. This personal engagement led me to pursue a deeper understanding of educational technology during my Master’s, where I participated in several Kaggle competitions focused on applying Natural Language Processing (NLP) to educational diagnostics, including the automated evaluation of essays and mapping common errors to specific misconceptions.
 > 
+> This work inspired an entrepreneurial venture to develop a tool that minimized the friction of dynamic retrieval practice by automatically identifying a user's most likely-to-be-forgotten concepts and recommending precise content for review. The challenge was not commercial, but technical: I found a critical academic gap in systems capable of diagnostic reasoning. Specifically, there is a sparse research landscape on developing Knowledge Graph (KG) methodologies that can robustly and automatically map observed user mistakes and misconceptions directly to granular learning content and optimal review schedules.
+> 
+> Therefore, my PhD goal is to research and develop novel Knowledge Graph architectures and NLP techniques to establish this diagnostic link, bridging the current gap between educational assessment and personalized, content-aware remediation.
+>
+> ### Generative AI
+> My interest in the intersection of Computer Science and cognitive science stems from my experience as an early adopter of Spaced Repetition Systems (SRS) like Anki, which fundamentally demonstrated the power of optimized, efficient learning. This personal engagement led me to pursue a deeper understanding of educational technology during my Master’s, where I participated in several Kaggle competitions focused on applying Natural Language Processing (NLP) to educational diagnostics, including the automated evaluation of essays and mapping common errors to specific misconceptions.
+> 
+>  This work inspired a
+>  
 > ## Why this University or Program?
 > \<University spacific\>
 >
