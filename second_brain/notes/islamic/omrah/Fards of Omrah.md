@@ -11,3 +11,18 @@ hubs:
 There are two [[Fard]] [[Amal|amals]] for [[Omrah]]:
 1. [[Ehram]]
 2. [[Tawaf-e-Omrah]]
+
+## Flash Cards
+#flashcards/islamic 
+What are the 2 [[Fards of Omrah]]?
+?
+1. [[Ehram]]
+2. [[Tawaf-e-Omrah]]
+
+How many [[Fards of Omrah]]?
+?
+Two
+
+To perform [[Ehram]] in [[Omrah]] is a ==[[Fard]]==^[Fard or Wajib] [[Amal]].
+
+To perform [[Tawaf-e-Omrah]] in [[Omrah]] is a ==[[Fard]]==^[Fard or Wajib] [[Amal]].

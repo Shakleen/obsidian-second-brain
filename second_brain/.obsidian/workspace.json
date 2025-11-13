@@ -37,26 +37,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "597cd7fe0509b786",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "92fed6ccb19e9a40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/Omrah Flash Cards.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Omrah Flash Cards"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -109,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -243,12 +222,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "92fed6ccb19e9a40",
+  "active": "b56e461ede134d66",
   "lastOpenFiles": [
-    "notes/islamic/omrah/Ehram.md",
-    "inbox/Omrah Flash Cards.md",
     "notes/islamic/omrah/Fards of Omrah.md",
     "notes/islamic/omrah/Omrah.md",
+    "inbox/Omrah Flash Cards.md",
+    "notes/islamic/omrah/Wajibs of Omrah.md",
+    "notes/islamic/omrah/Ehram.md",
+    "notes/islamic/adhan/Adhan dua.md",
     "notes/journal/daily/2025-11-14.md",
     "notes/islamic/wudu/Wudu ending dua.md",
     "notes/islamic/ghusl/When to Ghusl.md",
@@ -269,9 +250,7 @@
     "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
     "notes/journal/daily/2025-11-13.md",
     "inbox/Sleep.md",
-    "inbox/Master SOP for PhD Application.md",
     "sources/pdfs/WriteIvy - How To SOP.pdf",
-    "notes/islamic/omrah/Starting at Hajre Aswad.md",
     "assets/Pasted image 20251113055655.png",
     "assets/Pasted image 20251113050139.png",
     "assets/Pasted image 20251113044246.png",

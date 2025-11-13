@@ -26,7 +26,8 @@ hubs:
 		3. Trim or shave pubic hair
 	2. [[Sunnat-e-Ghair-Muakkadah|Sunnat]]: Perform [[Fard Ghusl|Ghusl]]
 2. Wear [[Ehram clothes]] (Mandatory for males)
-3. Wear perfume ([[Sunnat-e-Ghair-Muakkadah|Sunnat]]): But make sure the perfume doesn't stick to the [[Ehram clothes]].
+3. Wear perfume ([[Sunnat-e-Ghair-Muakkadah|Sunnat]])
+   > [!Error] But make sure the perfume doesn't stick to the [[Ehram clothes]].
 4. Pray 2 [[Rakat|rakat]] of [[Nafl]] [[2025-10-28_Salat|Salah]] ([[Sunnat-e-Ghair-Muakkadah|Sunnat]])
 	- First [[Rakat]] [[Qirat]] should cover [[Sura Kafirun]]
 	- Second [[Rakat]] [[Qirat]] should cover [[Sura Ikhlas]].
@@ -51,3 +52,39 @@ hubs:
 > 7. Hunting any land animals.
 > 8. Having or even talking about sex.
 > 9. Quarreling with anyone for any reason.
+
+## Flash Cards
+#flashcards/islamic 
+When is the absolute last time to make [[Ehram]]?
+?
+Before [[Mikat]]
+
+What is [[Mikat]]?
+?
+A specific place before which [[Ehram]] must be made for [[Hajj]] or [[Omrah]].
+
+What are the purification steps for [[Ehram]]?
+?
+1. [[Mustahab]]
+	1. Clip nails
+	2. Trim or shave 
+		1. armpits
+		2. pubic hair
+2. [[Sunnat-e-Ghair-Muakkadah|Sunnat]]: Perform [[Fard Ghusl|Ghusl]]
+
+To **Clip nails** for [[Ehram]] is ==[[Mustahab]]==^[Mustahab or Sunnat]
+
+To **trim or shave armpits and pubics** is ==[[Mustahab]]==^[Mustahab or Sunnat]
+
+To **perform [[Fard Ghusl|Ghusl]]** is ==[[Sunnat-e-Muakkadah|Sunnat]]==^[Mustahab or Sunnat]
+
+To wear perfume is ==[[Sunnat-e-Muakkadah|Sunnat]]==^[Mustahab or Sunnat or Forbidden] for [[Ehram]].
+
+What are the steps in making [[Ehram]]?
+?
+1. Purification of body
+2. For males wearing [[Ehram clothes]]
+3. Apply perfume but not on [[Ehram clothes]]
+4. Pray 2 [[Rakat|rakats]] of [[Nafl]] [[2025-10-28_Salat|Salah]]
+5. [[Niyat]] for [[Omrah]] while facing [[Baytullah|Qaba]]
+6. Recite [[Talbiya]] 3 times
