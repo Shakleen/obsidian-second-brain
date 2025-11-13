@@ -11,14 +11,16 @@
             "id": "918423cf37ca37b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "notes/journal/daily/2025-11-13.md",
-                "mode": "source",
-                "source": true
+                "file": "sources/pdfs/WriteIvy - How To SOP.pdf",
+                "page": 6,
+                "left": -9,
+                "top": 429,
+                "zoom": 1.647058823529412
               },
-              "icon": "lucide-file",
-              "title": "2025-11-13"
+              "icon": "lucide-file-text",
+              "title": "WriteIvy - How To SOP"
             }
           },
           {
@@ -28,14 +30,15 @@
               "type": "markdown",
               "state": {
                 "file": "inbox/Master SOP for PhD Application.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Master SOP for PhD Application"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 282.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,8 +224,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "918423cf37ca37b8",
+  "active": "6fb08210da4ef6aa",
   "lastOpenFiles": [
+    "sources/pdfs/WriteIvy - How To SOP.pdf",
     "inbox/Master SOP for PhD Application.md",
     "notes/journal/daily/2025-11-13.md",
     "inbox/Sleep.md",
@@ -250,7 +255,6 @@
     "notes/islamic/omrah/Dua at Multajam.md",
     "notes/islamic/omrah/Makam-e-Ibrahim.md",
     "assets/Pasted image 20251113044246.png",
-    "inbox/Restorative sleep.md",
     "assets/Pasted image 20251111064443.png",
     "assets/Pasted image 20251111064256.png",
     "assets/Pasted image 20251111051310.png",
@@ -266,7 +270,6 @@
     "sources/clippings/chatgpt",
     "sources/pdfs/The Psychology of Money.pdf",
     "sources/pdfs/How to Win Friends and Influence People.pdf",
-    "sources/pdfs/How to Talk to Anyone.pdf",
-    "sources/clippings/default"
+    "sources/pdfs/How to Talk to Anyone.pdf"
   ]
 }
