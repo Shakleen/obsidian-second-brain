@@ -66,7 +66,7 @@ No universities in this quadrant (crossed-out universities excluded)
 14. [[University Of Rochester Score]]: 45 / 60
 15. ~~[[UCLA Score]]: 43 / 60~~
 16. ~~[[UT Austin Score]]: 43 / 60~~
-17. ~~[[John Hopkins University Score]]: 40 / 60~~
+17. [[John Hopkins University Score]]: 40 / 60
 18. ~~[[Purdue University Score]]: 35 / 60~~
 19. ~~[[Georgia Tech score]]: 29 / 60~~
 
