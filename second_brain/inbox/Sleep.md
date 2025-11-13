@@ -38,3 +38,5 @@ references:
 ## The Challenge of Sleep Compression
 If you sleep less than the recommended **7 hours**, you risk cutting REM sleep stage essential for brain development and maintenance. ([[Optimize Sleep Quality for Busy Schedules#C. The Challenge of Sleep Compression and Architecture|Source]])
 
+## Controlling Time In Bed (TiB)
+To maintain hi
