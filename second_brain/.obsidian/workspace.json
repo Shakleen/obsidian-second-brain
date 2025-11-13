@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "2025-11-13"
             }
+          },
+          {
+            "id": "6fb08210da4ef6aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/Master SOP for PhD Application.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Master SOP for PhD Application"
+            }
           }
         ]
       }
@@ -208,11 +222,12 @@
   },
   "active": "918423cf37ca37b8",
   "lastOpenFiles": [
+    "inbox/Master SOP for PhD Application.md",
+    "notes/journal/daily/2025-11-13.md",
     "inbox/Sleep.md",
     "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
     "notes/islamic/omrah/Starting at Hajre Aswad.md",
     "notes/islamic/omrah/Babus Safa.md",
-    "notes/journal/daily/2025-11-13.md",
     "notes/islamic/omrah/Wajibs of Omrah.md",
     "notes/islamic/omrah/Kasar.md",
     "notes/islamic/omrah/Halk.md",
@@ -236,7 +251,6 @@
     "notes/islamic/omrah/Makam-e-Ibrahim.md",
     "assets/Pasted image 20251113044246.png",
     "inbox/Restorative sleep.md",
-    "notes/journal/daily/2025-11-12.md",
     "assets/Pasted image 20251111064443.png",
     "assets/Pasted image 20251111064256.png",
     "assets/Pasted image 20251111051310.png",
