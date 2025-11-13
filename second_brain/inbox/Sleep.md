@@ -8,11 +8,11 @@ hubs:
 references:
   - "[[Optimize Sleep Quality for Busy Schedules]]"
 ---
-## Measuring Sleep Quality ([[Optimize Sleep Quality for Busy Schedules#A. The Metrics of High-Quality Sleep Sleep Efficiency (SE) and Sleep Latency|Source]])
-1. **Sleep Efficiency (SE)** defined as the amount of time actually spent sleeping while in bed, expressed as a percentage.
-   - Maximize SE for High Quality sleep
-1. **Sleep onset Latency (SOL)** is the length of time required to fall asleep after getting into bed.
-   - Minimize SOL
+> [!Info]- Measuring Sleep Quality ([[Optimize Sleep Quality for Busy Schedules#A. The Metrics of High-Quality Sleep Sleep Efficiency (SE) and Sleep Latency|Source]])
+> 1. **Sleep Efficiency (SE)** defined as the amount of time actually spent sleeping while in bed, expressed as a percentage.
+>   - Maximize SE for High Quality sleep
+> 1. **Sleep onset Latency (SOL)** is the length of time required to fall asleep after getting into bed.
+>   - Minimize SOL
 
 ## Important stages of sleep
 1. **Deep Sleep (SWS or N3)** ([[Optimize Sleep Quality for Busy Schedules#N3 (Slow Wave Sleep or SWS)|Source]])
@@ -67,4 +67,10 @@ Leave stressful work related activities before sleeping. Plan for the day ahead 
      > [!Error] No screens 1 hour prior to bed.
      
      > [!Warning] Dim lights 1 hour prior to bed. 
-1. 
+
+### Behavioral
+1. Exercise
+	1. Heavy: Early morning
+	2. Light: Evening
+   > [!Error] Don't exercise 2 hours prior to sleeping
+2. Mindfulness: Significantly reduces SOL resulting in falling asleep faster

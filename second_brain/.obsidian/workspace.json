@@ -13,30 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/Master SOP for PhD Application.md",
+                "file": "inbox/Sleep.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Master SOP for PhD Application"
+              "title": "Sleep"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "e1ee31ce5b96f80b",
+        "type": "tabs",
+        "children": [
           {
-            "id": "4bed97329e5b4dc1",
+            "id": "fd617544e5ed5411",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/journal/daily/2025-11-13.md",
-                "mode": "source",
+                "file": "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-11-13"
+              "title": "Optimize Sleep Quality for Busy Schedules"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,13 +227,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4bed97329e5b4dc1",
+  "active": "6fb08210da4ef6aa",
   "lastOpenFiles": [
-    "inbox/Master SOP for PhD Application.md",
-    "sources/pdfs/WriteIvy - How To SOP.pdf",
-    "notes/journal/daily/2025-11-13.md",
-    "inbox/Sleep.md",
     "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
+    "inbox/Sleep.md",
+    "inbox/Master SOP for PhD Application.md",
+    "notes/journal/daily/2025-11-13.md",
+    "sources/pdfs/WriteIvy - How To SOP.pdf",
     "notes/islamic/omrah/Starting at Hajre Aswad.md",
     "notes/islamic/omrah/Babus Safa.md",
     "notes/islamic/omrah/Wajibs of Omrah.md",
