@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2466cdb22d9dffd2",
+        "id": "7cd93b39e8a36e98",
         "type": "tabs",
         "children": [
           {
-            "id": "6fb08210da4ef6aa",
+            "id": "f612c923fd319a67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/Sleep.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sleep"
-            }
-          }
-        ]
-      },
-      {
-        "id": "e1ee31ce5b96f80b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fd617544e5ed5411",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
+                "file": "notes/phd-application/Covey's Quadrant for PhD application.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Optimize Sleep Quality for Busy Schedules"
+              "title": "Covey's Quadrant for PhD application"
             }
           }
         ]
@@ -227,12 +207,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6fb08210da4ef6aa",
+  "active": "f612c923fd319a67",
   "lastOpenFiles": [
     "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
+    "notes/journal/daily/2025-11-13.md",
     "inbox/Sleep.md",
     "inbox/Master SOP for PhD Application.md",
-    "notes/journal/daily/2025-11-13.md",
     "sources/pdfs/WriteIvy - How To SOP.pdf",
     "notes/islamic/omrah/Starting at Hajre Aswad.md",
     "notes/islamic/omrah/Babus Safa.md",
