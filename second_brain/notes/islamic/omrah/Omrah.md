@@ -4,6 +4,7 @@ type: self-note
 tags:
   - omrah
   - pilgrimage
+  - islamic
 hubs:
   - "[[islamic]]"
 ---
@@ -17,3 +18,13 @@ To perform Omrah once in one's life time is [[Sunnat-e-Muakkadah]].
 	1. [[Fards of Omrah]]
 	2. [[Wajibs of Omrah]]
 
+## Flash Cards
+#flashcards/islamic
+What are the 4 [[Amal|Amals]] of [[Omrah]]
+?
+1. [[Ehram]]
+2. [[Tawaf-e-Omrah]]
+3. [[Sayi]]
+4. [[Halk]] or [[Kasar]]
+
+#flashcards/islamic 

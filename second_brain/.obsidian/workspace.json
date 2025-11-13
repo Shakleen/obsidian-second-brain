@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/phd-application/Covey's Quadrant for PhD application.md",
-                "mode": "preview",
+                "file": "notes/journal/daily/2025-11-14.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Covey's Quadrant for PhD application"
+              "title": "2025-11-14"
+            }
+          },
+          {
+            "id": "b56e461ede134d66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/islamic/omrah/Omrah.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Omrah"
+            }
+          },
+          {
+            "id": "92fed6ccb19e9a40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/Omrah Flash Cards.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Omrah Flash Cards"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "randy",
+                "query": "#flashcards/islamic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,13 +233,30 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "f612c923fd319a67",
+  "active": "b56e461ede134d66",
   "lastOpenFiles": [
-    "notes/journal/weekly/2025-W45.md",
+    "inbox/Omrah Flash Cards.md",
+    "notes/islamic/omrah/Omrah.md",
+    "notes/islamic/omrah/Fards of Omrah.md",
+    "notes/journal/daily/2025-11-14.md",
+    "notes/islamic/wudu/Wudu ending dua.md",
+    "notes/islamic/ghusl/When to Ghusl.md",
+    "notes/islamic/salah/Shijda Tasbih.md",
+    "notes/islamic/salah/Sana.md",
+    "notes/islamic/salah/Salah Fards.md",
+    "notes/islamic/salah/Ruku Tasbih.md",
+    "notes/islamic/salah/Ruku Takbir.md",
+    "notes/islamic/salah/Kalima Shahadat.md",
+    "notes/islamic/ghusl/Ghusl Fards.md",
+    "notes/islamic/wudu/Fard Wudu Steps.md",
+    "notes/islamic/Bismillah.md",
+    "notes/islamic/Auzubillah.md",
     "notes/phd-application/Covey's Quadrant for PhD application.md",
+    "notes/journal/weekly/2025-W45.md",
     "inbox/John Hopkins University.md",
     "inbox/UTD.md",
     "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
@@ -219,24 +266,8 @@
     "sources/pdfs/WriteIvy - How To SOP.pdf",
     "notes/islamic/omrah/Starting at Hajre Aswad.md",
     "notes/islamic/omrah/Babus Safa.md",
-    "notes/islamic/omrah/Wajibs of Omrah.md",
-    "notes/islamic/omrah/Kasar.md",
-    "notes/islamic/omrah/Halk.md",
-    "notes/islamic/omrah/Sayi.md",
-    "notes/islamic/omrah/Dua while looking at Qaba.md",
-    "notes/islamic/omrah/Enter Masjid-ul-Haram.md",
-    "notes/islamic/omrah/Zamzam.md",
-    "notes/islamic/omrah/Rules of exiting a Mosque.md",
     "assets/Pasted image 20251113055655.png",
-    "notes/islamic/omrah/Omrah.md",
-    "notes/islamic/omrah/Fards of Omrah.md",
-    "notes/islamic/omrah/Tawaf-e-Omrah.md",
-    "notes/islamic/omrah/Ehram.md",
-    "notes/islamic/omrah/Dua at Zamzam Well.md",
-    "notes/islamic/omrah/Tawaf round.md",
     "assets/Pasted image 20251113050139.png",
-    "notes/islamic/omrah/Kiss Hajre Aswad.md",
-    "notes/islamic/omrah/Salat-ul-Omrah.md",
     "assets/Pasted image 20251113044246.png",
     "assets/Pasted image 20251111064443.png",
     "assets/Pasted image 20251111064256.png",

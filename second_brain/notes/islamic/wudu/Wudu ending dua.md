@@ -12,12 +12,9 @@ hubs:
 references:
   - "[[@HowMakeWudu]]"
 ---
-#flashcards/islamic
 Wudu ending dua
-?
 > اللَّهُمَّ اجْعَلْنِي مِنَ التَّوَّابِينَ، وَاجْعَلْنِي مِنَ الْمُتَطَهِّرِينَ، وَاجْعَلْنِي مِنْ عِبَادِكَ الصَّالِحِينَ
 >
 > “Allahumma aj‘alni min at-tawwabeen, wa aj‘alni min al-mutatahhirin, waj’alni min ‘ibadik-as-salihin.”
 >
 > “O Allah, make me among those who seek repentance and make me among those who purify themselves.”
-<!--SR:!2025-11-12,2,230-->

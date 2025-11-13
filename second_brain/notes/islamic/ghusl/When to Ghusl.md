@@ -14,9 +14,7 @@ references:
   - "[[@ayoubHowPerformPurification2021]]"
 ---
 ## Mandatory
-#flashcards/islamic
 Ghusl is [[Fard]] upon someone when anyone of the 5 things happen:
-?
 1. Discharge of semen
   > Hadeeth of Umm Salamah, who reported that Umm Sulaim, the wife of Abu Talha, asked Allah's Messenger (sallAllaahu 'alayhi wa sallam), saying: "Allaah is not shy when it comes to the truth. So is it obligatory for a woman to perform ghusl if she has a wet dream (i.e. seminal fluid comes out)? The Prophet (sallAllaahu 'alayhi wa sallam) responded: "Yes, if she sees the fluid." This hadeeth is reported by **Al-Bukhaaree** and **Muslim**. [[@GhuslWomenMen]]
 2. Sex
@@ -24,7 +22,6 @@ Ghusl is [[Fard]] upon someone when anyone of the 5 things happen:
 3. Period
 4. After giving birth
 5. After death unless death in Jihad [[@GhuslWomenMen]]
-<!--SR:!2025-11-18,8,250-->
 
 ## Preferred [[@GhuslWomenMen]]
 1. Friday prayer

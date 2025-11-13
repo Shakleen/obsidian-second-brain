@@ -22,11 +22,3 @@ It's said in place of the normal [[Takbir]] when getting up from [[Ruku]] to go 
 > Allah listens to the one, who praises Him.
 ## Response
 This requires [[Ruku supplication]] as a response.
-
-## Flash Cards
-
-#flashcards/islamic
-What is the meaning of `samiallah huliman hamida`
-?
-Allah listens to the one, who praises Him.
-<!--SR:!2025-11-12,1,210-->

@@ -17,11 +17,3 @@ _b-ismi-llāhi r-raḥmāni r-raḥīmi_
 ![[Bismillah-ir-Rahman-ir-Rahim.mp3]]
 ## Meaning
 Begin in the name of Allah.
-
-## Flashcards
-
-#flashcards/islamic
-Meaning of [[Bismillah]]
-?
-Being in the name of Allah.
-<!--SR:!2025-11-13,3,250-->

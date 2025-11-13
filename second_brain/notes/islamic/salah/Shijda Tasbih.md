@@ -20,11 +20,3 @@ Said during [[Shijda]] position in [[2025-10-28_Salat|Salah]].
 ## Transliteration & Meaning
 > subhaana rabbiyal a’la
 > Glory is to my Lord, the Most High”
-
-## Flash cards
-
-#flashcards/islamic
-What is the meaning of `subhaana rabbiyal a'la`
-?
-Glory is to my Lord, the Most High.
-<!--SR:!2025-11-13,3,250-->
