@@ -13,26 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/journal/daily/2025-11-11.md",
+                "file": "inbox/Sleep.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-11-11"
-            }
-          },
-          {
-            "id": "02f883c96d0ff917",
-            "type": "leaf",
-            "state": {
-              "type": "spaced-repetition-tab-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Spaced Repetition"
+              "title": "Sleep"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,8 +182,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "02f883c96d0ff917",
+  "active": "198b778ab4a22e4d",
   "lastOpenFiles": [
+    "notes/journal/daily/2025-11-11.md",
     "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
     "notes/journal/daily/2025-11-12.md",
     "inbox/Sleep.md",
@@ -218,7 +208,6 @@
     "notes/islamic/salah/Tahajjud prayer.md",
     "notes/islamic/omrah/Tawaf-e-Omrah.md",
     "notes/islamic/omrah/Talbiya.md",
-    "notes/journal/daily/2025-11-11.md",
     "inbox/Ijteba.md",
     "inbox/Hajre Aswad.md",
     "assets/Pasted image 20251111051310.png",
