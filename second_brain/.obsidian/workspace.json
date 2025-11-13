@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "66bc07016137ae09",
+        "id": "2466cdb22d9dffd2",
         "type": "tabs",
         "children": [
           {
-            "id": "cebffb231ab2bc9d",
+            "id": "918423cf37ca37b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/Sleep.md",
+                "file": "notes/journal/daily/2025-11-13.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sleep"
-            }
-          }
-        ]
-      },
-      {
-        "id": "4d30b82036a30cc4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "56ebc77751c3c9e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Optimize Sleep Quality for Busy Schedules"
+              "title": "2025-11-13"
             }
           }
         ]
@@ -205,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,10 +206,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cebffb231ab2bc9d",
+  "active": "918423cf37ca37b8",
   "lastOpenFiles": [
-    "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
     "inbox/Sleep.md",
+    "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
     "notes/islamic/omrah/Starting at Hajre Aswad.md",
     "notes/islamic/omrah/Babus Safa.md",
     "notes/journal/daily/2025-11-13.md",
