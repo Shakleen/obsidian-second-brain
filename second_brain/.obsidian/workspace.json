@@ -27,14 +27,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/islamic/omrah/Omrah.md",
-                "mode": "source",
+                "file": "notes/islamic/omrah/Ehram.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Omrah"
+              "title": "Ehram"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "597cd7fe0509b786",
+        "type": "tabs",
+        "children": [
           {
             "id": "92fed6ccb19e9a40",
             "type": "leaf",
@@ -49,8 +56,7 @@
               "title": "Omrah Flash Cards"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,9 +245,9 @@
   },
   "active": "b56e461ede134d66",
   "lastOpenFiles": [
-    "inbox/Omrah Flash Cards.md",
-    "notes/islamic/omrah/Omrah.md",
     "notes/islamic/omrah/Fards of Omrah.md",
+    "notes/islamic/omrah/Omrah.md",
+    "inbox/Omrah Flash Cards.md",
     "notes/journal/daily/2025-11-14.md",
     "notes/islamic/wudu/Wudu ending dua.md",
     "notes/islamic/ghusl/When to Ghusl.md",
