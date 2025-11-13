@@ -35,8 +35,16 @@ references:
 	   - Internal factors
    - Must be reduced for high quality sleep
 
-## The Challenge of Sleep Compression
+> [!Error] Limits to sleep compression
 If you sleep less than the recommended **7 hours**, you risk cutting REM sleep stage essential for brain development and maintenance. ([[Optimize Sleep Quality for Busy Schedules#C. The Challenge of Sleep Compression and Architecture|Source]])
 
-## Controlling Time In Bed (TiB)
-To maintain hi
+## Factors to Control
+
+### Controlling Time In Bed (TiB)
+To maintain high SE, associate bed (and bedroom) with only sleep related activity. Don't lay on your bed, unless you intend to sleep. ([[Optimize Sleep Quality for Busy Schedules#B. Step-by-Step Protocol Calculating Time in Bed (TIB)|Source]])
+
+### Ingestion
+1. **Caffeine** is a well-known disruptor of sleep and has a prolonged **half-life of five to six hours**. Its use must be strictly managed to protect sleep quality. ([[Optimize Sleep Quality for Busy Schedules#A. Caffeine’s Long Shadow Effects on Total Sleep Time and SWS|Source]])
+   > [!Error] No Caffeine 6 hours before sleeping.
+2. **Alcohol** while it does promote sleep, it disrupts the sleeping stages. ([[Optimize Sleep Quality for Busy Schedules#B. Alcohol’s Biphasic Disruption Fragmented Recovery|Source]])
+3. **Food consumption** close to bed time inhibits sleep. ([[Optimize Sleep Quality for Busy Schedules#C. The]])
