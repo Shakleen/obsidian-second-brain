@@ -19,14 +19,17 @@ To perform Omrah once in one's life time is [[Sunnat-e-Muakkadah]].
 	2. [[Wajibs of Omrah]]
 
 ## Flash Cards
-#flashcards/islamic 
+
+#flashcards/islamic
 What are the 4 [[Amal|Amals]] of [[Omrah]]?
 ?
 1. [[Ehram]]
 2. [[Tawaf-e-Omrah]]
 3. [[Sayi]]
 4. [[Halk]] or [[Kasar]]
+<!--SR:!2025-11-17,3,250-->
 
 How many [[Amal|Amals]] in [[Omrah]] are essential or obligatory?
 ?
 Four
+<!--SR:!2025-11-17,3,250-->

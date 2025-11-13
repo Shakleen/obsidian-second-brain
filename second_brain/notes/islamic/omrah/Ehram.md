@@ -54,31 +54,45 @@ hubs:
 > 9. Quarreling with anyone for any reason.
 
 ## Flash Cards
-#flashcards/islamic 
+
+#flashcards/islamic
 When is the absolute last time to make [[Ehram]]?
 ?
 Before [[Mikat]]
+<!--SR:!2025-11-17,3,250-->
 
 What is [[Mikat]]?
 ?
 A specific place before which [[Ehram]] must be made for [[Hajj]] or [[Omrah]].
+<!--SR:!2025-11-17,3,250-->
 
 What are the purification steps for [[Ehram]]?
 ?
 1. [[Mustahab]]
 	1. Clip nails
-	2. Trim or shave 
+	2. Trim or shave
 		1. armpits
 		2. pubic hair
 2. [[Sunnat-e-Ghair-Muakkadah|Sunnat]]: Perform [[Fard Ghusl|Ghusl]]
+<!--SR:!2025-11-17,3,250-->
 
 To **Clip nails** for [[Ehram]] is ==[[Mustahab]]==^[Mustahab or Sunnat]
+<!--SR:!2025-11-17,3,250-->
 
-To **trim or shave armpits and pubics** is ==[[Mustahab]]==^[Mustahab or Sunnat]
+To **trim or shave armpits and pubics** for [[Ehram]] is ==[[Mustahab]]==^[Mustahab or Sunnat]
+<!--SR:!2025-11-17,3,250-->
 
-To **perform [[Fard Ghusl|Ghusl]]** is ==[[Sunnat-e-Muakkadah|Sunnat]]==^[Mustahab or Sunnat]
+To **perform [[Fard Ghusl|Ghusl]]** for [[Ehram]] is ==[[Sunnat-e-Muakkadah|Sunnat]]==^[Mustahab or Sunnat]
+<!--SR:!2025-11-17,3,250-->
 
 To wear perfume is ==[[Sunnat-e-Muakkadah|Sunnat]]==^[Mustahab or Sunnat or Forbidden] for [[Ehram]].
+<!--SR:!2025-11-17,3,250-->
+
+What is forbidden when applying perfume for [[Ehram]]?
+?
+Perfume can't be applied on the [[Ehram clothes]]
+
+Perfume ==can't==^[can or can't] be applied on [[Ehram clothes]]
 
 What are the steps in making [[Ehram]]?
 ?
@@ -88,3 +102,5 @@ What are the steps in making [[Ehram]]?
 4. Pray 2 [[Rakat|rakats]] of [[Nafl]] [[2025-10-28_Salat|Salah]]
 5. [[Niyat]] for [[Omrah]] while facing [[Baytullah|Qaba]]
 6. Recite [[Talbiya]] 3 times
+7. Additional supplications
+<!--SR:!2025-11-17,3,250-->
