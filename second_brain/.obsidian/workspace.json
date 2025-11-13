@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7cd93b39e8a36e98",
+        "id": "81b3efc079928093",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/UTD.md",
+                "file": "notes/phd-application/Covey's Quadrant for PhD application.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "UTD"
+              "title": "Covey's Quadrant for PhD application"
             }
           }
         ]
@@ -209,8 +209,8 @@
   },
   "active": "f612c923fd319a67",
   "lastOpenFiles": [
-    "notes/phd-application/Covey's Quadrant for PhD application.md",
     "inbox/UTD.md",
+    "notes/phd-application/Covey's Quadrant for PhD application.md",
     "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
     "notes/journal/daily/2025-11-13.md",
     "inbox/Sleep.md",
