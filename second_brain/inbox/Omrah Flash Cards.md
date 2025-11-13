@@ -46,4 +46,26 @@ To perform [[Halk]] in [[Omrah]] is a ==[[Wajib]]==^[Fard or Wajib] [[Amal]].
 
 To perform [[Kasar]] in [[Omrah]] is a ==[[Wajib]]==^[Fard or Wajib] [[Amal]].
 
-## 
+## [[Ehram]]
+When is the absolute last time to make [[Ehram]]?
+?
+Before [[Mikat]]
+
+What is [[Mikat]]?
+?
+A specific place before which [[Ehram]] must be made for [[Hajj]] or [[Omrah]].
+
+What are the purification steps for [[Ehram]]?
+?
+1. [[Mustahab]]
+	1. Clip nails
+	2. Trim or shave 
+		1. armpits
+		2. pubic hair
+2. [[Sunnat-e-Ghair-Muakkadah|Sunnat]]: Perform [[Fard Ghusl|Ghusl]]
+
+To **Clip nails** for [[Ehram]] is ==[[Mustahab]]==^[Mustahab or Sunnat]
+
+To **trim or shave armpits and pubics** is ==[[Mustahab]]==^[Mustahab or Sunnat]
+
+To **perform [[Fard Ghusl|Ghusl]]** is ==[[Sunnat-e-Muakkadah|Sunnat]]==^[Mustahab or Sunnat]
