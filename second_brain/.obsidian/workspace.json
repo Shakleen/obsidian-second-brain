@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/islamic/omrah/Tawaf-e-Omrah.md",
+                "file": "notes/phd-application/Covey's Quadrant for PhD application.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tawaf-e-Omrah"
+              "title": "Covey's Quadrant for PhD application"
             }
           }
         ]
@@ -162,9 +162,29 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "5eee4696ec85161f",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "347f0431151e653c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "6b8c74d18ddb48e5",
@@ -185,8 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,13 +228,13 @@
   },
   "active": "f612c923fd319a67",
   "lastOpenFiles": [
-    "notes/islamic/omrah/Ijteba.md",
+    "notes/journal/daily/2025-11-14.md",
     "notes/islamic/omrah/Tawaf-e-Omrah.md",
+    "notes/islamic/omrah/Ijteba.md",
     "notes/islamic/omrah/Fards of Omrah.md",
     "notes/islamic/omrah/Ehram.md",
     "notes/islamic/omrah/Ehram supplication.md",
     "notes/islamic/omrah/Talbiya.md",
-    "notes/journal/daily/2025-11-14.md",
     "notes/islamic/omrah/Omrah.md",
     "notes/islamic/omrah/Wajibs of Omrah.md",
     "inbox/Omrah Flash Cards.md",
