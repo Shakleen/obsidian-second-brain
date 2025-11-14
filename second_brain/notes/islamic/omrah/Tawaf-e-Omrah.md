@@ -33,15 +33,28 @@ The entire process must be completed while [[Wudu]] is in effect. If for whateve
 
 ## Flash Cards
 
-#flashcards/islamic 
+#flashcards/islamic
 What is the prerequisite to perform [[Tawaf-e-Omrah]]?
 ?
 [[Wudu]]
+<!--SR:!2025-11-17,3,250-->
 
 What should you do if your [[Wudu]] breaks at any time within the first 3 [[Tawaf round|Tawaf rounds]]?
 ?
 Redo [[Wudu]] and then it's [[Mustahab]] to start from the beginning.
+<!--SR:!2025-11-17,3,250-->
+
+It's [[Mustahab]] to redo your [[Tawaf round|Tawaf rounds]] if your Wudu breaks within the first 3 rounds. (==True==^[True or False])
+
+It's ==[[Mustahab]]==^[Fard or Wajib or Sunnat or Mustahab or Forbidden] to redo your [[Tawaf round|Tawaf rounds]] if your Wudu breaks within the first 3 rounds.
+
+You must start from the beginning if your [[Wudu]] breaks within the first 3 [[Tawaf round|Tawaf rounds]]. (==False==^[True or False])
 
 What should you do if your [[Wudu]] breaks after the first 3 [[Tawaf round|Tawaf rounds]]?
 ?
 Redo [[Wudu]] and finish the remaining [[Tawaf round|Tawaf rounds]].
+<!--SR:!2025-11-17,3,250-->
+
+You must start from the beginning if your [[Wudu]] breaks after the first 3 [[Tawaf round|Tawaf rounds]]. (==False==^[True or False])
+
+You should finish your remaining rounds, if your [[Wudu]] breaks after the first 3 [[Tawaf round|Tawaf rounds]]. (==True==^[True or False])

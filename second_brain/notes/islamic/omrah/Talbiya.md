@@ -28,7 +28,7 @@ All kingdoms are Yours. You have no sharikh.
 
 ## Flash Cards
 
-#flashcards/islamic 
+#flashcards/islamic
 Recite **Talbiya**
 ?
 Labbaika allahumma labbaik
@@ -36,3 +36,4 @@ Labbaika la sharika laka labbaik
 Innal hamda wainna'mata laka wal mulk
 La sharika lak
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lvvsUve0yU8?si=qdxKTidcmECDLsub" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!--SR:!2025-11-17,3,250-->
