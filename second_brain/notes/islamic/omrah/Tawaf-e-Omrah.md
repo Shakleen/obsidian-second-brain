@@ -33,4 +33,15 @@ The entire process must be completed while [[Wudu]] is in effect. If for whateve
 
 ## Flash Cards
 
-#
+#flashcards/islamic 
+What is the prerequisite to perform [[Tawaf-e-Omrah]]?
+?
+[[Wudu]]
+
+What should you do if your [[Wudu]] breaks at any time within the first 3 [[Tawaf round|Tawaf rounds]]?
+?
+Redo [[Wudu]] and then it's [[Mustahab]] to start from the beginning.
+
+What should you do if your [[Wudu]] breaks after the first 3 [[Tawaf round|Tawaf rounds]]?
+?
+Redo [[Wudu]] and finish the remaining [[Tawaf round|Tawaf rounds]].
