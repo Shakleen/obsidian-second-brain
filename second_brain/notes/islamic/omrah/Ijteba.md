@@ -37,7 +37,7 @@ Describe how to do [[Ijteba]].
 <!--SR:!2025-11-17,3,250-->
 
 ==Males==^[Males or Females] must do [[Ijteba]] during ==[[Tawaf-e-Omrah|Tawaf]]==^[When] for [[Hajj]] or [[Omrah]].
-<!--SR:!2000-01-01,1,250!2025-11-17,3,250-->
+<!--SR:!2025-11-17,3,250!2025-11-17,3,250-->
 
 It's optional for males to do [[Ijteba]] during [[Tawaf-e-Omrah]] (==False==^[True or False])
 <!--SR:!2025-11-17,3,250-->

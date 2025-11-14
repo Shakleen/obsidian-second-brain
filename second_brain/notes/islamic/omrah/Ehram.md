@@ -111,7 +111,7 @@ What are the steps in making [[Ehram]]?
 <!--SR:!2025-11-17,3,250-->
 
 While in [[Ehram]], ==Males==^[Males or Females][^1] ==can't==^[can or can't][^2] cover their faces and heads.
-<!--SR:!2025-11-17,3,250!2000-01-01,1,250-->
+<!--SR:!2025-11-17,3,250!2025-11-17,3,250-->
 
 What type of shoes can't be worn while in [[Ehram]]?
 ?
@@ -119,4 +119,4 @@ Shoes that cover the mid bone of the feet.
 <!--SR:!2025-11-17,3,250-->
 
 While in [[Ehram]], you ==can==^[can or can't][^1] use moisturizer that is ==unscented==^[scented or unscented][^2].
-<!--SR:!2000-01-01,1,250!2025-11-17,3,250-->
+<!--SR:!2025-11-17,3,250!2025-11-17,3,250-->

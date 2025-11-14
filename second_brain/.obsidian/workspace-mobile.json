@@ -14,14 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "notes/journal/daily/2025-11-14.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "2025-11-14"
             }
+          },
+          {
+            "id": "f58b266907a99086",
+            "type": "leaf",
+            "state": {
+              "type": "spaced-repetition-tab-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Spaced Repetition"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +193,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "198b778ab4a22e4d",
+  "active": "f58b266907a99086",
   "lastOpenFiles": [
     "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
     "notes/journal/daily/2025-11-14.md",
