@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "2025-11-14"
             }
-          },
-          {
-            "id": "f58b266907a99086",
-            "type": "leaf",
-            "state": {
-              "type": "spaced-repetition-tab-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Spaced Repetition"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,8 +182,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f58b266907a99086",
+  "active": "9ab9a4f86888b534",
   "lastOpenFiles": [
+    "inbox/UC Santa Barbara.md",
+    "inbox/UC Davis.md",
     "sources/clippings/ai_chat/Optimize Sleep Quality for Busy Schedules.md",
     "notes/journal/daily/2025-11-14.md",
     "notes/journal/daily/2025-11-13.md",
@@ -222,8 +213,6 @@
     "notes/islamic/omrah/Enter Masjid-ul-Haram.md",
     "assets/Pasted image 20251111064443.png",
     "assets/Pasted image 20251111064256.png",
-    "sources/clippings/youtube/Doctor Mike – 23 Everyday Habits Destroying Your Skin.md",
-    "notes/self-care/Shower Routine.md",
     "assets/Pasted image 20251111051310.png"
   ]
 }
