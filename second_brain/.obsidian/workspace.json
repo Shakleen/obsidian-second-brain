@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/islamic/omrah/Enter Masjid-ul-Haram.md",
+                "file": "notes/islamic/omrah/Tawaf-e-Omrah.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Enter Masjid-ul-Haram"
+              "title": "Tawaf-e-Omrah"
             }
           }
         ],
@@ -245,8 +245,8 @@
   },
   "active": "cb317fea1daf94ce",
   "lastOpenFiles": [
-    "notes/islamic/adhan/Adhan dua.md",
     "notes/islamic/omrah/Enter Masjid-ul-Haram.md",
+    "notes/islamic/adhan/Adhan dua.md",
     "inbox/Rules of entering a Mosque.md",
     "notes/islamic/omrah/Tawaf-e-Omrah.md",
     "notes/islamic/omrah/Omrah.md",

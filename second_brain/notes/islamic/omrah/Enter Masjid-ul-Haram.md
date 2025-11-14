@@ -41,4 +41,6 @@ Process of entering [[Masjidul Haram]]
 ?
 1. Enter through any door but try for **Babus Salam**, following the [[Rules of entering a Mosque]].
 2. Recite [[Talbiya]] repeatedly
-3. When you gaze a
+3. When you gaze at [[Baytullah|Qaba]] recite the following 3 times:
+> Allahu akbar la ilaha illallahu
+> **Meaning**: Allah is almighty and there is no god except for Allah.
