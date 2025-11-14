@@ -73,6 +73,7 @@ What are the 4 steps in preparing for [[Tawaf-e-Omrah]]?
 2. Enter [[Masjidul Haram]]
 3. Males do [[Ijteba]]
 4. Stop reciting [[Talbiya]]
+<!--SR:!2025-11-18,3,250-->
 
 Process of [[Tawaf-e-Omrah]]
 ?
@@ -84,3 +85,4 @@ Process of [[Tawaf-e-Omrah]]
 5. After finishing all rounds perform [[Dua at Multajam]].
 6. Perform [[Salat-ul-Omrah]].
 7. [[Dua at Zamzam Well]]
+<!--SR:!2025-11-18,3,250-->

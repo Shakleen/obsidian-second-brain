@@ -20,22 +20,26 @@ hubs:
 
 ## Flash Cards
 
-#flashcards/islamic 
+#flashcards/islamic
 Which door is it [[Mustahab]] to enter through to get into [[Masjidul Haram]]?
 ?
 Babus Salam or 24 no door.
+<!--SR:!2025-11-18,3,250-->
 
 It's ==[[Mustahab]]==^[Sunnat or Mustahab] to enter through Babus Salam to get into [[Masjidul Haram]].
+<!--SR:!2025-11-18,3,250-->
 
 What should you be reciting repeatedly while entering [[Masjidul Haram]]?
 ?
 [[Talbiya]]
+<!--SR:!2025-11-18,3,250-->
 
 What should you recite when you gaze at [[Baytullah|Qaba]]?
 ?
 The following 3 times:
 > Allahu akbar la ilaha illallahu
 > **Meaning**: Allah is almighty and there is no god except for Allah.
+<!--SR:!2025-11-18,3,250-->
 
 Process of entering [[Masjidul Haram]]
 ?
@@ -44,3 +48,4 @@ Process of entering [[Masjidul Haram]]
 3. When you gaze at [[Baytullah|Qaba]] recite the following 3 times:
 > Allahu akbar la ilaha illallahu
 > **Meaning**: Allah is almighty and there is no god except for Allah.
+<!--SR:!2025-11-16,1,230-->

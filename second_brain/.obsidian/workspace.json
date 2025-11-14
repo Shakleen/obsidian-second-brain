@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/islamic/omrah/Tawaf-e-Omrah.md",
-                "mode": "source",
+                "file": "notes/islamic/omrah/Starting at Hajre Aswad.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tawaf-e-Omrah"
+              "title": "Starting at Hajre Aswad"
             }
           }
         ],
@@ -245,10 +245,10 @@
   },
   "active": "cb317fea1daf94ce",
   "lastOpenFiles": [
+    "notes/islamic/omrah/Tawaf-e-Omrah.md",
     "notes/islamic/omrah/Enter Masjid-ul-Haram.md",
     "notes/islamic/adhan/Adhan dua.md",
     "inbox/Rules of entering a Mosque.md",
-    "notes/islamic/omrah/Tawaf-e-Omrah.md",
     "notes/islamic/omrah/Omrah.md",
     "notes/journal/daily/2025-11-15.md",
     "notes/journal/daily/2025-11-14.md",
