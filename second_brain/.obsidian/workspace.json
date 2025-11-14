@@ -10,6 +10,7 @@
           {
             "id": "f612c923fd319a67",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,11 +18,41 @@
                 "mode": "source",
                 "source": true
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "2025-11-15"
             }
+          },
+          {
+            "id": "cb317fea1daf94ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/islamic/omrah/Enter Masjid-ul-Haram.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Enter Masjid-ul-Haram"
+            }
+          },
+          {
+            "id": "448eb9a25e15707b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/Rules of entering a Mosque.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Rules of entering a Mosque"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,20 +257,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f612c923fd319a67",
+  "active": "448eb9a25e15707b",
   "lastOpenFiles": [
-    "notes/journal/daily/2025-11-14.md",
+    "notes/islamic/omrah/Enter Masjid-ul-Haram.md",
+    "inbox/Rules of entering a Mosque.md",
+    "notes/islamic/omrah/Tawaf-e-Omrah.md",
+    "notes/islamic/omrah/Omrah.md",
     "notes/journal/daily/2025-11-15.md",
+    "notes/journal/daily/2025-11-14.md",
     "notes/phd-application/Covey's Quadrant for PhD application.md",
     "inbox/UC Davis.md",
     "inbox/UC Santa Barbara.md",
-    "notes/islamic/omrah/Tawaf-e-Omrah.md",
     "notes/islamic/omrah/Ijteba.md",
     "notes/islamic/omrah/Fards of Omrah.md",
     "notes/islamic/omrah/Ehram.md",
     "notes/islamic/omrah/Ehram supplication.md",
     "notes/islamic/omrah/Talbiya.md",
-    "notes/islamic/omrah/Omrah.md",
     "notes/islamic/omrah/Wajibs of Omrah.md",
     "inbox/Omrah Flash Cards.md",
     "notes/islamic/adhan/Adhan dua.md",
@@ -252,8 +285,6 @@
     "notes/islamic/salah/Ruku Takbir.md",
     "notes/islamic/salah/Kalima Shahadat.md",
     "notes/islamic/ghusl/Ghusl Fards.md",
-    "notes/islamic/wudu/Fard Wudu Steps.md",
-    "notes/islamic/Bismillah.md",
     "sources/pdfs/WriteIvy - How To SOP.pdf",
     "assets/Pasted image 20251113055655.png",
     "assets/Pasted image 20251113050139.png",
