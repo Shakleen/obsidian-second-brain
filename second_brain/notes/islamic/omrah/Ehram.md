@@ -29,29 +29,31 @@ hubs:
 3. Wear perfume ([[Sunnat-e-Ghair-Muakkadah|Sunnat]])
    > [!Error] But make sure the perfume doesn't stick to the [[Ehram clothes]].
 4. Pray 2 [[Rakat|rakat]] of [[Nafl]] [[2025-10-28_Salat|Salah]] ([[Sunnat-e-Ghair-Muakkadah|Sunnat]])
-	- First [[Rakat]] [[Qirat]] should cover [[Sura Kafirun]]
-	- Second [[Rakat]] [[Qirat]] should cover [[Sura Ikhlas]].
+   > [!Info] Good if [[Qirat]] covers the following:
+   > 1. First [[Rakat]]: [[Sura Kafirun]]
+   > 2. Second [[Rakat]]: [[Sura Ikhlas]].
 5. [[Niyat]] for [[Omrah]] or [[Hajj]]
 	- Face in the direction of [[Qibla]]
 	- Preferably while sitting
 6. Recite [[Talbiya]] ([[Sunnat-e-Ghair-Muakkadah|Sunnat]] to say it 3 times)
-	- Reciting loudly for males is [[Sunnat-e-Ghair-Muakkadah|Sunnat]]
-	- Reciting loudly for females is forbidden.
-7. Ehram is now in effect. Additional supplications:
+	> [!Tip] Reciting loudly for males is [[Sunnat-e-Ghair-Muakkadah|Sunnat]]
+	
+	> [!Error] Reciting loudly for females is forbidden.
+1. Ehram is now in effect. Additional supplications:
 	1. Read [[Durud|Durood]]
 	2. Munazat
 	3. [[Mustahab]] is to say [[Ehram supplication]]
 
 > [!Error] Forbidden while Ehram is effective
-> 1. Wearing seemed clothing for males.
-> 2. Covering face and head for males under any circumstances.
-> 3. Wearing shoes that cover your mid feet bone.
-> 4. Using any scented toiletries or scents of any kind.
-> 5. Applying oil on any part of the body. But you can moisturize with unscented moisturizer.
-> 6. Clipping nails, shaving or trimming hair.
-> 7. Hunting any land animals.
-> 8. Having or even talking about sex.
-> 9. Quarreling with anyone for any reason.
+> 3. Wearing seemed clothing for males.
+> 4. Covering face and head for males under any circumstances.
+> 5. Wearing shoes that cover your mid feet bone.
+> 6. Using any scented toiletries or scents of any kind.
+> 7. Applying oil on any part of the body. But you can moisturize with unscented moisturizer.
+> 8. Clipping nails, shaving or trimming hair.
+> 9. Hunting any land animals.
+> 10. Having or even talking about sex.
+> 11. Quarreling with anyone for any reason.
 
 ## Flash Cards
 
@@ -104,3 +106,5 @@ What are the steps in making [[Ehram]]?
 6. Recite [[Talbiya]] 3 times
 7. Additional supplications
 <!--SR:!2025-11-17,3,250-->
+
+==Males==^[Males or Females][^1] ==can't==^[can or can't][^2] cover their faces and heads.
