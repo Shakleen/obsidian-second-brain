@@ -52,6 +52,7 @@ hubs:
 > 7. Applying oil on any part of the body. But you can moisturize with unscented moisturizer.
 > 8. Clipping nails, shaving or trimming hair.
 > 9. Hunting any land animals.
+> 	   > [!Info] However, you can kill animals if they harm or are a danger to you.
 > 10. Having or even talking about sex.
 > 11. Quarreling with anyone for any reason.
 
@@ -93,8 +94,10 @@ To wear perfume is ==[[Sunnat-e-Muakkadah|Sunnat]]==^[Mustahab or Sunnat or Forb
 What is forbidden when applying perfume for [[Ehram]]?
 ?
 Perfume can't be applied on the [[Ehram clothes]]
+<!--SR:!2025-11-17,3,250-->
 
 Perfume ==can't==^[can or can't] be applied on [[Ehram clothes]]
+<!--SR:!2025-11-17,3,250-->
 
 What are the steps in making [[Ehram]]?
 ?
@@ -107,4 +110,13 @@ What are the steps in making [[Ehram]]?
 7. Additional supplications
 <!--SR:!2025-11-17,3,250-->
 
-==Males==^[Males or Females][^1] ==can't==^[can or can't][^2] cover their faces and heads.
+While in [[Ehram]], ==Males==^[Males or Females][^1] ==can't==^[can or can't][^2] cover their faces and heads.
+<!--SR:!2025-11-17,3,250!2000-01-01,1,250-->
+
+What type of shoes can't be worn while in [[Ehram]]?
+?
+Shoes that cover the mid bone of the feet.
+<!--SR:!2025-11-17,3,250-->
+
+While in [[Ehram]], you ==can==^[can or can't][^1] use moisturizer that is ==unscented==^[scented or unscented][^2].
+<!--SR:!2000-01-01,1,250!2025-11-17,3,250-->

@@ -17,3 +17,14 @@ O Allah, I am present.
 I am present, You have no sharikh, I am present.
 Certainly all praise is for You and all Niyamat is from You.
 All kingdoms are Yours. You have no sharikh.
+
+
+## Flash Cards
+
+#flashcards/islamic 
+Recite **Talbiya**
+?
+Labbaika allahumma labbaik
+Labbaika la sharika laka labbaik
+Innal hamda wainna'mata laka wal mulk
+La sharika lak

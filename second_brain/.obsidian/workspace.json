@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/islamic/omrah/Ehram.md",
-                "mode": "preview",
+                "file": "notes/islamic/omrah/Talbiya.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ehram"
+              "title": "Talbiya"
             }
           }
         ]
@@ -209,8 +209,8 @@
   },
   "active": "f612c923fd319a67",
   "lastOpenFiles": [
-    "notes/journal/daily/2025-11-14.md",
     "notes/islamic/omrah/Ehram.md",
+    "notes/journal/daily/2025-11-14.md",
     "notes/islamic/omrah/Fards of Omrah.md",
     "notes/islamic/omrah/Omrah.md",
     "notes/islamic/omrah/Wajibs of Omrah.md",
