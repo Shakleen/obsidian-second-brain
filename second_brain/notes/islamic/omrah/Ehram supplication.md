@@ -5,6 +5,7 @@ tags:
   - supplication
   - omrah
   - hajj
+  - mustahab
 hubs:
   - "[[islamic]]"
 ---
