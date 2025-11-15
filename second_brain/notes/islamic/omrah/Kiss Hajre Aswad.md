@@ -27,11 +27,12 @@ hubs:
 
 ## Flash Cards
 
-#flashcards/islamic 
+#flashcards/islamic
 How do you kiss [[Hajre Aswad]] if it's too crowded?
 ?
 * Try touching it with **right hand**, and then kissing that hand.
 * If that's not possible, imitate as if you were touching the stone with **both hands** and then kiss both hands.
+<!--SR:!2025-11-18,3,250-->
 
 What should you recite after kissing [[Hajre Aswad]]?
 ?
@@ -49,5 +50,7 @@ You can kiss the silver covering around [[Hajre Aswad]]. (==False==^[True or Fal
 <!--SR:!2025-11-18,3,250-->
 
 You can't make noise while kissing [[Hajre Aswad]]. (==True==^[True or False])
+<!--SR:!2025-11-18,3,250-->
 
 You can bother and push people out of the way, to kiss [[Hajre Aswad]]. (==False==^[True or False])
+<!--SR:!2025-11-18,3,250-->

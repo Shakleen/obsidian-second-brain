@@ -30,3 +30,4 @@ How to [[Ramal]]?
 1. Keep chest high.
 2. Move shoulders as if you're walking with bravery and confidence.
 3. Place each step apart (not close) and walk with strength.
+<!--SR:!2025-11-18,3,250-->

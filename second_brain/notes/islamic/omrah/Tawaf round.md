@@ -27,10 +27,12 @@ hubs:
 
 ## Flash Cards
 
-#flashcards/islamic 
+#flashcards/islamic
 Which way do you face when doing a [[Tawaf round]]?
 ?
 [[Baytullah|Qaba]] must be on your left at all times.
+![[Pasted image 20251115063529.png]]
+<!--SR:!2025-11-18,3,250-->
 
 When you are doing Tawaf, ==[[Baytullah|Qaba]]==^[What][^1] must be on your ==left==^[left or right][^2].
 <!--SR:!2025-11-18,3,250!2000-01-01,1,250-->

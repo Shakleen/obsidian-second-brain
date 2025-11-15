@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "notes/journal/daily/2025-11-15.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "pinned": true,
@@ -30,15 +30,29 @@
               "type": "markdown",
               "state": {
                 "file": "notes/islamic/omrah/Tawaf round.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Tawaf round"
             }
+          },
+          {
+            "id": "f594d18acfc11571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/journal/weekly/2025-W45.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2025-W45"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,15 +257,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cb317fea1daf94ce",
+  "active": "f594d18acfc11571",
   "lastOpenFiles": [
-    "notes/islamic/omrah/Ramal.md",
+    "notes/journal/daily/2025-11-15.md",
     "notes/islamic/omrah/Tawaf round.md",
+    "notes/islamic/omrah/Ramal.md",
     "notes/islamic/omrah/Tawaf-e-Omrah.md",
     "assets/Pasted image 20251115063529.png",
     "notes/islamic/omrah/Starting at Hajre Aswad.md",
     "notes/islamic/omrah/Kiss Hajre Aswad.md",
-    "notes/journal/daily/2025-11-15.md",
     "notes/islamic/omrah/Enter Masjid-ul-Haram.md",
     "notes/islamic/adhan/Adhan dua.md",
     "inbox/Rules of entering a Mosque.md",
