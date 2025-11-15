@@ -51,8 +51,7 @@
               "title": "2025-W45"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,8 +256,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f594d18acfc11571",
+  "active": "f612c923fd319a67",
   "lastOpenFiles": [
+    "notes/journal/weekly/2025-W45.md",
     "notes/journal/daily/2025-11-15.md",
     "notes/islamic/omrah/Tawaf round.md",
     "notes/islamic/omrah/Ramal.md",
@@ -285,7 +285,6 @@
     "notes/islamic/ghusl/When to Ghusl.md",
     "notes/islamic/salah/Shijda Tasbih.md",
     "notes/islamic/salah/Sana.md",
-    "notes/islamic/salah/Salah Fards.md",
     "sources/pdfs/WriteIvy - How To SOP.pdf",
     "assets/Pasted image 20251113055655.png",
     "assets/Pasted image 20251113050139.png",
