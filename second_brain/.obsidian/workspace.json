@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "2025-11-15"
             }
-          },
-          {
-            "id": "a0c58d7153f951ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/self-care/Sleep.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sleep"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,13 +228,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a0c58d7153f951ec",
+  "active": "f612c923fd319a67",
   "lastOpenFiles": [
+    "sources/pdfs/The Skin Care Bible.pdf",
+    "notes/self-care/Sleep.md",
     "sources/pdfs/The Sleep Solution.pdf",
     "sources/pdfs/The Circadian Code.pdf",
     "sources/pdfs/Why We Sleep.pdf",
     "inbox/Routine for better sleep.md",
-    "notes/self-care/Sleep.md",
     "inbox/Factors that Influence Sleep.md",
     "inbox/Sleep Stages.md",
     "notes/journal/daily/2025-11-15.md",
@@ -288,8 +274,6 @@
     "notes/self-care",
     "sources/clippings/claude",
     "sources/clippings/gemini",
-    "sources/pdfs/Building a Second Brain.pdf",
-    "sources/clippings/chatgpt",
-    "sources/pdfs/The Psychology of Money.pdf"
+    "sources/pdfs/Building a Second Brain.pdf"
   ]
 }
