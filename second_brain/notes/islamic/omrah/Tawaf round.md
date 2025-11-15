@@ -33,7 +33,9 @@ Which way do you face when doing a [[Tawaf round]]?
 [[Baytullah|Qaba]] must be on your left at all times.
 
 When you are doing Tawaf, ==[[Baytullah|Qaba]]==^[What][^1] must be on your ==left==^[left or right][^2].
+<!--SR:!2025-11-18,3,250!2000-01-01,1,250-->
 
 What should you do if your chest ever faces towards [[Baytullah|Qaba]] during Tawaf?
 ?
 Go back a few steps and then continue.
+<!--SR:!2025-11-18,3,250-->

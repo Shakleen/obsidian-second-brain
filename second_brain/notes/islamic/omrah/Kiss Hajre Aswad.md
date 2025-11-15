@@ -37,12 +37,16 @@ What should you recite after kissing [[Hajre Aswad]]?
 ?
 > Bismillahi allahu akbar.
 > **Meaning**: I'm praying for help while I start, in the name of Allah.
+<!--SR:!2025-11-18,3,250-->
 
 It's ==[[Mustahab]]==^[Sunnat or Mustahab][^1] to kiss [[Hajre Aswad]] ==3==^[How many][^2] times.
+<!--SR:!2025-11-18,3,250!2000-01-01,1,250-->
 
 It's mandatory to kiss [[Hajre Aswad]] 3 times. (==False==^[True or False])
+<!--SR:!2025-11-18,3,250-->
 
 You can kiss the silver covering around [[Hajre Aswad]]. (==False==^[True or False])
+<!--SR:!2025-11-18,3,250-->
 
 You can't make noise while kissing [[Hajre Aswad]]. (==True==^[True or False])
 

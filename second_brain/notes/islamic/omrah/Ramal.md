@@ -21,8 +21,9 @@ hubs:
 
 ## Flash Cards
 
-#flashcards/islamic 
+#flashcards/islamic
 It's ==Sunnat==^[Sunnat or Mustahab][^1] for ==males==^[males or females][^2] to do [[Ramal]] in the ==first==^[first or last][^3] ==3==^[how many][^4] rounds of Tawaf.
+<!--SR:!2025-11-16,1,230!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250-->
 
 How to [[Ramal]]?
 ?
