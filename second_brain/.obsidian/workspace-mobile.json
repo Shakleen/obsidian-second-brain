@@ -178,8 +178,7 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "9ab9a4f86888b534",
