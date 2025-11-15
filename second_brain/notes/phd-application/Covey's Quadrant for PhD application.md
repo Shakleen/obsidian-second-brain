@@ -50,7 +50,7 @@ No universities in this quadrant (crossed-out universities excluded)
 
 ## Universities sorted by Importance
 1. [[UT Dallas Score]]: 58 / 60
-2. [[Texas A&M University Score]]: 54 / 60
+2. ~~[[Texas A&M University Score]]: 54 / 60~~
 3. [[UT Arlington Score]]: 53 / 60
 4. [[UC Riverside Score]]: 51 / 60
 5. [[UC Davis Score]]: 50 / 60
@@ -96,4 +96,4 @@ No universities in this quadrant (crossed-out universities excluded)
 7. Jan 15
 	1. UC Merced
 8. Mar 15
-	1. Texas A&M University
+	1. ~~Texas A&M University~~

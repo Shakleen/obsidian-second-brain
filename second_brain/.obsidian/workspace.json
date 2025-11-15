@@ -29,16 +29,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/phd-application/Covey's Quadrant for PhD application.md",
-                "mode": "preview",
+                "file": "notes/journal/weekly/2025-W45.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Covey's Quadrant for PhD application"
+              "title": "2025-W45"
+            }
+          },
+          {
+            "id": "bb3abba47fbb2c3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/journal/daily/2025-11-15.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-15"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,11 +257,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cb317fea1daf94ce",
+  "active": "bb3abba47fbb2c3e",
   "lastOpenFiles": [
-    "notes/islamic/omrah/Tawaf round.md",
+    "notes/journal/daily/2025-11-14.md",
     "notes/journal/daily/2025-11-15.md",
     "notes/journal/weekly/2025-W45.md",
+    "notes/phd-application/Covey's Quadrant for PhD application.md",
+    "notes/islamic/omrah/Tawaf round.md",
     "notes/islamic/omrah/Ramal.md",
     "notes/islamic/omrah/Tawaf-e-Omrah.md",
     "assets/Pasted image 20251115063529.png",
@@ -257,8 +273,6 @@
     "notes/islamic/adhan/Adhan dua.md",
     "notes/islamic/Rules of entering a Mosque.md",
     "notes/islamic/omrah/Omrah.md",
-    "notes/journal/daily/2025-11-14.md",
-    "notes/phd-application/Covey's Quadrant for PhD application.md",
     "notes/phd-application/UC Davis.md",
     "notes/phd-application/UC Santa Barbara.md",
     "notes/islamic/omrah/Ijteba.md",
