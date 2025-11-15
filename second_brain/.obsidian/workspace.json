@@ -36,23 +36,9 @@
               "icon": "lucide-file",
               "title": "Sleep"
             }
-          },
-          {
-            "id": "8a51c53bb248dcac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/Routine for better sleep.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Routine for better sleep"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,10 +243,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8a51c53bb248dcac",
+  "active": "a0c58d7153f951ec",
   "lastOpenFiles": [
-    "notes/self-care/Sleep.md",
+    "sources/pdfs/The Sleep Solution.pdf",
+    "sources/pdfs/The Circadian Code.pdf",
+    "sources/pdfs/Why We Sleep.pdf",
     "inbox/Routine for better sleep.md",
+    "notes/self-care/Sleep.md",
     "inbox/Factors that Influence Sleep.md",
     "inbox/Sleep Stages.md",
     "notes/journal/daily/2025-11-15.md",
@@ -285,7 +274,6 @@
     "notes/islamic/omrah/Ehram supplication.md",
     "notes/islamic/omrah/Talbiya.md",
     "notes/islamic/omrah/Wajibs of Omrah.md",
-    "inbox/Omrah Flash Cards.md",
     "sources/pdfs/WriteIvy - How To SOP.pdf",
     "assets/Pasted image 20251113055655.png",
     "assets/Pasted image 20251113050139.png",
@@ -302,8 +290,6 @@
     "sources/clippings/gemini",
     "sources/pdfs/Building a Second Brain.pdf",
     "sources/clippings/chatgpt",
-    "sources/pdfs/The Psychology of Money.pdf",
-    "sources/pdfs/How to Win Friends and Influence People.pdf",
-    "sources/pdfs/How to Talk to Anyone.pdf"
+    "sources/pdfs/The Psychology of Money.pdf"
   ]
 }
