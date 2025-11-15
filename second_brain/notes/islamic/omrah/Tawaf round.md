@@ -12,6 +12,7 @@ hubs:
 > - Make sure your chest never faces [[Baytullah|Qaba]] while you walk. If it does for even a step or two, go back a few steps, and then continue.
 
 ## Process
+![[Pasted image 20251115063529.png]]
 - Starts from [[Hajre Aswad]] and move to [[Multajam]].
 - When you reach [[Multajam]] recite the following dua:
   > Allahumma enam bika wa tasdikam bitika, wa wafa'am bi'ahdika wa ittiba'an lisunnati nabiyika muhammadin sallallahu alaihi was'salam.
@@ -23,3 +24,16 @@ hubs:
 - Then recite the following dua, while going from [[Rukun-e-iyamin]] to [[Hajre Aswad]]:
   > Rabbana atina fid'duniya hasanatao, wafil akhirati hasanatao, wakina azabannar
   > O Allah, grant me blessings in this life and in the next life. And save me from the punishment in Jahannam.
+
+## Flash Cards
+
+#flashcards/islamic 
+Which way do you face when doing a [[Tawaf round]]?
+?
+[[Baytullah|Qaba]] must be on your left at all times.
+
+When you are doing Tawaf, ==[[Baytullah|Qaba]]==^[What][^1] must be on your ==left==^[left or right][^2].
+
+What should you do if your chest ever faces towards [[Baytullah|Qaba]] during Tawaf?
+?
+Go back a few steps and then continue.
