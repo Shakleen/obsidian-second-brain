@@ -31,7 +31,6 @@ hubs:
 |---|---|---|
 |UC Riverside|51/60|Jan 5|
 |UC Merced|50/60|Jan 15|
-|Texas A&M University|54/60|Mar 15|
 
 ## Quadrant III: Urgent & Not Important
 
