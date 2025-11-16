@@ -48,4 +48,4 @@ Process of entering [[Masjidul Haram]]
 3. When you gaze at [[Baytullah|Qaba]] recite the following 3 times:
 > Allahu akbar la ilaha illallahu
 > **Meaning**: Allah is almighty and there is no god except for Allah.
-<!--SR:!2025-11-16,1,230-->
+<!--SR:!2025-11-17,1,210-->
