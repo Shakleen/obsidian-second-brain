@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/islamic/omrah/Tawaf round.md",
+                "file": "notes/phd-application/My best hits for PhD.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tawaf round"
+              "title": "My best hits for PhD"
             }
           }
         ]
@@ -223,17 +223,18 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "82138d5455ad2b36",
   "lastOpenFiles": [
+    "notes/islamic/omrah/Tawaf round.md",
     "sources/pdfs/Knowledge Representation and Reasoning.pdf",
     "sources/pdfs/Recommender Systems The Textbook.pdf",
     "sources/pdfs/Transformers for Machine Learning.pdf",
     "sources/pdfs/Speech and Language Processing.pdf",
     "notes/islamic/omrah/Hatim.md",
-    "notes/islamic/omrah/Tawaf round.md",
     "notes/islamic/omrah/Hajre Aswad.md",
     "notes/islamic/omrah/Multajam.md",
     "inbox/Rukun-e-iyamin.md",
@@ -272,7 +273,6 @@
     "assets/Pasted image 20251111051310.png",
     "assets/Pasted image 20251110093046.png",
     "assets/Pasted image 20251109212518.png",
-    "sources/clippings/ai_chat",
-    "notes/self-care"
+    "sources/clippings/ai_chat"
   ]
 }
