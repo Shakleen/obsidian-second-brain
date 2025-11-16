@@ -37,11 +37,6 @@ hubs:
 ## Flash Cards
 
 #flashcards/islamic
-What is the prerequisite to perform [[Tawaf-e-Omrah]]?
-?
-[[Wudu]]
-<!--SR:!2025-11-17,3,250-->
-
 What should you do if your [[Wudu]] breaks at any time within the first 3 [[Tawaf round|Tawaf rounds]]?
 ?
 Redo [[Wudu]] and then it's [[Mustahab]] to start from the beginning.

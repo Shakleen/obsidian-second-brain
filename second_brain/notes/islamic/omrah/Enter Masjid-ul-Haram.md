@@ -41,6 +41,12 @@ The following 3 times:
 > **Meaning**: Allah is almighty and there is no god except for Allah.
 <!--SR:!2025-11-18,3,250-->
 
+How many times should you say the following when you gaze at [[Baytullah|Qaba]]?
+> Allahu akbar la ilaha illallahu
+> **Meaning**: Allah is almighty and there is no god except for Allah.
+?
+**Three** times
+
 Process of entering [[Masjidul Haram]]
 ?
 1. Enter through any door but try for **Babus Salam**, following the [[Rules of entering a Mosque]].

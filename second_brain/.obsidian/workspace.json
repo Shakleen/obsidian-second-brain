@@ -16,6 +16,20 @@
               "icon": "SpacedRepIcon",
               "title": "Spaced Repetition"
             }
+          },
+          {
+            "id": "82138d5455ad2b36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/islamic/omrah/Tawaf-e-Omrah.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tawaf-e-Omrah"
+            }
           }
         ]
       }
@@ -225,6 +239,7 @@
   },
   "active": "94d2c6a8e466d139",
   "lastOpenFiles": [
+    "notes/islamic/omrah/Enter Masjid-ul-Haram.md",
     "notes/journal/weekly/2025-W47.md",
     "notes/journal/daily/2025-11-16.md",
     "notes/phd-application/Covey's Quadrant for PhD application.md",
@@ -245,7 +260,6 @@
     "assets/Pasted image 20251115063529.png",
     "notes/islamic/omrah/Starting at Hajre Aswad.md",
     "notes/islamic/omrah/Kiss Hajre Aswad.md",
-    "notes/islamic/omrah/Enter Masjid-ul-Haram.md",
     "notes/islamic/adhan/Adhan dua.md",
     "notes/islamic/Rules of entering a Mosque.md",
     "notes/islamic/omrah/Omrah.md",
