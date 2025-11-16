@@ -229,6 +229,7 @@
   },
   "active": "82138d5455ad2b36",
   "lastOpenFiles": [
+    "sources/pdfs/Transformers for Machine Learning.pdf",
     "sources/pdfs/Speech and Language Processing.pdf",
     "notes/islamic/omrah/Hatim.md",
     "notes/islamic/omrah/Tawaf round.md",
@@ -273,7 +274,6 @@
     "sources/clippings/ai_chat",
     "notes/self-care",
     "sources/clippings/claude",
-    "sources/clippings/gemini",
-    "sources/pdfs/Building a Second Brain.pdf"
+    "sources/clippings/gemini"
   ]
 }
