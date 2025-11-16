@@ -229,6 +229,8 @@
   },
   "active": "82138d5455ad2b36",
   "lastOpenFiles": [
+    "sources/pdfs/Knowledge Representation and Reasoning.pdf",
+    "sources/pdfs/Recommender Systems The Textbook.pdf",
     "sources/pdfs/Transformers for Machine Learning.pdf",
     "sources/pdfs/Speech and Language Processing.pdf",
     "notes/islamic/omrah/Hatim.md",
@@ -272,8 +274,6 @@
     "assets/Pasted image 20251110093046.png",
     "assets/Pasted image 20251109212518.png",
     "sources/clippings/ai_chat",
-    "notes/self-care",
-    "sources/clippings/claude",
-    "sources/clippings/gemini"
+    "notes/self-care"
   ]
 }
