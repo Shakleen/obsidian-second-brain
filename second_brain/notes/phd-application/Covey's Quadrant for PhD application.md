@@ -13,15 +13,15 @@ hubs:
 
 |University|Score|Deadline|
 |---|---|---|
-|UC San Diego|49/60|Dec 1|
-|ASU|48/60|Dec 1|
-|University of Rochester|45/60|Dec 5|
 |New York University|49/60|Dec 12|
-|University of Colorado Boulder|47/60|Dec 15|
-|UC Santa Barbara|47/60|Dec 15|
-|UC Davis|50/60|Dec 15|
 |UT Dallas|58/60|Dec 15|
 |UT Arlington|53/60|Dec 15|
+|UC Davis|50/60|Dec 15|
+|University of Colorado Boulder|47/60|Dec 15|
+|UC Santa Barbara|47/60|Dec 15|
+|UC San Diego|49/60|Dec 17|
+|ASU|48/60|Dec 31|
+|University of Rochester|45/60|Jan 5|
 
 ## Quadrant II: Not Urgent & Important
 

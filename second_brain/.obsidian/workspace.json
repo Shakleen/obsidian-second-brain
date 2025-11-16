@@ -8,22 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f612c923fd319a67",
+            "id": "960def0eb73ef1d7",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/journal/daily/2025-11-15.md",
-                "mode": "preview",
+                "file": "notes/journal/weekly/2025-W47.md",
+                "mode": "source",
                 "source": true
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2025-11-15"
+              "title": "2025-W47"
+            }
+          },
+          {
+            "id": "461a948d1eca9119",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/phd-application/Covey's Quadrant for PhD application.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Covey's Quadrant for PhD application"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       },
       {
         "id": "6b8c74d18ddb48e5",
@@ -224,11 +239,15 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "f612c923fd319a67",
+  "active": "461a948d1eca9119",
   "lastOpenFiles": [
+    "notes/journal/weekly/2025-W47.md",
+    "notes/phd-application/Covey's Quadrant for PhD application.md",
+    "notes/journal/daily/2025-11-15.md",
     "sources/pdfs/The Skin Care Bible.pdf",
     "notes/self-care/Sleep.md",
     "sources/pdfs/The Sleep Solution.pdf",
@@ -237,10 +256,8 @@
     "inbox/Routine for better sleep.md",
     "inbox/Factors that Influence Sleep.md",
     "inbox/Sleep Stages.md",
-    "notes/journal/daily/2025-11-15.md",
     "notes/journal/weekly/2025-W45.md",
     "notes/journal/daily/2025-11-14.md",
-    "notes/phd-application/Covey's Quadrant for PhD application.md",
     "notes/islamic/omrah/Tawaf round.md",
     "notes/islamic/omrah/Ramal.md",
     "notes/islamic/omrah/Tawaf-e-Omrah.md",
