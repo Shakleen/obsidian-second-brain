@@ -7,6 +7,20 @@ tags:
 hubs:
   - "[[islamic]]"
 ---
-A sacred Islamic relic located in the eastern corner of the Kaaba in Mecca.
+A sacred Islamic rock located in the eastern corner of the Kaaba in Mecca.
 
 ![[Pasted image 20251111051310.png]]
+
+## Flash Cards
+
+#flashcards/islamic 
+What is [[Hajre Aswad]]?
+?
+A sacred Islamic rock located in the eastern corner of the Kaaba in Mecca.
+
+[[Hajre Aswad]] is located in the ==eastern==^[eastern or western or northern or southern] corner of the [[Baytullah|Qaba]] in Mecca.
+
+What is the name of the relic shown below?
+![[Pasted image 20251111051310.png]]
+?
+[[Hajre Aswad]]

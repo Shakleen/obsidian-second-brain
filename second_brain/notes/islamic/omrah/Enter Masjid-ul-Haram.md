@@ -46,6 +46,7 @@ How many times should you say the following when you gaze at [[Baytullah|Qaba]]?
 > **Meaning**: Allah is almighty and there is no god except for Allah.
 ?
 **Three** times
+<!--SR:!2025-11-18,2,247-->
 
 Process of entering [[Masjidul Haram]]
 ?
