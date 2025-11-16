@@ -21,7 +21,7 @@ To perform Omrah once in one's life time is [[Sunnat-e-Muakkadah]].
 ## Flash Cards
 
 #flashcards/islamic
-What are the 4 [[Amal|Amals]] of [[Omrah]]?
+What are the 4 mandatory [[Amal|Amals]] of [[Omrah]]?
 ?
 1. [[Ehram]]
 2. [[Tawaf-e-Omrah]]

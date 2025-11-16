@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6dcf066cd26d2302",
+        "id": "a05c467fb3e4bd68",
         "type": "tabs",
         "children": [
           {
-            "id": "fba30b80861a8e35",
+            "id": "94d2c6a8e466d139",
             "type": "leaf",
             "state": {
               "type": "spaced-repetition-tab-view",
@@ -201,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,7 +223,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fba30b80861a8e35",
+  "active": "94d2c6a8e466d139",
   "lastOpenFiles": [
     "notes/journal/weekly/2025-W47.md",
     "notes/journal/daily/2025-11-16.md",
