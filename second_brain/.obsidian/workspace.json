@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/islamic/omrah/Hatim.md",
-                "mode": "source",
+                "file": "notes/islamic/omrah/Tawaf round.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Hatim"
+              "title": "Tawaf round"
             }
           }
         ]
@@ -229,9 +229,12 @@
   },
   "active": "82138d5455ad2b36",
   "lastOpenFiles": [
+    "notes/islamic/omrah/Hatim.md",
     "notes/islamic/omrah/Tawaf round.md",
     "notes/islamic/omrah/Hajre Aswad.md",
     "notes/islamic/omrah/Multajam.md",
+    "inbox/Rukun-e-iyamin.md",
+    "assets/Pasted image 20251116072543.png",
     "notes/islamic/omrah/Tawaf-e-Omrah.md",
     "notes/phd-application/What is my PhD research goal.md",
     "inbox/Untitled.md",
@@ -257,9 +260,6 @@
     "notes/islamic/adhan/Adhan dua.md",
     "notes/islamic/Rules of entering a Mosque.md",
     "notes/islamic/omrah/Omrah.md",
-    "notes/phd-application/UC Davis.md",
-    "notes/phd-application/UC Santa Barbara.md",
-    "notes/islamic/omrah/Ijteba.md",
     "sources/pdfs/WriteIvy - How To SOP.pdf",
     "assets/Pasted image 20251113055655.png",
     "assets/Pasted image 20251113050139.png",
@@ -269,7 +269,6 @@
     "assets/Pasted image 20251111051310.png",
     "assets/Pasted image 20251110093046.png",
     "assets/Pasted image 20251109212518.png",
-    "assets/Pasted image 20251109212413.png",
     "sources/clippings/ai_chat",
     "notes/self-care",
     "sources/clippings/claude",

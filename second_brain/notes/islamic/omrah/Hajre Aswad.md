@@ -18,7 +18,7 @@ What is [[Hajre Aswad]]?
 ?
 A sacred Islamic rock located in the eastern corner of the Kaaba in Mecca.
 
-[[Hajre Aswad]] is located in the ==eastern==^[eastern or western or northern or southern] corner of the [[Baytullah|Qaba]] in Mecca.
+[[Hajre Aswad]] is located in the ==eastern==^[which] corner of the [[Baytullah|Qaba]] in Mecca.
 
 What is the name of the relic shown below?
 ![[Pasted image 20251111051310.png]]
